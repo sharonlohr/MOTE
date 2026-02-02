@@ -1,0 +1,1519 @@
+sampid,type,subgroup_category,benchmark_category,benchmark_source,response_rate,n,phat,p0,v0
+Opt-in 1,nonprob,18-29,Food allergy,2010 NHANES,0,1170,0.246207486,0.085052307,6.26E-05
+Opt-in 2,nonprob,18-29,Food allergy,2010 NHANES,0,1031,0.217706311,0.085052307,6.26E-05
+Opt-in 3,nonprob,18-29,Food allergy,2010 NHANES,0,693,0.225962614,0.085052307,6.26E-05
+Probability 1,prob,18-29,Food allergy,2010 NHANES,1.4,585,0.14897625,0.085052307,6.26E-05
+Probability 2,prob,18-29,Food allergy,2010 NHANES,3,655,0.126690867,0.085052307,6.26E-05
+Probability 3,prob,18-29,Food allergy,2010 NHANES,7,363,0.164977064,0.085052307,6.26E-05
+Opt-in 1,nonprob,30-64,Food allergy,2010 NHANES,0,2637,0.157743215,0.095614346,3.30E-05
+Opt-in 2,nonprob,30-64,Food allergy,2010 NHANES,0,2564,0.158928878,0.095614346,3.30E-05
+Opt-in 3,nonprob,30-64,Food allergy,2010 NHANES,0,3087,0.13201634,0.095614346,3.30E-05
+Probability 1,prob,30-64,Food allergy,2010 NHANES,1.4,3010,0.118971631,0.095614346,3.30E-05
+Probability 2,prob,30-64,Food allergy,2010 NHANES,3,3192,0.132452972,0.095614346,3.30E-05
+Probability 3,prob,30-64,Food allergy,2010 NHANES,7,3195,0.123694514,0.095614346,3.30E-05
+Opt-in 1,nonprob,65+,Food allergy,2010 NHANES,0,1105,0.096136932,0.098615376,8.12E-05
+Opt-in 2,nonprob,65+,Food allergy,2010 NHANES,0,1336,0.096804065,0.098615376,8.12E-05
+Opt-in 3,nonprob,65+,Food allergy,2010 NHANES,0,1175,0.104157028,0.098615376,8.12E-05
+Probability 1,prob,65+,Food allergy,2010 NHANES,1.4,1432,0.108600141,0.098615376,8.12E-05
+Probability 2,prob,65+,Food allergy,2010 NHANES,3,1261,0.118212294,0.098615376,8.12E-05
+Probability 3,prob,65+,Food allergy,2010 NHANES,7,1400,0.111152117,0.098615376,8.12E-05
+Opt-in 1,nonprob,College grad,Food allergy,2010 NHANES,0,1598,0.201096751,0.10653299,0.000125748
+Opt-in 2,nonprob,College grad,Food allergy,2010 NHANES,0,1953,0.175028725,0.10653299,0.000125748
+Opt-in 3,nonprob,College grad,Food allergy,2010 NHANES,0,1799,0.122925325,0.10653299,0.000125748
+Probability 1,prob,College grad,Food allergy,2010 NHANES,1.4,1867,0.134675554,0.10653299,0.000125748
+Probability 2,prob,College grad,Food allergy,2010 NHANES,3,2147,0.138504848,0.10653299,0.000125748
+Probability 3,prob,College grad,Food allergy,2010 NHANES,7,2166,0.143314585,0.10653299,0.000125748
+Opt-in 1,nonprob,HS or less,Food allergy,2010 NHANES,0,1756,0.124037375,0.071872781,3.47E-05
+Opt-in 2,nonprob,HS or less,Food allergy,2010 NHANES,0,1439,0.145767467,0.071872781,3.47E-05
+Opt-in 3,nonprob,HS or less,Food allergy,2010 NHANES,0,1511,0.152969096,0.071872781,3.47E-05
+Probability 1,prob,HS or less,Food allergy,2010 NHANES,1.4,1617,0.103964222,0.071872781,3.47E-05
+Probability 2,prob,HS or less,Food allergy,2010 NHANES,3,1628,0.109494598,0.071872781,3.47E-05
+Probability 3,prob,HS or less,Food allergy,2010 NHANES,7,1054,0.095421961,0.071872781,3.47E-05
+Opt-in 1,nonprob,Some college,Food allergy,2010 NHANES,0,1558,0.168514519,0.115578431,6.50E-05
+Opt-in 2,nonprob,Some college,Food allergy,2010 NHANES,0,1539,0.15415677,0.115578431,6.50E-05
+Opt-in 3,nonprob,Some college,Food allergy,2010 NHANES,0,1645,0.156031585,0.115578431,6.50E-05
+Probability 1,prob,Some college,Food allergy,2010 NHANES,1.4,1543,0.134420155,0.115578431,6.50E-05
+Probability 2,prob,Some college,Food allergy,2010 NHANES,3,1363,0.145526027,0.115578431,6.50E-05
+Probability 3,prob,Some college,Food allergy,2010 NHANES,7,1743,0.148549696,0.115578431,6.50E-05
+Opt-in 1,nonprob,All adults,Food allergy,2010 NHANES,0,4912,0.162229826,0.09384255,2.06E-05
+Opt-in 2,nonprob,All adults,Food allergy,2010 NHANES,0,4931,0.157659483,0.09384255,2.06E-05
+Opt-in 3,nonprob,All adults,Food allergy,2010 NHANES,0,4955,0.144068346,0.09384255,2.06E-05
+Probability 1,prob,All adults,Food allergy,2010 NHANES,1.4,5027,0.123040003,0.09384255,2.06E-05
+Probability 2,prob,All adults,Food allergy,2010 NHANES,3,5147,0.129562892,0.09384255,2.06E-05
+Probability 3,prob,All adults,Food allergy,2010 NHANES,7,4965,0.128113019,0.09384255,2.06E-05
+Opt-in 1,nonprob,Black non-Hispanic,Food allergy,2010 NHANES,0,656,0.184354777,0.120295509,0.000168667
+Opt-in 2,nonprob,Black non-Hispanic,Food allergy,2010 NHANES,0,676,0.153839414,0.120295509,0.000168667
+Opt-in 3,nonprob,Black non-Hispanic,Food allergy,2010 NHANES,0,623,0.189960657,0.120295509,0.000168667
+Probability 1,prob,Black non-Hispanic,Food allergy,2010 NHANES,1.4,470,0.158435382,0.120295509,0.000168667
+Probability 2,prob,Black non-Hispanic,Food allergy,2010 NHANES,3,529,0.150874953,0.120295509,0.000168667
+Probability 3,prob,Black non-Hispanic,Food allergy,2010 NHANES,7,422,0.157790118,0.120295509,0.000168667
+Opt-in 1,nonprob,Hispanic,Food allergy,2010 NHANES,0,904,0.243931241,0.081753348,0.000105865
+Opt-in 2,nonprob,Hispanic,Food allergy,2010 NHANES,0,852,0.227649135,0.081753348,0.000105865
+Opt-in 3,nonprob,Hispanic,Food allergy,2010 NHANES,0,884,0.246233343,0.081753348,0.000105865
+Probability 1,prob,Hispanic,Food allergy,2010 NHANES,1.4,575,0.108900484,0.081753348,0.000105865
+Probability 2,prob,Hispanic,Food allergy,2010 NHANES,3,809,0.09831274,0.081753348,0.000105865
+Probability 3,prob,Hispanic,Food allergy,2010 NHANES,7,318,0.152945712,0.081753348,0.000105865
+Opt-in 1,nonprob,White non-Hispanic,Food allergy,2010 NHANES,0,3079,0.135117263,0.093058557,4.06E-05
+Opt-in 2,nonprob,White non-Hispanic,Food allergy,2010 NHANES,0,3245,0.14038096,0.093058557,4.06E-05
+Opt-in 3,nonprob,White non-Hispanic,Food allergy,2010 NHANES,0,3148,0.112152406,0.093058557,4.06E-05
+Probability 1,prob,White non-Hispanic,Food allergy,2010 NHANES,1.4,3596,0.121134036,0.093058557,4.06E-05
+Probability 2,prob,White non-Hispanic,Food allergy,2010 NHANES,3,3362,0.131847545,0.093058557,4.06E-05
+Probability 3,prob,White non-Hispanic,Food allergy,2010 NHANES,7,3851,0.122053336,0.093058557,4.06E-05
+Opt-in 1,nonprob,18-29,High blood pressure,2020 NHIS,0,1170,0.230749763,0.063134956,2.57E-05
+Opt-in 2,nonprob,18-29,High blood pressure,2020 NHIS,0,1031,0.226141353,0.063134956,2.57E-05
+Opt-in 3,nonprob,18-29,High blood pressure,2020 NHIS,0,693,0.208610536,0.063134956,2.57E-05
+Probability 1,prob,18-29,High blood pressure,2020 NHIS,1.4,585,0.069904403,0.063134956,2.57E-05
+Probability 2,prob,18-29,High blood pressure,2020 NHIS,3,655,0.133251892,0.063134956,2.57E-05
+Probability 3,prob,18-29,High blood pressure,2020 NHIS,7,363,0.059698852,0.063134956,2.57E-05
+Opt-in 1,nonprob,30-64,High blood pressure,2020 NHIS,0,2637,0.379800855,0.287280306,2.07E-05
+Opt-in 2,nonprob,30-64,High blood pressure,2020 NHIS,0,2564,0.365945576,0.287280306,2.07E-05
+Opt-in 3,nonprob,30-64,High blood pressure,2020 NHIS,0,3087,0.324814549,0.287280306,2.07E-05
+Probability 1,prob,30-64,High blood pressure,2020 NHIS,1.4,3010,0.288708516,0.287280306,2.07E-05
+Probability 2,prob,30-64,High blood pressure,2020 NHIS,3,3192,0.34046994,0.287280306,2.07E-05
+Probability 3,prob,30-64,High blood pressure,2020 NHIS,7,3195,0.308914634,0.287280306,2.07E-05
+Opt-in 1,nonprob,65+,High blood pressure,2020 NHIS,0,1105,0.580592963,0.610729284,3.79E-05
+Opt-in 2,nonprob,65+,High blood pressure,2020 NHIS,0,1336,0.531208561,0.610729284,3.79E-05
+Opt-in 3,nonprob,65+,High blood pressure,2020 NHIS,0,1175,0.58114687,0.610729284,3.79E-05
+Probability 1,prob,65+,High blood pressure,2020 NHIS,1.4,1432,0.565849012,0.610729284,3.79E-05
+Probability 2,prob,65+,High blood pressure,2020 NHIS,3,1261,0.589326,0.610729284,3.79E-05
+Probability 3,prob,65+,High blood pressure,2020 NHIS,7,1400,0.616177812,0.610729284,3.79E-05
+Opt-in 1,nonprob,College grad,High blood pressure,2020 NHIS,0,1598,0.366003818,0.246504077,2.31E-05
+Opt-in 2,nonprob,College grad,High blood pressure,2020 NHIS,0,1953,0.362595891,0.246504077,2.31E-05
+Opt-in 3,nonprob,College grad,High blood pressure,2020 NHIS,0,1799,0.31769221,0.246504077,2.31E-05
+Probability 1,prob,College grad,High blood pressure,2020 NHIS,1.4,1867,0.25863197,0.246504077,2.31E-05
+Probability 2,prob,College grad,High blood pressure,2020 NHIS,3,2147,0.27555093,0.246504077,2.31E-05
+Probability 3,prob,College grad,High blood pressure,2020 NHIS,7,2166,0.281921984,0.246504077,2.31E-05
+Opt-in 1,nonprob,HS or less,High blood pressure,2020 NHIS,0,1756,0.413235161,0.357610775,4.22E-05
+Opt-in 2,nonprob,HS or less,High blood pressure,2020 NHIS,0,1439,0.388804139,0.357610775,4.22E-05
+Opt-in 3,nonprob,HS or less,High blood pressure,2020 NHIS,0,1511,0.393590231,0.357610775,4.22E-05
+Probability 1,prob,HS or less,High blood pressure,2020 NHIS,1.4,1617,0.339993746,0.357610775,4.22E-05
+Probability 2,prob,HS or less,High blood pressure,2020 NHIS,3,1628,0.436898083,0.357610775,4.22E-05
+Probability 3,prob,HS or less,High blood pressure,2020 NHIS,7,1054,0.403143193,0.357610775,4.22E-05
+Opt-in 1,nonprob,Some college,High blood pressure,2020 NHIS,0,1558,0.397193102,0.311408352,3.18E-05
+Opt-in 2,nonprob,Some college,High blood pressure,2020 NHIS,0,1539,0.363743549,0.311408352,3.18E-05
+Opt-in 3,nonprob,Some college,High blood pressure,2020 NHIS,0,1645,0.359940108,0.311408352,3.18E-05
+Probability 1,prob,Some college,High blood pressure,2020 NHIS,1.4,1543,0.299263648,0.311408352,3.18E-05
+Probability 2,prob,Some college,High blood pressure,2020 NHIS,3,1363,0.330089309,0.311408352,3.18E-05
+Probability 3,prob,Some college,High blood pressure,2020 NHIS,7,1743,0.311382857,0.311408352,3.18E-05
+Opt-in 1,nonprob,All adults,High blood pressure,2020 NHIS,0,4912,0.39329698,0.311169946,1.34E-05
+Opt-in 2,nonprob,All adults,High blood pressure,2020 NHIS,0,4931,0.372767689,0.311169946,1.34E-05
+Opt-in 3,nonprob,All adults,High blood pressure,2020 NHIS,0,4955,0.358224981,0.311169946,1.34E-05
+Probability 1,prob,All adults,High blood pressure,2020 NHIS,1.4,5027,0.301698665,0.311169946,1.34E-05
+Probability 2,prob,All adults,High blood pressure,2020 NHIS,3,5147,0.353121948,0.311169946,1.34E-05
+Probability 3,prob,All adults,High blood pressure,2020 NHIS,7,4965,0.334348639,0.311169946,1.34E-05
+Opt-in 1,nonprob,Black non-Hispanic,High blood pressure,2020 NHIS,0,656,0.366393372,0.398194611,0.000133085
+Opt-in 2,nonprob,Black non-Hispanic,High blood pressure,2020 NHIS,0,676,0.337039754,0.398194611,0.000133085
+Opt-in 3,nonprob,Black non-Hispanic,High blood pressure,2020 NHIS,0,623,0.344570935,0.398194611,0.000133085
+Probability 1,prob,Black non-Hispanic,High blood pressure,2020 NHIS,1.4,470,0.391319505,0.398194611,0.000133085
+Probability 2,prob,Black non-Hispanic,High blood pressure,2020 NHIS,3,529,0.451092254,0.398194611,0.000133085
+Probability 3,prob,Black non-Hispanic,High blood pressure,2020 NHIS,7,422,0.432351996,0.398194611,0.000133085
+Opt-in 1,nonprob,Hispanic,High blood pressure,2020 NHIS,0,904,0.341584786,0.229858821,7.72E-05
+Opt-in 2,nonprob,Hispanic,High blood pressure,2020 NHIS,0,852,0.332463172,0.229858821,7.72E-05
+Opt-in 3,nonprob,Hispanic,High blood pressure,2020 NHIS,0,884,0.306640283,0.229858821,7.72E-05
+Probability 1,prob,Hispanic,High blood pressure,2020 NHIS,1.4,575,0.220613092,0.229858821,7.72E-05
+Probability 2,prob,Hispanic,High blood pressure,2020 NHIS,3,809,0.283927305,0.229858821,7.72E-05
+Probability 3,prob,Hispanic,High blood pressure,2020 NHIS,7,318,0.19758566,0.229858821,7.72E-05
+Opt-in 1,nonprob,White non-Hispanic,High blood pressure,2020 NHIS,0,3079,0.426047259,0.323200296,1.75E-05
+Opt-in 2,nonprob,White non-Hispanic,High blood pressure,2020 NHIS,0,3245,0.39614244,0.323200296,1.75E-05
+Opt-in 3,nonprob,White non-Hispanic,High blood pressure,2020 NHIS,0,3148,0.376503654,0.323200296,1.75E-05
+Probability 1,prob,White non-Hispanic,High blood pressure,2020 NHIS,1.4,3596,0.314939846,0.323200296,1.75E-05
+Probability 2,prob,White non-Hispanic,High blood pressure,2020 NHIS,3,3362,0.373009496,0.323200296,1.75E-05
+Probability 3,prob,White non-Hispanic,High blood pressure,2020 NHIS,7,3851,0.354790216,0.323200296,1.75E-05
+Opt-in 1,nonprob,18-29,Parent of child in household,2020 NHIS,0,1170,0.262677937,0.157446982,5.46E-05
+Opt-in 2,nonprob,18-29,Parent of child in household,2020 NHIS,0,1031,0.261025644,0.157446982,5.46E-05
+Opt-in 3,nonprob,18-29,Parent of child in household,2020 NHIS,0,693,0.179716078,0.157446982,5.46E-05
+Probability 1,prob,18-29,Parent of child in household,2020 NHIS,1.4,585,0.16703165,0.157446982,5.46E-05
+Probability 2,prob,18-29,Parent of child in household,2020 NHIS,3,655,0.203989101,0.157446982,5.46E-05
+Probability 3,prob,18-29,Parent of child in household,2020 NHIS,7,363,0.176995307,0.157446982,5.46E-05
+Opt-in 1,nonprob,30-64,Parent of child in household,2020 NHIS,0,2637,0.342946196,0.391934797,2.63E-05
+Opt-in 2,nonprob,30-64,Parent of child in household,2020 NHIS,0,2564,0.34101849,0.391934797,2.63E-05
+Opt-in 3,nonprob,30-64,Parent of child in household,2020 NHIS,0,3087,0.307636086,0.391934797,2.63E-05
+Probability 1,prob,30-64,Parent of child in household,2020 NHIS,1.4,3010,0.357691967,0.391934797,2.63E-05
+Probability 2,prob,30-64,Parent of child in household,2020 NHIS,3,3192,0.395988216,0.391934797,2.63E-05
+Probability 3,prob,30-64,Parent of child in household,2020 NHIS,7,3195,0.360707733,0.391934797,2.63E-05
+Opt-in 1,nonprob,65+,Parent of child in household,2020 NHIS,0,1105,0.02076248,0.007588671,1.32E-06
+Opt-in 2,nonprob,65+,Parent of child in household,2020 NHIS,0,1336,0.01574562,0.007588671,1.32E-06
+Opt-in 3,nonprob,65+,Parent of child in household,2020 NHIS,0,1175,0.008454613,0.007588671,1.32E-06
+Probability 1,prob,65+,Parent of child in household,2020 NHIS,1.4,1432,0.008307061,0.007588671,1.32E-06
+Probability 2,prob,65+,Parent of child in household,2020 NHIS,3,1261,0.024463153,0.007588671,1.32E-06
+Probability 3,prob,65+,Parent of child in household,2020 NHIS,7,1400,0.009962817,0.007588671,1.32E-06
+Opt-in 1,nonprob,College grad,Parent of child in household,2020 NHIS,0,1598,0.323903986,0.313488572,3.06E-05
+Opt-in 2,nonprob,College grad,Parent of child in household,2020 NHIS,0,1953,0.331759381,0.313488572,3.06E-05
+Opt-in 3,nonprob,College grad,Parent of child in household,2020 NHIS,0,1799,0.307042688,0.313488572,3.06E-05
+Probability 1,prob,College grad,Parent of child in household,2020 NHIS,1.4,1867,0.297498366,0.313488572,3.06E-05
+Probability 2,prob,College grad,Parent of child in household,2020 NHIS,3,2147,0.311085485,0.313488572,3.06E-05
+Probability 3,prob,College grad,Parent of child in household,2020 NHIS,7,2166,0.294342744,0.313488572,3.06E-05
+Opt-in 1,nonprob,HS or less,Parent of child in household,2020 NHIS,0,1756,0.214336567,0.237544569,3.64E-05
+Opt-in 2,nonprob,HS or less,Parent of child in household,2020 NHIS,0,1439,0.197394252,0.237544569,3.64E-05
+Opt-in 3,nonprob,HS or less,Parent of child in household,2020 NHIS,0,1511,0.135594798,0.237544569,3.64E-05
+Probability 1,prob,HS or less,Parent of child in household,2020 NHIS,1.4,1617,0.204306242,0.237544569,3.64E-05
+Probability 2,prob,HS or less,Parent of child in household,2020 NHIS,3,1628,0.264495406,0.237544569,3.64E-05
+Probability 3,prob,HS or less,Parent of child in household,2020 NHIS,7,1054,0.208426509,0.237544569,3.64E-05
+Opt-in 1,nonprob,Some college,Parent of child in household,2020 NHIS,0,1558,0.239304131,0.241185718,3.43E-05
+Opt-in 2,nonprob,Some college,Parent of child in household,2020 NHIS,0,1539,0.241369379,0.241185718,3.43E-05
+Opt-in 3,nonprob,Some college,Parent of child in household,2020 NHIS,0,1645,0.219091467,0.241185718,3.43E-05
+Probability 1,prob,Some college,Parent of child in household,2020 NHIS,1.4,1543,0.237106535,0.241185718,3.43E-05
+Probability 2,prob,Some college,Parent of child in household,2020 NHIS,3,1363,0.26089948,0.241185718,3.43E-05
+Probability 3,prob,Some college,Parent of child in household,2020 NHIS,7,1743,0.253694895,0.241185718,3.43E-05
+Opt-in 1,nonprob,All adults,Parent of child in household,2020 NHIS,0,4912,0.256800426,0.260411761,1.23E-05
+Opt-in 2,nonprob,All adults,Parent of child in household,2020 NHIS,0,4931,0.253674668,0.260411761,1.23E-05
+Opt-in 3,nonprob,All adults,Parent of child in household,2020 NHIS,0,4955,0.217811151,0.260411761,1.23E-05
+Probability 1,prob,All adults,Parent of child in household,2020 NHIS,1.4,5027,0.243925622,0.260411761,1.23E-05
+Probability 2,prob,All adults,Parent of child in household,2020 NHIS,3,5147,0.279065086,0.260411761,1.23E-05
+Probability 3,prob,All adults,Parent of child in household,2020 NHIS,7,4965,0.251426864,0.260411761,1.23E-05
+Opt-in 1,nonprob,Black non-Hispanic,Parent of child in household,2020 NHIS,0,656,0.295446713,0.256922285,0.000114767
+Opt-in 2,nonprob,Black non-Hispanic,Parent of child in household,2020 NHIS,0,676,0.194448415,0.256922285,0.000114767
+Opt-in 3,nonprob,Black non-Hispanic,Parent of child in household,2020 NHIS,0,623,0.186935235,0.256922285,0.000114767
+Probability 1,prob,Black non-Hispanic,Parent of child in household,2020 NHIS,1.4,470,0.263920195,0.256922285,0.000114767
+Probability 2,prob,Black non-Hispanic,Parent of child in household,2020 NHIS,3,529,0.245645999,0.256922285,0.000114767
+Probability 3,prob,Black non-Hispanic,Parent of child in household,2020 NHIS,7,422,0.280487022,0.256922285,0.000114767
+Opt-in 1,nonprob,Hispanic,Parent of child in household,2020 NHIS,0,904,0.416146535,0.357245837,0.000101931
+Opt-in 2,nonprob,Hispanic,Parent of child in household,2020 NHIS,0,852,0.303070425,0.357245837,0.000101931
+Opt-in 3,nonprob,Hispanic,Parent of child in household,2020 NHIS,0,884,0.26244456,0.357245837,0.000101931
+Probability 1,prob,Hispanic,Parent of child in household,2020 NHIS,1.4,575,0.33027364,0.357245837,0.000101931
+Probability 2,prob,Hispanic,Parent of child in household,2020 NHIS,3,809,0.431539566,0.357245837,0.000101931
+Probability 3,prob,Hispanic,Parent of child in household,2020 NHIS,7,318,0.358562589,0.357245837,0.000101931
+Opt-in 1,nonprob,White non-Hispanic,Parent of child in household,2020 NHIS,0,3079,0.212407117,0.230642341,1.53E-05
+Opt-in 2,nonprob,White non-Hispanic,Parent of child in household,2020 NHIS,0,3245,0.262442562,0.230642341,1.53E-05
+Opt-in 3,nonprob,White non-Hispanic,Parent of child in household,2020 NHIS,0,3148,0.206541535,0.230642341,1.53E-05
+Probability 1,prob,White non-Hispanic,Parent of child in household,2020 NHIS,1.4,3596,0.211520073,0.230642341,1.53E-05
+Probability 2,prob,White non-Hispanic,Parent of child in household,2020 NHIS,3,3362,0.243909591,0.230642341,1.53E-05
+Probability 3,prob,White non-Hispanic,Parent of child in household,2020 NHIS,7,3851,0.216431703,0.230642341,1.53E-05
+Opt-in 1,nonprob,18-29,Covered by health insurance,2020 NHIS,0,1170,0.785629188,0.860706535,6.62E-05
+Opt-in 2,nonprob,18-29,Covered by health insurance,2020 NHIS,0,1031,0.757354637,0.860706535,6.62E-05
+Opt-in 3,nonprob,18-29,Covered by health insurance,2020 NHIS,0,693,0.769045781,0.860706535,6.62E-05
+Probability 1,prob,18-29,Covered by health insurance,2020 NHIS,1.4,585,0.84723928,0.860706535,6.62E-05
+Probability 2,prob,18-29,Covered by health insurance,2020 NHIS,3,655,0.777286112,0.860706535,6.62E-05
+Probability 3,prob,18-29,Covered by health insurance,2020 NHIS,7,363,0.842229695,0.860706535,6.62E-05
+Opt-in 1,nonprob,30-64,Covered by health insurance,2020 NHIS,0,2637,0.851034466,0.895332538,1.67E-05
+Opt-in 2,nonprob,30-64,Covered by health insurance,2020 NHIS,0,2564,0.854384594,0.895332538,1.67E-05
+Opt-in 3,nonprob,30-64,Covered by health insurance,2020 NHIS,0,3087,0.866256246,0.895332538,1.67E-05
+Probability 1,prob,30-64,Covered by health insurance,2020 NHIS,1.4,3010,0.886696601,0.895332538,1.67E-05
+Probability 2,prob,30-64,Covered by health insurance,2020 NHIS,3,3192,0.867792399,0.895332538,1.67E-05
+Probability 3,prob,30-64,Covered by health insurance,2020 NHIS,7,3195,0.868831288,0.895332538,1.67E-05
+Opt-in 1,nonprob,65+,Covered by health insurance,2020 NHIS,0,1105,0.98434742,0.985529389,3.45E-06
+Opt-in 2,nonprob,65+,Covered by health insurance,2020 NHIS,0,1336,0.977172436,0.985529389,3.45E-06
+Opt-in 3,nonprob,65+,Covered by health insurance,2020 NHIS,0,1175,0.977782019,0.985529389,3.45E-06
+Probability 1,prob,65+,Covered by health insurance,2020 NHIS,1.4,1432,0.975939836,0.985529389,3.45E-06
+Probability 2,prob,65+,Covered by health insurance,2020 NHIS,3,1261,0.979752313,0.985529389,3.45E-06
+Probability 3,prob,65+,Covered by health insurance,2020 NHIS,7,1400,0.977933939,0.985529389,3.45E-06
+Opt-in 1,nonprob,College grad,Covered by health insurance,2020 NHIS,0,1598,0.928876022,0.967161176,5.00E-06
+Opt-in 2,nonprob,College grad,Covered by health insurance,2020 NHIS,0,1953,0.921549123,0.967161176,5.00E-06
+Opt-in 3,nonprob,College grad,Covered by health insurance,2020 NHIS,0,1799,0.936901408,0.967161176,5.00E-06
+Probability 1,prob,College grad,Covered by health insurance,2020 NHIS,1.4,1867,0.969785435,0.967161176,5.00E-06
+Probability 2,prob,College grad,Covered by health insurance,2020 NHIS,3,2147,0.95236619,0.967161176,5.00E-06
+Probability 3,prob,College grad,Covered by health insurance,2020 NHIS,7,2166,0.963275274,0.967161176,5.00E-06
+Opt-in 1,nonprob,HS or less,Covered by health insurance,2020 NHIS,0,1756,0.801338435,0.857038271,3.97E-05
+Opt-in 2,nonprob,HS or less,Covered by health insurance,2020 NHIS,0,1439,0.808168936,0.857038271,3.97E-05
+Opt-in 3,nonprob,HS or less,Covered by health insurance,2020 NHIS,0,1511,0.828225529,0.857038271,3.97E-05
+Probability 1,prob,HS or less,Covered by health insurance,2020 NHIS,1.4,1617,0.830239457,0.857038271,3.97E-05
+Probability 2,prob,HS or less,Covered by health insurance,2020 NHIS,3,1628,0.813305041,0.857038271,3.97E-05
+Probability 3,prob,HS or less,Covered by health insurance,2020 NHIS,7,1054,0.814710099,0.857038271,3.97E-05
+Opt-in 1,nonprob,Some college,Covered by health insurance,2020 NHIS,0,1558,0.882127852,0.920277164,1.86E-05
+Opt-in 2,nonprob,Some college,Covered by health insurance,2020 NHIS,0,1539,0.862277315,0.920277164,1.86E-05
+Opt-in 3,nonprob,Some college,Covered by health insurance,2020 NHIS,0,1645,0.853693396,0.920277164,1.86E-05
+Probability 1,prob,Some college,Covered by health insurance,2020 NHIS,1.4,1543,0.904767756,0.920277164,1.86E-05
+Probability 2,prob,Some college,Covered by health insurance,2020 NHIS,3,1363,0.872096646,0.920277164,1.86E-05
+Probability 3,prob,Some college,Covered by health insurance,2020 NHIS,7,1743,0.893929113,0.920277164,1.86E-05
+Opt-in 1,nonprob,All adults,Covered by health insurance,2020 NHIS,0,4912,0.866769501,0.907895157,1.11E-05
+Opt-in 2,nonprob,All adults,Covered by health insurance,2020 NHIS,0,4931,0.860877384,0.907895157,1.11E-05
+Opt-in 3,nonprob,All adults,Covered by health insurance,2020 NHIS,0,4955,0.871794963,0.907895157,1.11E-05
+Probability 1,prob,All adults,Covered by health insurance,2020 NHIS,1.4,5027,0.897351536,0.907895157,1.11E-05
+Probability 2,prob,All adults,Covered by health insurance,2020 NHIS,3,5147,0.873894988,0.907895157,1.11E-05
+Probability 3,prob,All adults,Covered by health insurance,2020 NHIS,7,4965,0.888514405,0.907895157,1.11E-05
+Opt-in 1,nonprob,Black non-Hispanic,Covered by health insurance,2020 NHIS,0,656,0.781481047,0.889834319,7.93E-05
+Opt-in 2,nonprob,Black non-Hispanic,Covered by health insurance,2020 NHIS,0,676,0.771293362,0.889834319,7.93E-05
+Opt-in 3,nonprob,Black non-Hispanic,Covered by health insurance,2020 NHIS,0,623,0.836663749,0.889834319,7.93E-05
+Probability 1,prob,Black non-Hispanic,Covered by health insurance,2020 NHIS,1.4,470,0.910580876,0.889834319,7.93E-05
+Probability 2,prob,Black non-Hispanic,Covered by health insurance,2020 NHIS,3,529,0.856043356,0.889834319,7.93E-05
+Probability 3,prob,Black non-Hispanic,Covered by health insurance,2020 NHIS,7,422,0.821080545,0.889834319,7.93E-05
+Opt-in 1,nonprob,Hispanic,Covered by health insurance,2020 NHIS,0,904,0.782156994,0.779055025,0.000149367
+Opt-in 2,nonprob,Hispanic,Covered by health insurance,2020 NHIS,0,852,0.768451527,0.779055025,0.000149367
+Opt-in 3,nonprob,Hispanic,Covered by health insurance,2020 NHIS,0,884,0.756532715,0.779055025,0.000149367
+Probability 1,prob,Hispanic,Covered by health insurance,2020 NHIS,1.4,575,0.762654956,0.779055025,0.000149367
+Probability 2,prob,Hispanic,Covered by health insurance,2020 NHIS,3,809,0.714688594,0.779055025,0.000149367
+Probability 3,prob,Hispanic,Covered by health insurance,2020 NHIS,7,318,0.761674565,0.779055025,0.000149367
+Opt-in 1,nonprob,White non-Hispanic,Covered by health insurance,2020 NHIS,0,3079,0.904396826,0.943548464,6.90E-06
+Opt-in 2,nonprob,White non-Hispanic,Covered by health insurance,2020 NHIS,0,3245,0.89760109,0.943548464,6.90E-06
+Opt-in 3,nonprob,White non-Hispanic,Covered by health insurance,2020 NHIS,0,3148,0.907660222,0.943548464,6.90E-06
+Probability 1,prob,White non-Hispanic,Covered by health insurance,2020 NHIS,1.4,3596,0.930088016,0.943548464,6.90E-06
+Probability 2,prob,White non-Hispanic,Covered by health insurance,2020 NHIS,3,3362,0.916447024,0.943548464,6.90E-06
+Probability 3,prob,White non-Hispanic,Covered by health insurance,2020 NHIS,7,3851,0.925493361,0.943548464,6.90E-06
+Opt-in 1,nonprob,18-29,Never smoked 100 cigarettes,2020 NHIS,0,1170,0.728414226,0.809317745,6.46E-05
+Opt-in 2,nonprob,18-29,Never smoked 100 cigarettes,2020 NHIS,0,1031,0.689461664,0.809317745,6.46E-05
+Opt-in 3,nonprob,18-29,Never smoked 100 cigarettes,2020 NHIS,0,693,0.806594096,0.809317745,6.46E-05
+Probability 1,prob,18-29,Never smoked 100 cigarettes,2020 NHIS,1.4,585,0.838804844,0.809317745,6.46E-05
+Probability 2,prob,18-29,Never smoked 100 cigarettes,2020 NHIS,3,655,0.831171164,0.809317745,6.46E-05
+Probability 3,prob,18-29,Never smoked 100 cigarettes,2020 NHIS,7,363,0.819052739,0.809317745,6.46E-05
+Opt-in 1,nonprob,30-64,Never smoked 100 cigarettes,2020 NHIS,0,2637,0.475492133,0.615221179,2.77E-05
+Opt-in 2,nonprob,30-64,Never smoked 100 cigarettes,2020 NHIS,0,2564,0.514756517,0.615221179,2.77E-05
+Opt-in 3,nonprob,30-64,Never smoked 100 cigarettes,2020 NHIS,0,3087,0.551099575,0.615221179,2.77E-05
+Probability 1,prob,30-64,Never smoked 100 cigarettes,2020 NHIS,1.4,3010,0.630322451,0.615221179,2.77E-05
+Probability 2,prob,30-64,Never smoked 100 cigarettes,2020 NHIS,3,3192,0.589722263,0.615221179,2.77E-05
+Probability 3,prob,30-64,Never smoked 100 cigarettes,2020 NHIS,7,3195,0.62348012,0.615221179,2.77E-05
+Opt-in 1,nonprob,65+,Never smoked 100 cigarettes,2020 NHIS,0,1105,0.529191703,0.52175051,4.56E-05
+Opt-in 2,nonprob,65+,Never smoked 100 cigarettes,2020 NHIS,0,1336,0.578150693,0.52175051,4.56E-05
+Opt-in 3,nonprob,65+,Never smoked 100 cigarettes,2020 NHIS,0,1175,0.496320787,0.52175051,4.56E-05
+Probability 1,prob,65+,Never smoked 100 cigarettes,2020 NHIS,1.4,1432,0.515253364,0.52175051,4.56E-05
+Probability 2,prob,65+,Never smoked 100 cigarettes,2020 NHIS,3,1261,0.493345737,0.52175051,4.56E-05
+Probability 3,prob,65+,Never smoked 100 cigarettes,2020 NHIS,7,1400,0.505143832,0.52175051,4.56E-05
+Opt-in 1,nonprob,College grad,Never smoked 100 cigarettes,2020 NHIS,0,1598,0.652000741,0.744847448,2.76E-05
+Opt-in 2,nonprob,College grad,Never smoked 100 cigarettes,2020 NHIS,0,1953,0.641844185,0.744847448,2.76E-05
+Opt-in 3,nonprob,College grad,Never smoked 100 cigarettes,2020 NHIS,0,1799,0.669640215,0.744847448,2.76E-05
+Probability 1,prob,College grad,Never smoked 100 cigarettes,2020 NHIS,1.4,1867,0.758393254,0.744847448,2.76E-05
+Probability 2,prob,College grad,Never smoked 100 cigarettes,2020 NHIS,3,2147,0.749666381,0.744847448,2.76E-05
+Probability 3,prob,College grad,Never smoked 100 cigarettes,2020 NHIS,7,2166,0.754135157,0.744847448,2.76E-05
+Opt-in 1,nonprob,HS or less,Never smoked 100 cigarettes,2020 NHIS,0,1756,0.461597171,0.563566352,5.41E-05
+Opt-in 2,nonprob,HS or less,Never smoked 100 cigarettes,2020 NHIS,0,1439,0.520457338,0.563566352,5.41E-05
+Opt-in 3,nonprob,HS or less,Never smoked 100 cigarettes,2020 NHIS,0,1511,0.520470132,0.563566352,5.41E-05
+Probability 1,prob,HS or less,Never smoked 100 cigarettes,2020 NHIS,1.4,1617,0.571210304,0.563566352,5.41E-05
+Probability 2,prob,HS or less,Never smoked 100 cigarettes,2020 NHIS,3,1628,0.520597973,0.563566352,5.41E-05
+Probability 3,prob,HS or less,Never smoked 100 cigarettes,2020 NHIS,7,1054,0.526200324,0.563566352,5.41E-05
+Opt-in 1,nonprob,Some college,Never smoked 100 cigarettes,2020 NHIS,0,1558,0.514108411,0.62593739,4.70E-05
+Opt-in 2,nonprob,Some college,Never smoked 100 cigarettes,2020 NHIS,0,1539,0.539309839,0.62593739,4.70E-05
+Opt-in 3,nonprob,Some college,Never smoked 100 cigarettes,2020 NHIS,0,1645,0.581687529,0.62593739,4.70E-05
+Probability 1,prob,Some college,Never smoked 100 cigarettes,2020 NHIS,1.4,1543,0.632843886,0.62593739,4.70E-05
+Probability 2,prob,Some college,Never smoked 100 cigarettes,2020 NHIS,3,1363,0.594536378,0.62593739,4.70E-05
+Probability 3,prob,Some college,Never smoked 100 cigarettes,2020 NHIS,7,1743,0.618218106,0.62593739,4.70E-05
+Opt-in 1,nonprob,All adults,Never smoked 100 cigarettes,2020 NHIS,0,4912,0.538212264,0.63499048,1.77E-05
+Opt-in 2,nonprob,All adults,Never smoked 100 cigarettes,2020 NHIS,0,4931,0.564894903,0.63499048,1.77E-05
+Opt-in 3,nonprob,All adults,Never smoked 100 cigarettes,2020 NHIS,0,4955,0.588446353,0.63499048,1.77E-05
+Probability 1,prob,All adults,Never smoked 100 cigarettes,2020 NHIS,1.4,5027,0.649487097,0.63499048,1.77E-05
+Probability 2,prob,All adults,Never smoked 100 cigarettes,2020 NHIS,3,5147,0.616348813,0.63499048,1.77E-05
+Probability 3,prob,All adults,Never smoked 100 cigarettes,2020 NHIS,7,4965,0.630662736,0.63499048,1.77E-05
+Opt-in 1,nonprob,Black non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,656,0.544306043,0.703417848,0.000120149
+Opt-in 2,nonprob,Black non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,676,0.697625361,0.703417848,0.000120149
+Opt-in 3,nonprob,Black non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,623,0.665278641,0.703417848,0.000120149
+Probability 1,prob,Black non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,1.4,470,0.648149073,0.703417848,0.000120149
+Probability 2,prob,Black non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,3,529,0.660169839,0.703417848,0.000120149
+Probability 3,prob,Black non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,7,422,0.677528098,0.703417848,0.000120149
+Opt-in 1,nonprob,Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,904,0.588438809,0.755305757,8.27E-05
+Opt-in 2,nonprob,Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,852,0.641211632,0.755305757,8.27E-05
+Opt-in 3,nonprob,Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,884,0.672166899,0.755305757,8.27E-05
+Probability 1,prob,Hispanic,Never smoked 100 cigarettes,2020 NHIS,1.4,575,0.740175275,0.755305757,8.27E-05
+Probability 2,prob,Hispanic,Never smoked 100 cigarettes,2020 NHIS,3,809,0.76478768,0.755305757,8.27E-05
+Probability 3,prob,Hispanic,Never smoked 100 cigarettes,2020 NHIS,7,318,0.77809276,0.755305757,8.27E-05
+Opt-in 1,nonprob,White non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,3079,0.512243033,0.580205572,2.42E-05
+Opt-in 2,nonprob,White non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,3245,0.505933225,0.580205572,2.42E-05
+Opt-in 3,nonprob,White non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,0,3148,0.539158398,0.580205572,2.42E-05
+Probability 1,prob,White non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,1.4,3596,0.617061832,0.580205572,2.42E-05
+Probability 2,prob,White non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,3,3362,0.561180593,0.580205572,2.42E-05
+Probability 3,prob,White non-Hispanic,Never smoked 100 cigarettes,2020 NHIS,7,3851,0.575541814,0.580205572,2.42E-05
+Opt-in 1,nonprob,18-29,Never vaped,2020 NHIS,0,1170,0.508086671,0.665519692,9.95E-05
+Opt-in 2,nonprob,18-29,Never vaped,2020 NHIS,0,1031,0.556349981,0.665519692,9.95E-05
+Opt-in 3,nonprob,18-29,Never vaped,2020 NHIS,0,693,0.601137657,0.665519692,9.95E-05
+Probability 1,prob,18-29,Never vaped,2020 NHIS,1.4,585,0.686886863,0.665519692,9.95E-05
+Probability 2,prob,18-29,Never vaped,2020 NHIS,3,655,0.500000717,0.665519692,9.95E-05
+Probability 3,prob,18-29,Never vaped,2020 NHIS,7,363,0.519530703,0.665519692,9.95E-05
+Opt-in 1,nonprob,30-64,Never vaped,2020 NHIS,0,2637,0.612928697,0.814464785,1.73E-05
+Opt-in 2,nonprob,30-64,Never vaped,2020 NHIS,0,2564,0.644684003,0.814464785,1.73E-05
+Opt-in 3,nonprob,30-64,Never vaped,2020 NHIS,0,3087,0.719855554,0.814464785,1.73E-05
+Probability 1,prob,30-64,Never vaped,2020 NHIS,1.4,3010,0.793472317,0.814464785,1.73E-05
+Probability 2,prob,30-64,Never vaped,2020 NHIS,3,3192,0.705302477,0.814464785,1.73E-05
+Probability 3,prob,30-64,Never vaped,2020 NHIS,7,3195,0.757279898,0.814464785,1.73E-05
+Opt-in 1,nonprob,65+,Never vaped,2020 NHIS,0,1105,0.889382837,0.935219722,1.03E-05
+Opt-in 2,nonprob,65+,Never vaped,2020 NHIS,0,1336,0.948955602,0.935219722,1.03E-05
+Opt-in 3,nonprob,65+,Never vaped,2020 NHIS,0,1175,0.92504821,0.935219722,1.03E-05
+Probability 1,prob,65+,Never vaped,2020 NHIS,1.4,1432,0.919967147,0.935219722,1.03E-05
+Probability 2,prob,65+,Never vaped,2020 NHIS,3,1261,0.896913672,0.935219722,1.03E-05
+Probability 3,prob,65+,Never vaped,2020 NHIS,7,1400,0.930462407,0.935219722,1.03E-05
+Opt-in 1,nonprob,College grad,Never vaped,2020 NHIS,0,1598,0.716127183,0.85908368,1.73E-05
+Opt-in 2,nonprob,College grad,Never vaped,2020 NHIS,0,1953,0.726128327,0.85908368,1.73E-05
+Opt-in 3,nonprob,College grad,Never vaped,2020 NHIS,0,1799,0.77375092,0.85908368,1.73E-05
+Probability 1,prob,College grad,Never vaped,2020 NHIS,1.4,1867,0.851070564,0.85908368,1.73E-05
+Probability 2,prob,College grad,Never vaped,2020 NHIS,3,2147,0.792532581,0.85908368,1.73E-05
+Probability 3,prob,College grad,Never vaped,2020 NHIS,7,2166,0.831955319,0.85908368,1.73E-05
+Opt-in 1,nonprob,HS or less,Never vaped,2020 NHIS,0,1756,0.643948512,0.794928,3.53E-05
+Opt-in 2,nonprob,HS or less,Never vaped,2020 NHIS,0,1439,0.68944047,0.794928,3.53E-05
+Opt-in 3,nonprob,HS or less,Never vaped,2020 NHIS,0,1511,0.732182513,0.794928,3.53E-05
+Probability 1,prob,HS or less,Never vaped,2020 NHIS,1.4,1617,0.788790409,0.794928,3.53E-05
+Probability 2,prob,HS or less,Never vaped,2020 NHIS,3,1628,0.67802956,0.794928,3.53E-05
+Probability 3,prob,HS or less,Never vaped,2020 NHIS,7,1054,0.721696357,0.794928,3.53E-05
+Opt-in 1,nonprob,Some college,Never vaped,2020 NHIS,0,1558,0.595273634,0.783078432,3.53E-05
+Opt-in 2,nonprob,Some college,Never vaped,2020 NHIS,0,1539,0.661119925,0.783078432,3.53E-05
+Opt-in 3,nonprob,Some college,Never vaped,2020 NHIS,0,1645,0.718776952,0.783078432,3.53E-05
+Probability 1,prob,Some college,Never vaped,2020 NHIS,1.4,1543,0.754345918,0.783078432,3.53E-05
+Probability 2,prob,Some college,Never vaped,2020 NHIS,3,1363,0.654236689,0.783078432,3.53E-05
+Probability 3,prob,Some college,Never vaped,2020 NHIS,7,1743,0.712332779,0.783078432,3.53E-05
+Opt-in 1,nonprob,All adults,Never vaped,2020 NHIS,0,4912,0.651775133,0.810196267,1.22E-05
+Opt-in 2,nonprob,All adults,Never vaped,2020 NHIS,0,4931,0.692430666,0.810196267,1.22E-05
+Opt-in 3,nonprob,All adults,Never vaped,2020 NHIS,0,4955,0.74164432,0.810196267,1.22E-05
+Probability 1,prob,All adults,Never vaped,2020 NHIS,1.4,5027,0.797999104,0.810196267,1.22E-05
+Probability 2,prob,All adults,Never vaped,2020 NHIS,3,5147,0.707476601,0.810196267,1.22E-05
+Probability 3,prob,All adults,Never vaped,2020 NHIS,7,4965,0.755384374,0.810196267,1.22E-05
+Opt-in 1,nonprob,Black non-Hispanic,Never vaped,2020 NHIS,0,656,0.568124238,0.840069708,7.89E-05
+Opt-in 2,nonprob,Black non-Hispanic,Never vaped,2020 NHIS,0,676,0.719193757,0.840069708,7.89E-05
+Opt-in 3,nonprob,Black non-Hispanic,Never vaped,2020 NHIS,0,623,0.691560372,0.840069708,7.89E-05
+Probability 1,prob,Black non-Hispanic,Never vaped,2020 NHIS,1.4,470,0.798761491,0.840069708,7.89E-05
+Probability 2,prob,Black non-Hispanic,Never vaped,2020 NHIS,3,529,0.75405016,0.840069708,7.89E-05
+Probability 3,prob,Black non-Hispanic,Never vaped,2020 NHIS,7,422,0.785662212,0.840069708,7.89E-05
+Opt-in 1,nonprob,Hispanic,Never vaped,2020 NHIS,0,904,0.463054542,0.838981376,7.58E-05
+Opt-in 2,nonprob,Hispanic,Never vaped,2020 NHIS,0,852,0.650899094,0.838981376,7.58E-05
+Opt-in 3,nonprob,Hispanic,Never vaped,2020 NHIS,0,884,0.61608015,0.838981376,7.58E-05
+Probability 1,prob,Hispanic,Never vaped,2020 NHIS,1.4,575,0.828349964,0.838981376,7.58E-05
+Probability 2,prob,Hispanic,Never vaped,2020 NHIS,3,809,0.674992346,0.838981376,7.58E-05
+Probability 3,prob,Hispanic,Never vaped,2020 NHIS,7,318,0.74894155,0.838981376,7.58E-05
+Opt-in 1,nonprob,White non-Hispanic,Never vaped,2020 NHIS,0,3079,0.711432082,0.796200833,1.70E-05
+Opt-in 2,nonprob,White non-Hispanic,Never vaped,2020 NHIS,0,3245,0.689826455,0.796200833,1.70E-05
+Opt-in 3,nonprob,White non-Hispanic,Never vaped,2020 NHIS,0,3148,0.777115941,0.796200833,1.70E-05
+Probability 1,prob,White non-Hispanic,Never vaped,2020 NHIS,1.4,3596,0.792812637,0.796200833,1.70E-05
+Probability 2,prob,White non-Hispanic,Never vaped,2020 NHIS,3,3362,0.70255529,0.796200833,1.70E-05
+Probability 3,prob,White non-Hispanic,Never vaped,2020 NHIS,7,3851,0.746469534,0.796200833,1.70E-05
+Opt-in 1,nonprob,18-29,Own 1+ car,2021 ACS,0,1170,0.831779083,0.937983503,2.80E-07
+Opt-in 2,nonprob,18-29,Own 1+ car,2021 ACS,0,1031,0.761572138,0.937983503,2.80E-07
+Opt-in 3,nonprob,18-29,Own 1+ car,2021 ACS,0,693,0.850506929,0.937983503,2.80E-07
+Probability 1,prob,18-29,Own 1+ car,2021 ACS,1.4,585,0.896191246,0.937983503,2.80E-07
+Probability 2,prob,18-29,Own 1+ car,2021 ACS,3,655,0.899064056,0.937983503,2.80E-07
+Probability 3,prob,18-29,Own 1+ car,2021 ACS,7,363,0.829817877,0.937983503,2.80E-07
+Opt-in 1,nonprob,30-64,Own 1+ car,2021 ACS,0,2637,0.837667137,0.947244236,6.28E-08
+Opt-in 2,nonprob,30-64,Own 1+ car,2021 ACS,0,2564,0.861057674,0.947244236,6.28E-08
+Opt-in 3,nonprob,30-64,Own 1+ car,2021 ACS,0,3087,0.886804838,0.947244236,6.28E-08
+Probability 1,prob,30-64,Own 1+ car,2021 ACS,1.4,3010,0.920887434,0.947244236,6.28E-08
+Probability 2,prob,30-64,Own 1+ car,2021 ACS,3,3192,0.885841939,0.947244236,6.28E-08
+Probability 3,prob,30-64,Own 1+ car,2021 ACS,7,3195,0.880060819,0.947244236,6.28E-08
+Opt-in 1,nonprob,65+,Own 1+ car,2021 ACS,0,1105,0.905853247,0.917682947,2.18E-07
+Opt-in 2,nonprob,65+,Own 1+ car,2021 ACS,0,1336,0.918073556,0.917682947,2.18E-07
+Opt-in 3,nonprob,65+,Own 1+ car,2021 ACS,0,1175,0.946167756,0.917682947,2.18E-07
+Probability 1,prob,65+,Own 1+ car,2021 ACS,1.4,1432,0.932286219,0.917682947,2.18E-07
+Probability 2,prob,65+,Own 1+ car,2021 ACS,3,1261,0.923773623,0.917682947,2.18E-07
+Probability 3,prob,65+,Own 1+ car,2021 ACS,7,1400,0.908792659,0.917682947,2.18E-07
+Opt-in 1,nonprob,College grad,Own 1+ car,2021 ACS,0,1598,0.921532029,0.956379506,9.09E-08
+Opt-in 2,nonprob,College grad,Own 1+ car,2021 ACS,0,1953,0.924786238,0.956379506,9.09E-08
+Opt-in 3,nonprob,College grad,Own 1+ car,2021 ACS,0,1799,0.933846735,0.956379506,9.09E-08
+Probability 1,prob,College grad,Own 1+ car,2021 ACS,1.4,1867,0.942529293,0.956379506,9.09E-08
+Probability 2,prob,College grad,Own 1+ car,2021 ACS,3,2147,0.938773007,0.956379506,9.09E-08
+Probability 3,prob,College grad,Own 1+ car,2021 ACS,7,2166,0.937992292,0.956379506,9.09E-08
+Opt-in 1,nonprob,HS or less,Own 1+ car,2021 ACS,0,1756,0.771667171,0.913980734,1.14E-07
+Opt-in 2,nonprob,HS or less,Own 1+ car,2021 ACS,0,1439,0.776930324,0.913980734,1.14E-07
+Opt-in 3,nonprob,HS or less,Own 1+ car,2021 ACS,0,1511,0.855230642,0.913980734,1.14E-07
+Probability 1,prob,HS or less,Own 1+ car,2021 ACS,1.4,1617,0.876545358,0.913980734,1.14E-07
+Probability 2,prob,HS or less,Own 1+ car,2021 ACS,3,1628,0.849065785,0.913980734,1.14E-07
+Probability 3,prob,HS or less,Own 1+ car,2021 ACS,7,1054,0.798636742,0.913980734,1.14E-07
+Opt-in 1,nonprob,Some college,Own 1+ car,2021 ACS,0,1558,0.875416199,0.951466799,1.49E-07
+Opt-in 2,nonprob,Some college,Own 1+ car,2021 ACS,0,1539,0.870555276,0.951466799,1.49E-07
+Opt-in 3,nonprob,Some college,Own 1+ car,2021 ACS,0,1645,0.892879659,0.951466799,1.49E-07
+Probability 1,prob,Some college,Own 1+ car,2021 ACS,1.4,1543,0.943986877,0.951466799,1.49E-07
+Probability 2,prob,Some college,Own 1+ car,2021 ACS,3,1363,0.915269246,0.951466799,1.49E-07
+Probability 3,prob,Some college,Own 1+ car,2021 ACS,7,1743,0.90558106,0.951466799,1.49E-07
+Opt-in 1,nonprob,All adults,Own 1+ car,2021 ACS,0,4912,0.851280358,0.939031301,4.32E-08
+Opt-in 2,nonprob,All adults,Own 1+ car,2021 ACS,0,4931,0.852744389,0.939031301,4.32E-08
+Opt-in 3,nonprob,All adults,Own 1+ car,2021 ACS,0,4955,0.892731845,0.939031301,4.32E-08
+Probability 1,prob,All adults,Own 1+ car,2021 ACS,1.4,5027,0.918144757,0.939031301,4.32E-08
+Probability 2,prob,All adults,Own 1+ car,2021 ACS,3,5147,0.896823183,0.939031301,4.32E-08
+Probability 3,prob,All adults,Own 1+ car,2021 ACS,7,4965,0.877983121,0.939031301,4.32E-08
+Opt-in 1,nonprob,Black non-Hispanic,Own 1+ car,2021 ACS,0,656,0.778473213,0.877892751,1.15E-06
+Opt-in 2,nonprob,Black non-Hispanic,Own 1+ car,2021 ACS,0,676,0.703327273,0.877892751,1.15E-06
+Opt-in 3,nonprob,Black non-Hispanic,Own 1+ car,2021 ACS,0,623,0.7913576,0.877892751,1.15E-06
+Probability 1,prob,Black non-Hispanic,Own 1+ car,2021 ACS,1.4,470,0.839616353,0.877892751,1.15E-06
+Probability 2,prob,Black non-Hispanic,Own 1+ car,2021 ACS,3,529,0.740985676,0.877892751,1.15E-06
+Probability 3,prob,Black non-Hispanic,Own 1+ car,2021 ACS,7,422,0.673435499,0.877892751,1.15E-06
+Opt-in 1,nonprob,Hispanic,Own 1+ car,2021 ACS,0,904,0.833875472,0.926297309,3.42E-07
+Opt-in 2,nonprob,Hispanic,Own 1+ car,2021 ACS,0,852,0.757655894,0.926297309,3.42E-07
+Opt-in 3,nonprob,Hispanic,Own 1+ car,2021 ACS,0,884,0.882975967,0.926297309,3.42E-07
+Probability 1,prob,Hispanic,Own 1+ car,2021 ACS,1.4,575,0.892282563,0.926297309,3.42E-07
+Probability 2,prob,Hispanic,Own 1+ car,2021 ACS,3,809,0.853808704,0.926297309,3.42E-07
+Probability 3,prob,Hispanic,Own 1+ car,2021 ACS,7,318,0.835793004,0.926297309,3.42E-07
+Opt-in 1,nonprob,White non-Hispanic,Own 1+ car,2021 ACS,0,3079,0.877440172,0.957096392,6.54E-08
+Opt-in 2,nonprob,White non-Hispanic,Own 1+ car,2021 ACS,0,3245,0.903503106,0.957096392,6.54E-08
+Opt-in 3,nonprob,White non-Hispanic,Own 1+ car,2021 ACS,0,3148,0.91790538,0.957096392,6.54E-08
+Probability 1,prob,White non-Hispanic,Own 1+ car,2021 ACS,1.4,3596,0.942359936,0.957096392,6.54E-08
+Probability 2,prob,White non-Hispanic,Own 1+ car,2021 ACS,3,3362,0.941563579,0.957096392,6.54E-08
+Probability 3,prob,White non-Hispanic,Own 1+ car,2021 ACS,7,3851,0.92902463,0.957096392,6.54E-08
+Opt-in 1,nonprob,18-29,U.S. Citizen,2021 ACS,0,1170,0.890103875,0.9323904,3.15E-07
+Opt-in 2,nonprob,18-29,U.S. Citizen,2021 ACS,0,1031,0.85912388,0.9323904,3.15E-07
+Opt-in 3,nonprob,18-29,U.S. Citizen,2021 ACS,0,693,0.856210414,0.9323904,3.15E-07
+Probability 1,prob,18-29,U.S. Citizen,2021 ACS,1.4,585,0.925182927,0.9323904,3.15E-07
+Probability 2,prob,18-29,U.S. Citizen,2021 ACS,3,655,0.885226601,0.9323904,3.15E-07
+Probability 3,prob,18-29,U.S. Citizen,2021 ACS,7,363,0.90503425,0.9323904,3.15E-07
+Opt-in 1,nonprob,30-64,U.S. Citizen,2021 ACS,0,2637,0.937467103,0.906254153,1.92E-07
+Opt-in 2,nonprob,30-64,U.S. Citizen,2021 ACS,0,2564,0.927363665,0.906254153,1.92E-07
+Opt-in 3,nonprob,30-64,U.S. Citizen,2021 ACS,0,3087,0.952504476,0.906254153,1.92E-07
+Probability 1,prob,30-64,U.S. Citizen,2021 ACS,1.4,3010,0.877256915,0.906254153,1.92E-07
+Probability 2,prob,30-64,U.S. Citizen,2021 ACS,3,3192,0.905178544,0.906254153,1.92E-07
+Probability 3,prob,30-64,U.S. Citizen,2021 ACS,7,3195,0.930038125,0.906254153,1.92E-07
+Opt-in 1,nonprob,65+,U.S. Citizen,2021 ACS,0,1105,0.991652139,0.967411245,9.53E-08
+Opt-in 2,nonprob,65+,U.S. Citizen,2021 ACS,0,1336,0.98458469,0.967411245,9.53E-08
+Opt-in 3,nonprob,65+,U.S. Citizen,2021 ACS,0,1175,0.992232073,0.967411245,9.53E-08
+Probability 1,prob,65+,U.S. Citizen,2021 ACS,1.4,1432,0.949532824,0.967411245,9.53E-08
+Probability 2,prob,65+,U.S. Citizen,2021 ACS,3,1261,0.968591697,0.967411245,9.53E-08
+Probability 3,prob,65+,U.S. Citizen,2021 ACS,7,1400,0.972526128,0.967411245,9.53E-08
+Opt-in 1,nonprob,College grad,U.S. Citizen,2021 ACS,0,1598,0.945801513,0.938072501,1.67E-07
+Opt-in 2,nonprob,College grad,U.S. Citizen,2021 ACS,0,1953,0.929668489,0.938072501,1.67E-07
+Opt-in 3,nonprob,College grad,U.S. Citizen,2021 ACS,0,1799,0.941265809,0.938072501,1.67E-07
+Probability 1,prob,College grad,U.S. Citizen,2021 ACS,1.4,1867,0.92626958,0.938072501,1.67E-07
+Probability 2,prob,College grad,U.S. Citizen,2021 ACS,3,2147,0.918290141,0.938072501,1.67E-07
+Probability 3,prob,College grad,U.S. Citizen,2021 ACS,7,2166,0.917298811,0.938072501,1.67E-07
+Opt-in 1,nonprob,HS or less,U.S. Citizen,2021 ACS,0,1756,0.920881998,0.884646113,4.00E-07
+Opt-in 2,nonprob,HS or less,U.S. Citizen,2021 ACS,0,1439,0.901254199,0.884646113,4.00E-07
+Opt-in 3,nonprob,HS or less,U.S. Citizen,2021 ACS,0,1511,0.93098989,0.884646113,4.00E-07
+Probability 1,prob,HS or less,U.S. Citizen,2021 ACS,1.4,1617,0.860922141,0.884646113,4.00E-07
+Probability 2,prob,HS or less,U.S. Citizen,2021 ACS,3,1628,0.896700678,0.884646113,4.00E-07
+Probability 3,prob,HS or less,U.S. Citizen,2021 ACS,7,1054,0.92487225,0.884646113,4.00E-07
+Opt-in 1,nonprob,Some college,U.S. Citizen,2021 ACS,0,1558,0.95606462,0.960488451,9.43E-08
+Opt-in 2,nonprob,Some college,U.S. Citizen,2021 ACS,0,1539,0.951093623,0.960488451,9.43E-08
+Opt-in 3,nonprob,Some college,U.S. Citizen,2021 ACS,0,1645,0.95741637,0.960488451,9.43E-08
+Probability 1,prob,Some college,U.S. Citizen,2021 ACS,1.4,1543,0.929157108,0.960488451,9.43E-08
+Probability 2,prob,Some college,U.S. Citizen,2021 ACS,3,1363,0.9342832,0.960488451,9.43E-08
+Probability 3,prob,Some college,U.S. Citizen,2021 ACS,7,1743,0.96628274,0.960488451,9.43E-08
+Opt-in 1,nonprob,All adults,U.S. Citizen,2021 ACS,0,4912,0.939667442,0.924687601,1.12E-07
+Opt-in 2,nonprob,All adults,U.S. Citizen,2021 ACS,0,4931,0.925597928,0.924687601,1.12E-07
+Opt-in 3,nonprob,All adults,U.S. Citizen,2021 ACS,0,4955,0.942584251,0.924687601,1.12E-07
+Probability 1,prob,All adults,U.S. Citizen,2021 ACS,1.4,5027,0.902562672,0.924687601,1.12E-07
+Probability 2,prob,All adults,U.S. Citizen,2021 ACS,3,5147,0.915155629,0.924687601,1.12E-07
+Probability 3,prob,All adults,U.S. Citizen,2021 ACS,7,4965,0.935255886,0.924687601,1.12E-07
+Opt-in 1,nonprob,Black non-Hispanic,U.S. Citizen,2021 ACS,0,656,0.956488425,0.956550584,4.44E-07
+Opt-in 2,nonprob,Black non-Hispanic,U.S. Citizen,2021 ACS,0,676,0.893214529,0.956550584,4.44E-07
+Opt-in 3,nonprob,Black non-Hispanic,U.S. Citizen,2021 ACS,0,623,0.955532005,0.956550584,4.44E-07
+Probability 1,prob,Black non-Hispanic,U.S. Citizen,2021 ACS,1.4,470,0.950622288,0.956550584,4.44E-07
+Probability 2,prob,Black non-Hispanic,U.S. Citizen,2021 ACS,3,529,0.95638573,0.956550584,4.44E-07
+Probability 3,prob,Black non-Hispanic,U.S. Citizen,2021 ACS,7,422,0.970730352,0.956550584,4.44E-07
+Opt-in 1,nonprob,Hispanic,U.S. Citizen,2021 ACS,0,904,0.852319297,0.749584163,2.08E-06
+Opt-in 2,nonprob,Hispanic,U.S. Citizen,2021 ACS,0,852,0.804739502,0.749584163,2.08E-06
+Opt-in 3,nonprob,Hispanic,U.S. Citizen,2021 ACS,0,884,0.842441987,0.749584163,2.08E-06
+Probability 1,prob,Hispanic,U.S. Citizen,2021 ACS,1.4,575,0.703374272,0.749584163,2.08E-06
+Probability 2,prob,Hispanic,U.S. Citizen,2021 ACS,3,809,0.712885915,0.749584163,2.08E-06
+Probability 3,prob,Hispanic,U.S. Citizen,2021 ACS,7,318,0.781997795,0.749584163,2.08E-06
+Opt-in 1,nonprob,White non-Hispanic,U.S. Citizen,2021 ACS,0,3079,0.974088047,0.985266472,1.89E-08
+Opt-in 2,nonprob,White non-Hispanic,U.S. Citizen,2021 ACS,0,3245,0.974265075,0.985266472,1.89E-08
+Opt-in 3,nonprob,White non-Hispanic,U.S. Citizen,2021 ACS,0,3148,0.974460035,0.985266472,1.89E-08
+Probability 1,prob,White non-Hispanic,U.S. Citizen,2021 ACS,1.4,3596,0.961455318,0.985266472,1.89E-08
+Probability 2,prob,White non-Hispanic,U.S. Citizen,2021 ACS,3,3362,0.978353845,0.985266472,1.89E-08
+Probability 3,prob,White non-Hispanic,U.S. Citizen,2021 ACS,7,3851,0.982656065,0.985266472,1.89E-08
+Opt-in 1,nonprob,18-29,Speaks English well or better,2021 ACS,0,1170,0.944869661,0.978759276,1.11E-07
+Opt-in 2,nonprob,18-29,Speaks English well or better,2021 ACS,0,1031,0.919988095,0.978759276,1.11E-07
+Opt-in 3,nonprob,18-29,Speaks English well or better,2021 ACS,0,693,0.945195632,0.978759276,1.11E-07
+Probability 1,prob,18-29,Speaks English well or better,2021 ACS,1.4,585,0.987373096,0.978759276,1.11E-07
+Probability 2,prob,18-29,Speaks English well or better,2021 ACS,3,655,0.970581434,0.978759276,1.11E-07
+Probability 3,prob,18-29,Speaks English well or better,2021 ACS,7,363,0.981647252,0.978759276,1.11E-07
+Opt-in 1,nonprob,30-64,Speaks English well or better,2021 ACS,0,2637,0.981070614,0.946420011,1.08E-07
+Opt-in 2,nonprob,30-64,Speaks English well or better,2021 ACS,0,2564,0.963909641,0.946420011,1.08E-07
+Opt-in 3,nonprob,30-64,Speaks English well or better,2021 ACS,0,3087,0.988590582,0.946420011,1.08E-07
+Probability 1,prob,30-64,Speaks English well or better,2021 ACS,1.4,3010,0.945712529,0.946420011,1.08E-07
+Probability 2,prob,30-64,Speaks English well or better,2021 ACS,3,3192,0.970761709,0.946420011,1.08E-07
+Probability 3,prob,30-64,Speaks English well or better,2021 ACS,7,3195,0.970833562,0.946420011,1.08E-07
+Opt-in 1,nonprob,65+,Speaks English well or better,2021 ACS,0,1105,1,0.946289474,1.50E-07
+Opt-in 2,nonprob,65+,Speaks English well or better,2021 ACS,0,1336,0.988860426,0.946289474,1.50E-07
+Opt-in 3,nonprob,65+,Speaks English well or better,2021 ACS,0,1175,0.997945793,0.946289474,1.50E-07
+Probability 1,prob,65+,Speaks English well or better,2021 ACS,1.4,1432,0.955838422,0.946289474,1.50E-07
+Probability 2,prob,65+,Speaks English well or better,2021 ACS,3,1261,0.9838644,0.946289474,1.50E-07
+Probability 3,prob,65+,Speaks English well or better,2021 ACS,7,1400,0.970098102,0.946289474,1.50E-07
+Opt-in 1,nonprob,College grad,Speaks English well or better,2021 ACS,0,1598,0.984057933,0.985319863,2.96E-08
+Opt-in 2,nonprob,College grad,Speaks English well or better,2021 ACS,0,1953,0.968731384,0.985319863,2.96E-08
+Opt-in 3,nonprob,College grad,Speaks English well or better,2021 ACS,0,1799,0.982162951,0.985319863,2.96E-08
+Probability 1,prob,College grad,Speaks English well or better,2021 ACS,1.4,1867,0.988706955,0.985319863,2.96E-08
+Probability 2,prob,College grad,Speaks English well or better,2021 ACS,3,2147,0.990127628,0.985319863,2.96E-08
+Probability 3,prob,College grad,Speaks English well or better,2021 ACS,7,2166,0.984784684,0.985319863,2.96E-08
+Opt-in 1,nonprob,HS or less,Speaks English well or better,2021 ACS,0,1756,0.971922985,0.901468198,2.33E-07
+Opt-in 2,nonprob,HS or less,Speaks English well or better,2021 ACS,0,1439,0.941342673,0.901468198,2.33E-07
+Opt-in 3,nonprob,HS or less,Speaks English well or better,2021 ACS,0,1511,0.974592459,0.901468198,2.33E-07
+Probability 1,prob,HS or less,Speaks English well or better,2021 ACS,1.4,1617,0.913262466,0.901468198,2.33E-07
+Probability 2,prob,HS or less,Speaks English well or better,2021 ACS,3,1628,0.955749313,0.901468198,2.33E-07
+Probability 3,prob,HS or less,Speaks English well or better,2021 ACS,7,1054,0.953523922,0.901468198,2.33E-07
+Opt-in 1,nonprob,Some college,Speaks English well or better,2021 ACS,0,1558,0.978713082,0.982228272,5.68E-08
+Opt-in 2,nonprob,Some college,Speaks English well or better,2021 ACS,0,1539,0.974341807,0.982228272,5.68E-08
+Opt-in 3,nonprob,Some college,Speaks English well or better,2021 ACS,0,1645,0.991247267,0.982228272,5.68E-08
+Probability 1,prob,Some college,Speaks English well or better,2021 ACS,1.4,1543,0.976427314,0.982228272,5.68E-08
+Probability 2,prob,Some college,Speaks English well or better,2021 ACS,3,1363,0.979895205,0.982228272,5.68E-08
+Probability 3,prob,Some college,Speaks English well or better,2021 ACS,7,1743,0.981162598,0.982228272,5.68E-08
+Opt-in 1,nonprob,All adults,Speaks English well or better,2021 ACS,0,4912,0.977871161,0.952949914,5.96E-08
+Opt-in 2,nonprob,All adults,Speaks English well or better,2021 ACS,0,4931,0.960191409,0.952949914,5.96E-08
+Opt-in 3,nonprob,All adults,Speaks English well or better,2021 ACS,0,4955,0.982258498,0.952949914,5.96E-08
+Probability 1,prob,All adults,Speaks English well or better,2021 ACS,1.4,5027,0.956553455,0.952949914,5.96E-08
+Probability 2,prob,All adults,Speaks English well or better,2021 ACS,3,5147,0.973670125,0.952949914,5.96E-08
+Probability 3,prob,All adults,Speaks English well or better,2021 ACS,7,4965,0.972539073,0.952949914,5.96E-08
+Opt-in 1,nonprob,Black non-Hispanic,Speaks English well or better,2021 ACS,0,656,0.982497168,0.989531063,9.42E-08
+Opt-in 2,nonprob,Black non-Hispanic,Speaks English well or better,2021 ACS,0,676,0.947414417,0.989531063,9.42E-08
+Opt-in 3,nonprob,Black non-Hispanic,Speaks English well or better,2021 ACS,0,623,0.97930203,0.989531063,9.42E-08
+Probability 1,prob,Black non-Hispanic,Speaks English well or better,2021 ACS,1.4,470,0.984980071,0.989531063,9.42E-08
+Probability 2,prob,Black non-Hispanic,Speaks English well or better,2021 ACS,3,529,0.981997301,0.989531063,9.42E-08
+Probability 3,prob,Black non-Hispanic,Speaks English well or better,2021 ACS,7,422,0.959267139,0.989531063,9.42E-08
+Opt-in 1,nonprob,Hispanic,Speaks English well or better,2021 ACS,0,904,0.932457557,0.807499949,1.33E-06
+Opt-in 2,nonprob,Hispanic,Speaks English well or better,2021 ACS,0,852,0.848688645,0.807499949,1.33E-06
+Opt-in 3,nonprob,Hispanic,Speaks English well or better,2021 ACS,0,884,0.929571705,0.807499949,1.33E-06
+Probability 1,prob,Hispanic,Speaks English well or better,2021 ACS,1.4,575,0.817244205,0.807499949,1.33E-06
+Probability 2,prob,Hispanic,Speaks English well or better,2021 ACS,3,809,0.886679779,0.807499949,1.33E-06
+Probability 3,prob,Hispanic,Speaks English well or better,2021 ACS,7,318,0.892089508,0.807499949,1.33E-06
+Opt-in 1,nonprob,White non-Hispanic,Speaks English well or better,2021 ACS,0,3079,0.991094696,0.9942825,7.12E-09
+Opt-in 2,nonprob,White non-Hispanic,Speaks English well or better,2021 ACS,0,3245,0.991647207,0.9942825,7.12E-09
+Opt-in 3,nonprob,White non-Hispanic,Speaks English well or better,2021 ACS,0,3148,0.997281024,0.9942825,7.12E-09
+Probability 1,prob,White non-Hispanic,Speaks English well or better,2021 ACS,1.4,3596,0.993394865,0.9942825,7.12E-09
+Probability 2,prob,White non-Hispanic,Speaks English well or better,2021 ACS,3,3362,0.99872241,0.9942825,7.12E-09
+Probability 3,prob,White non-Hispanic,Speaks English well or better,2021 ACS,7,3851,0.991939559,0.9942825,7.12E-09
+Opt-in 1,nonprob,18-29,Single adult household,2021 ACS,0,1170,0.266568424,0.155710434,3.58E-07
+Opt-in 2,nonprob,18-29,Single adult household,2021 ACS,0,1031,0.271750826,0.155710434,3.58E-07
+Opt-in 3,nonprob,18-29,Single adult household,2021 ACS,0,693,0.267286122,0.155710434,3.58E-07
+Probability 1,prob,18-29,Single adult household,2021 ACS,1.4,585,0.146503174,0.155710434,3.58E-07
+Probability 2,prob,18-29,Single adult household,2021 ACS,3,655,0.105033856,0.155710434,3.58E-07
+Probability 3,prob,18-29,Single adult household,2021 ACS,7,363,0.150951946,0.155710434,3.58E-07
+Opt-in 1,nonprob,30-64,Single adult household,2021 ACS,0,2637,0.275868083,0.156438373,1.16E-07
+Opt-in 2,nonprob,30-64,Single adult household,2021 ACS,0,2564,0.248464583,0.156438373,1.16E-07
+Opt-in 3,nonprob,30-64,Single adult household,2021 ACS,0,3087,0.275649795,0.156438373,1.16E-07
+Probability 1,prob,30-64,Single adult household,2021 ACS,1.4,3010,0.187351542,0.156438373,1.16E-07
+Probability 2,prob,30-64,Single adult household,2021 ACS,3,3192,0.146014763,0.156438373,1.16E-07
+Probability 3,prob,30-64,Single adult household,2021 ACS,7,3195,0.194955227,0.156438373,1.16E-07
+Opt-in 1,nonprob,65+,Single adult household,2021 ACS,0,1105,0.306893562,0.269811291,5.97E-07
+Opt-in 2,nonprob,65+,Single adult household,2021 ACS,0,1336,0.303378324,0.269811291,5.97E-07
+Opt-in 3,nonprob,65+,Single adult household,2021 ACS,0,1175,0.37814879,0.269811291,5.97E-07
+Probability 1,prob,65+,Single adult household,2021 ACS,1.4,1432,0.264118372,0.269811291,5.97E-07
+Probability 2,prob,65+,Single adult household,2021 ACS,3,1261,0.195149511,0.269811291,5.97E-07
+Probability 3,prob,65+,Single adult household,2021 ACS,7,1400,0.332881059,0.269811291,5.97E-07
+Opt-in 1,nonprob,College grad,Single adult household,2021 ACS,0,1598,0.295229054,0.174527632,2.43E-07
+Opt-in 2,nonprob,College grad,Single adult household,2021 ACS,0,1953,0.245056711,0.174527632,2.43E-07
+Opt-in 3,nonprob,College grad,Single adult household,2021 ACS,0,1799,0.278273295,0.174527632,2.43E-07
+Probability 1,prob,College grad,Single adult household,2021 ACS,1.4,1867,0.193071052,0.174527632,2.43E-07
+Probability 2,prob,College grad,Single adult household,2021 ACS,3,2147,0.144026006,0.174527632,2.43E-07
+Probability 3,prob,College grad,Single adult household,2021 ACS,7,2166,0.183358051,0.174527632,2.43E-07
+Opt-in 1,nonprob,HS or less,Single adult household,2021 ACS,0,1756,0.263216126,0.168824424,2.56E-07
+Opt-in 2,nonprob,HS or less,Single adult household,2021 ACS,0,1439,0.293642464,0.168824424,2.56E-07
+Opt-in 3,nonprob,HS or less,Single adult household,2021 ACS,0,1511,0.324506309,0.168824424,2.56E-07
+Probability 1,prob,HS or less,Single adult household,2021 ACS,1.4,1617,0.217332131,0.168824424,2.56E-07
+Probability 2,prob,HS or less,Single adult household,2021 ACS,3,1628,0.161612546,0.168824424,2.56E-07
+Probability 3,prob,HS or less,Single adult household,2021 ACS,7,1054,0.248802185,0.168824424,2.56E-07
+Opt-in 1,nonprob,Some college,Single adult household,2021 ACS,0,1558,0.287004605,0.202313025,3.41E-07
+Opt-in 2,nonprob,Some college,Single adult household,2021 ACS,0,1539,0.251525993,0.202313025,3.41E-07
+Opt-in 3,nonprob,Some college,Single adult household,2021 ACS,0,1645,0.282782961,0.202313025,3.41E-07
+Probability 1,prob,Some college,Single adult household,2021 ACS,1.4,1543,0.169811744,0.202313025,3.41E-07
+Probability 2,prob,Some college,Single adult household,2021 ACS,3,1363,0.139798739,0.202313025,3.41E-07
+Probability 3,prob,Some college,Single adult household,2021 ACS,7,1743,0.220644803,0.202313025,3.41E-07
+Opt-in 1,nonprob,All adults,Single adult household,2021 ACS,0,4912,0.280725627,0.180637423,6.61E-08
+Opt-in 2,nonprob,All adults,Single adult household,2021 ACS,0,4931,0.265246051,0.180637423,6.61E-08
+Opt-in 3,nonprob,All adults,Single adult household,2021 ACS,0,4955,0.296358216,0.180637423,6.61E-08
+Probability 1,prob,All adults,Single adult household,2021 ACS,1.4,5027,0.195074886,0.180637423,6.61E-08
+Probability 2,prob,All adults,Single adult household,2021 ACS,3,5147,0.149077135,0.180637423,6.61E-08
+Probability 3,prob,All adults,Single adult household,2021 ACS,7,4965,0.218056995,0.180637423,6.61E-08
+Opt-in 1,nonprob,Black non-Hispanic,Single adult household,2021 ACS,0,656,0.408854137,0.265393332,1.00E-06
+Opt-in 2,nonprob,Black non-Hispanic,Single adult household,2021 ACS,0,676,0.397137947,0.265393332,1.00E-06
+Opt-in 3,nonprob,Black non-Hispanic,Single adult household,2021 ACS,0,623,0.357947723,0.265393332,1.00E-06
+Probability 1,prob,Black non-Hispanic,Single adult household,2021 ACS,1.4,470,0.2799714,0.265393332,1.00E-06
+Probability 2,prob,Black non-Hispanic,Single adult household,2021 ACS,3,529,0.20750385,0.265393332,1.00E-06
+Probability 3,prob,Black non-Hispanic,Single adult household,2021 ACS,7,422,0.354496203,0.265393332,1.00E-06
+Opt-in 1,nonprob,Hispanic,Single adult household,2021 ACS,0,904,0.219560582,0.117110449,4.77E-07
+Opt-in 2,nonprob,Hispanic,Single adult household,2021 ACS,0,852,0.262275766,0.117110449,4.77E-07
+Opt-in 3,nonprob,Hispanic,Single adult household,2021 ACS,0,884,0.254756305,0.117110449,4.77E-07
+Probability 1,prob,Hispanic,Single adult household,2021 ACS,1.4,575,0.127801539,0.117110449,4.77E-07
+Probability 2,prob,Hispanic,Single adult household,2021 ACS,3,809,0.101467897,0.117110449,4.77E-07
+Probability 3,prob,Hispanic,Single adult household,2021 ACS,7,318,0.141304391,0.117110449,4.77E-07
+Opt-in 1,nonprob,White non-Hispanic,Single adult household,2021 ACS,0,3079,0.269620582,0.188683854,1.22E-07
+Opt-in 2,nonprob,White non-Hispanic,Single adult household,2021 ACS,0,3245,0.238125495,0.188683854,1.22E-07
+Opt-in 3,nonprob,White non-Hispanic,Single adult household,2021 ACS,0,3148,0.300938813,0.188683854,1.22E-07
+Probability 1,prob,White non-Hispanic,Single adult household,2021 ACS,1.4,3596,0.208630142,0.188683854,1.22E-07
+Probability 2,prob,White non-Hispanic,Single adult household,2021 ACS,3,3362,0.155154819,0.188683854,1.22E-07
+Probability 3,prob,White non-Hispanic,Single adult household,2021 ACS,7,3851,0.217348019,0.188683854,1.22E-07
+Opt-in 1,nonprob,18-29,1+ child in HH,2021 ACS,0,1170,0.402053071,0.329533114,1.16E-06
+Opt-in 2,nonprob,18-29,1+ child in HH,2021 ACS,0,1031,0.40673341,0.329533114,1.16E-06
+Opt-in 3,nonprob,18-29,1+ child in HH,2021 ACS,0,693,0.3625173,0.329533114,1.16E-06
+Probability 1,prob,18-29,1+ child in HH,2021 ACS,1.4,585,0.296278513,0.329533114,1.16E-06
+Probability 2,prob,18-29,1+ child in HH,2021 ACS,3,655,0.340530607,0.329533114,1.16E-06
+Probability 3,prob,18-29,1+ child in HH,2021 ACS,7,363,0.344280623,0.329533114,1.16E-06
+Opt-in 1,nonprob,30-64,1+ child in HH,2021 ACS,0,2637,0.375129331,0.427835807,5.31E-07
+Opt-in 2,nonprob,30-64,1+ child in HH,2021 ACS,0,2564,0.355289314,0.427835807,5.31E-07
+Opt-in 3,nonprob,30-64,1+ child in HH,2021 ACS,0,3087,0.322728543,0.427835807,5.31E-07
+Probability 1,prob,30-64,1+ child in HH,2021 ACS,1.4,3010,0.383971909,0.427835807,5.31E-07
+Probability 2,prob,30-64,1+ child in HH,2021 ACS,3,3192,0.4133792,0.427835807,5.31E-07
+Probability 3,prob,30-64,1+ child in HH,2021 ACS,7,3195,0.401577011,0.427835807,5.31E-07
+Opt-in 1,nonprob,65+,1+ child in HH,2021 ACS,0,1105,0.037454304,0.068607579,2.89E-07
+Opt-in 2,nonprob,65+,1+ child in HH,2021 ACS,0,1336,0.031475047,0.068607579,2.89E-07
+Opt-in 3,nonprob,65+,1+ child in HH,2021 ACS,0,1175,0.023792238,0.068607579,2.89E-07
+Probability 1,prob,65+,1+ child in HH,2021 ACS,1.4,1432,0.070640832,0.068607579,2.89E-07
+Probability 2,prob,65+,1+ child in HH,2021 ACS,3,1261,0.06202124,0.068607579,2.89E-07
+Probability 3,prob,65+,1+ child in HH,2021 ACS,7,1400,0.044713843,0.068607579,2.89E-07
+Opt-in 1,nonprob,College grad,1+ child in HH,2021 ACS,0,1598,0.346348418,0.331631165,4.86E-07
+Opt-in 2,nonprob,College grad,1+ child in HH,2021 ACS,0,1953,0.341983102,0.331631165,4.86E-07
+Opt-in 3,nonprob,College grad,1+ child in HH,2021 ACS,0,1799,0.322918136,0.331631165,4.86E-07
+Probability 1,prob,College grad,1+ child in HH,2021 ACS,1.4,1867,0.317950809,0.331631165,4.86E-07
+Probability 2,prob,College grad,1+ child in HH,2021 ACS,3,2147,0.320356214,0.331631165,4.86E-07
+Probability 3,prob,College grad,1+ child in HH,2021 ACS,7,2166,0.330063651,0.331631165,4.86E-07
+Opt-in 1,nonprob,HS or less,1+ child in HH,2021 ACS,0,1756,0.282847916,0.339236058,9.95E-07
+Opt-in 2,nonprob,HS or less,1+ child in HH,2021 ACS,0,1439,0.24904274,0.339236058,9.95E-07
+Opt-in 3,nonprob,HS or less,1+ child in HH,2021 ACS,0,1511,0.210855096,0.339236058,9.95E-07
+Probability 1,prob,HS or less,1+ child in HH,2021 ACS,1.4,1617,0.300370224,0.339236058,9.95E-07
+Probability 2,prob,HS or less,1+ child in HH,2021 ACS,3,1628,0.34376826,0.339236058,9.95E-07
+Probability 3,prob,HS or less,1+ child in HH,2021 ACS,7,1054,0.28458015,0.339236058,9.95E-07
+Opt-in 1,nonprob,Some college,1+ child in HH,2021 ACS,0,1558,0.296683695,0.319080824,7.15E-07
+Opt-in 2,nonprob,Some college,1+ child in HH,2021 ACS,0,1539,0.304372176,0.319080824,7.15E-07
+Opt-in 3,nonprob,Some college,1+ child in HH,2021 ACS,0,1645,0.267706778,0.319080824,7.15E-07
+Probability 1,prob,Some college,1+ child in HH,2021 ACS,1.4,1543,0.278780476,0.319080824,7.15E-07
+Probability 2,prob,Some college,1+ child in HH,2021 ACS,3,1363,0.301053203,0.319080824,7.15E-07
+Probability 3,prob,Some college,1+ child in HH,2021 ACS,7,1743,0.324598923,0.319080824,7.15E-07
+Opt-in 1,nonprob,All adults,1+ child in HH,2021 ACS,0,4912,0.307261875,0.330757714,3.49E-07
+Opt-in 2,nonprob,All adults,1+ child in HH,2021 ACS,0,4931,0.295617564,0.330757714,3.49E-07
+Opt-in 3,nonprob,All adults,1+ child in HH,2021 ACS,0,4955,0.26530225,0.330757714,3.49E-07
+Probability 1,prob,All adults,1+ child in HH,2021 ACS,1.4,5027,0.299334004,0.330757714,3.49E-07
+Probability 2,prob,All adults,1+ child in HH,2021 ACS,3,5147,0.323348383,0.330757714,3.49E-07
+Probability 3,prob,All adults,1+ child in HH,2021 ACS,7,4965,0.31242304,0.330757714,3.49E-07
+Opt-in 1,nonprob,Black non-Hispanic,1+ child in HH,2021 ACS,0,656,0.381552652,0.346284671,3.40E-06
+Opt-in 2,nonprob,Black non-Hispanic,1+ child in HH,2021 ACS,0,676,0.32205168,0.346284671,3.40E-06
+Opt-in 3,nonprob,Black non-Hispanic,1+ child in HH,2021 ACS,0,623,0.262865373,0.346284671,3.40E-06
+Probability 1,prob,Black non-Hispanic,1+ child in HH,2021 ACS,1.4,470,0.316133598,0.346284671,3.40E-06
+Probability 2,prob,Black non-Hispanic,1+ child in HH,2021 ACS,3,529,0.305462016,0.346284671,3.40E-06
+Probability 3,prob,Black non-Hispanic,1+ child in HH,2021 ACS,7,422,0.341283985,0.346284671,3.40E-06
+Opt-in 1,nonprob,Hispanic,1+ child in HH,2021 ACS,0,904,0.523254476,0.473128953,2.70E-06
+Opt-in 2,nonprob,Hispanic,1+ child in HH,2021 ACS,0,852,0.382201693,0.473128953,2.70E-06
+Opt-in 3,nonprob,Hispanic,1+ child in HH,2021 ACS,0,884,0.375191155,0.473128953,2.70E-06
+Probability 1,prob,Hispanic,1+ child in HH,2021 ACS,1.4,575,0.387814375,0.473128953,2.70E-06
+Probability 2,prob,Hispanic,1+ child in HH,2021 ACS,3,809,0.529668816,0.473128953,2.70E-06
+Probability 3,prob,Hispanic,1+ child in HH,2021 ACS,7,318,0.487170853,0.473128953,2.70E-06
+Opt-in 1,nonprob,White non-Hispanic,1+ child in HH,2021 ACS,0,3079,0.241464254,0.279514049,2.81E-07
+Opt-in 2,nonprob,White non-Hispanic,1+ child in HH,2021 ACS,0,3245,0.280587245,0.279514049,2.81E-07
+Opt-in 3,nonprob,White non-Hispanic,1+ child in HH,2021 ACS,0,3148,0.232725656,0.279514049,2.81E-07
+Probability 1,prob,White non-Hispanic,1+ child in HH,2021 ACS,1.4,3596,0.26388477,0.279514049,2.81E-07
+Probability 2,prob,White non-Hispanic,1+ child in HH,2021 ACS,3,3362,0.272746834,0.279514049,2.81E-07
+Probability 3,prob,White non-Hispanic,1+ child in HH,2021 ACS,7,3851,0.262335431,0.279514049,2.81E-07
+Opt-in 1,nonprob,18-29,Single family home,2021 ACS,0,1170,0.603192997,0.634245039,2.30E-06
+Opt-in 2,nonprob,18-29,Single family home,2021 ACS,0,1031,0.598396988,0.634245039,2.30E-06
+Opt-in 3,nonprob,18-29,Single family home,2021 ACS,0,693,0.628298689,0.634245039,2.30E-06
+Probability 1,prob,18-29,Single family home,2021 ACS,1.4,585,0.686672186,0.634245039,2.30E-06
+Probability 2,prob,18-29,Single family home,2021 ACS,3,655,0.631616849,0.634245039,2.30E-06
+Probability 3,prob,18-29,Single family home,2021 ACS,7,363,0.584703856,0.634245039,2.30E-06
+Opt-in 1,nonprob,30-64,Single family home,2021 ACS,0,2637,0.639481532,0.759085805,5.22E-07
+Opt-in 2,nonprob,30-64,Single family home,2021 ACS,0,2564,0.66263519,0.759085805,5.22E-07
+Opt-in 3,nonprob,30-64,Single family home,2021 ACS,0,3087,0.72741747,0.759085805,5.22E-07
+Probability 1,prob,30-64,Single family home,2021 ACS,1.4,3010,0.7487487,0.759085805,5.22E-07
+Probability 2,prob,30-64,Single family home,2021 ACS,3,3192,0.730794495,0.759085805,5.22E-07
+Probability 3,prob,30-64,Single family home,2021 ACS,7,3195,0.717519617,0.759085805,5.22E-07
+Opt-in 1,nonprob,65+,Single family home,2021 ACS,0,1105,0.777581256,0.782769127,4.59E-07
+Opt-in 2,nonprob,65+,Single family home,2021 ACS,0,1336,0.800700936,0.782769127,4.59E-07
+Opt-in 3,nonprob,65+,Single family home,2021 ACS,0,1175,0.75825539,0.782769127,4.59E-07
+Probability 1,prob,65+,Single family home,2021 ACS,1.4,1432,0.795606996,0.782769127,4.59E-07
+Probability 2,prob,65+,Single family home,2021 ACS,3,1261,0.805496957,0.782769127,4.59E-07
+Probability 3,prob,65+,Single family home,2021 ACS,7,1400,0.769065896,0.782769127,4.59E-07
+Opt-in 1,nonprob,College grad,Single family home,2021 ACS,0,1598,0.744529726,0.778172821,4.71E-07
+Opt-in 2,nonprob,College grad,Single family home,2021 ACS,0,1953,0.750745847,0.778172821,4.71E-07
+Opt-in 3,nonprob,College grad,Single family home,2021 ACS,0,1799,0.772000883,0.778172821,4.71E-07
+Probability 1,prob,College grad,Single family home,2021 ACS,1.4,1867,0.796949837,0.778172821,4.71E-07
+Probability 2,prob,College grad,Single family home,2021 ACS,3,2147,0.792734107,0.778172821,4.71E-07
+Probability 3,prob,College grad,Single family home,2021 ACS,7,2166,0.773451532,0.778172821,4.71E-07
+Opt-in 1,nonprob,HS or less,Single family home,2021 ACS,0,1756,0.592023615,0.698622502,9.08E-07
+Opt-in 2,nonprob,HS or less,Single family home,2021 ACS,0,1439,0.617633276,0.698622502,9.08E-07
+Opt-in 3,nonprob,HS or less,Single family home,2021 ACS,0,1511,0.669870804,0.698622502,9.08E-07
+Probability 1,prob,HS or less,Single family home,2021 ACS,1.4,1617,0.673683065,0.698622502,9.08E-07
+Probability 2,prob,HS or less,Single family home,2021 ACS,3,1628,0.661455814,0.698622502,9.08E-07
+Probability 3,prob,HS or less,Single family home,2021 ACS,7,1054,0.644992206,0.698622502,9.08E-07
+Opt-in 1,nonprob,Some college,Single family home,2021 ACS,0,1558,0.662349379,0.749960029,9.54E-07
+Opt-in 2,nonprob,Some college,Single family home,2021 ACS,0,1539,0.680370901,0.749960029,9.54E-07
+Opt-in 3,nonprob,Some college,Single family home,2021 ACS,0,1645,0.707302463,0.749960029,9.54E-07
+Probability 1,prob,Some college,Single family home,2021 ACS,1.4,1543,0.781109261,0.749960029,9.54E-07
+Probability 2,prob,Some college,Single family home,2021 ACS,3,1363,0.746213325,0.749960029,9.54E-07
+Probability 3,prob,Some college,Single family home,2021 ACS,7,1743,0.705904669,0.749960029,9.54E-07
+Opt-in 1,nonprob,All adults,Single family home,2021 ACS,0,4912,0.662134123,0.740072031,4.92E-07
+Opt-in 2,nonprob,All adults,Single family home,2021 ACS,0,4931,0.67927323,0.740072031,4.92E-07
+Opt-in 3,nonprob,All adults,Single family home,2021 ACS,0,4955,0.715016524,0.740072031,4.92E-07
+Probability 1,prob,All adults,Single family home,2021 ACS,1.4,5027,0.745708847,0.740072031,4.92E-07
+Probability 2,prob,All adults,Single family home,2021 ACS,3,5147,0.728617558,0.740072031,4.92E-07
+Probability 3,prob,All adults,Single family home,2021 ACS,7,4965,0.706590475,0.740072031,4.92E-07
+Opt-in 1,nonprob,Black non-Hispanic,Single family home,2021 ACS,0,656,0.520227692,0.628744428,2.93E-06
+Opt-in 2,nonprob,Black non-Hispanic,Single family home,2021 ACS,0,676,0.566336834,0.628744428,2.93E-06
+Opt-in 3,nonprob,Black non-Hispanic,Single family home,2021 ACS,0,623,0.575153734,0.628744428,2.93E-06
+Probability 1,prob,Black non-Hispanic,Single family home,2021 ACS,1.4,470,0.653528362,0.628744428,2.93E-06
+Probability 2,prob,Black non-Hispanic,Single family home,2021 ACS,3,529,0.636388015,0.628744428,2.93E-06
+Probability 3,prob,Black non-Hispanic,Single family home,2021 ACS,7,422,0.493834989,0.628744428,2.93E-06
+Opt-in 1,nonprob,Hispanic,Single family home,2021 ACS,0,904,0.650198613,0.650261397,2.19E-06
+Opt-in 2,nonprob,Hispanic,Single family home,2021 ACS,0,852,0.587398765,0.650261397,2.19E-06
+Opt-in 3,nonprob,Hispanic,Single family home,2021 ACS,0,884,0.63418591,0.650261397,2.19E-06
+Probability 1,prob,Hispanic,Single family home,2021 ACS,1.4,575,0.704086287,0.650261397,2.19E-06
+Probability 2,prob,Hispanic,Single family home,2021 ACS,3,809,0.668064799,0.650261397,2.19E-06
+Probability 3,prob,Hispanic,Single family home,2021 ACS,7,318,0.663641234,0.650261397,2.19E-06
+Opt-in 1,nonprob,White non-Hispanic,Single family home,2021 ACS,0,3079,0.705981523,0.791363831,4.38E-07
+Opt-in 2,nonprob,White non-Hispanic,Single family home,2021 ACS,0,3245,0.720144792,0.791363831,4.38E-07
+Opt-in 3,nonprob,White non-Hispanic,Single family home,2021 ACS,0,3148,0.752329502,0.791363831,4.38E-07
+Probability 1,prob,White non-Hispanic,Single family home,2021 ACS,1.4,3596,0.783764779,0.791363831,4.38E-07
+Probability 2,prob,White non-Hispanic,Single family home,2021 ACS,3,3362,0.772735019,0.791363831,4.38E-07
+Probability 3,prob,White non-Hispanic,Single family home,2021 ACS,7,3851,0.76341378,0.791363831,4.38E-07
+Opt-in 1,nonprob,18-29,Served in the military,2021 ACS,0,1170,0.282087908,0.033800768,1.23E-07
+Opt-in 2,nonprob,18-29,Served in the military,2021 ACS,0,1031,0.268913066,0.033800768,1.23E-07
+Opt-in 3,nonprob,18-29,Served in the military,2021 ACS,0,693,0.236319175,0.033800768,1.23E-07
+Probability 1,prob,18-29,Served in the military,2021 ACS,1.4,585,0.035232401,0.033800768,1.23E-07
+Probability 2,prob,18-29,Served in the military,2021 ACS,3,655,0.0982458,0.033800768,1.23E-07
+Probability 3,prob,18-29,Served in the military,2021 ACS,7,363,0.026245867,0.033800768,1.23E-07
+Opt-in 1,nonprob,30-64,Served in the military,2021 ACS,0,2637,0.163838876,0.063654051,7.91E-08
+Opt-in 2,nonprob,30-64,Served in the military,2021 ACS,0,2564,0.15635924,0.063654051,7.91E-08
+Opt-in 3,nonprob,30-64,Served in the military,2021 ACS,0,3087,0.122679471,0.063654051,7.91E-08
+Probability 1,prob,30-64,Served in the military,2021 ACS,1.4,3010,0.097501609,0.063654051,7.91E-08
+Probability 2,prob,30-64,Served in the military,2021 ACS,3,3192,0.106283897,0.063654051,7.91E-08
+Probability 3,prob,30-64,Served in the military,2021 ACS,7,3195,0.097805333,0.063654051,7.91E-08
+Opt-in 1,nonprob,65+,Served in the military,2021 ACS,0,1105,0.21035195,0.171673526,2.67E-07
+Opt-in 2,nonprob,65+,Served in the military,2021 ACS,0,1336,0.200780456,0.171673526,2.67E-07
+Opt-in 3,nonprob,65+,Served in the military,2021 ACS,0,1175,0.228712088,0.171673526,2.67E-07
+Probability 1,prob,65+,Served in the military,2021 ACS,1.4,1432,0.192982612,0.171673526,2.67E-07
+Probability 2,prob,65+,Served in the military,2021 ACS,3,1261,0.218426591,0.171673526,2.67E-07
+Probability 3,prob,65+,Served in the military,2021 ACS,7,1400,0.201387237,0.171673526,2.67E-07
+Opt-in 1,nonprob,College grad,Served in the military,2021 ACS,0,1598,0.214235572,0.077107879,1.41E-07
+Opt-in 2,nonprob,College grad,Served in the military,2021 ACS,0,1953,0.221518827,0.077107879,1.41E-07
+Opt-in 3,nonprob,College grad,Served in the military,2021 ACS,0,1799,0.1552763,0.077107879,1.41E-07
+Probability 1,prob,College grad,Served in the military,2021 ACS,1.4,1867,0.092583532,0.077107879,1.41E-07
+Probability 2,prob,College grad,Served in the military,2021 ACS,3,2147,0.096728596,0.077107879,1.41E-07
+Probability 3,prob,College grad,Served in the military,2021 ACS,7,2166,0.095180974,0.077107879,1.41E-07
+Opt-in 1,nonprob,HS or less,Served in the military,2021 ACS,0,1756,0.184347301,0.06788515,1.14E-07
+Opt-in 2,nonprob,HS or less,Served in the military,2021 ACS,0,1439,0.169322725,0.06788515,1.14E-07
+Opt-in 3,nonprob,HS or less,Served in the military,2021 ACS,0,1511,0.169865317,0.06788515,1.14E-07
+Probability 1,prob,HS or less,Served in the military,2021 ACS,1.4,1617,0.097283954,0.06788515,1.14E-07
+Probability 2,prob,HS or less,Served in the military,2021 ACS,3,1628,0.129838071,0.06788515,1.14E-07
+Probability 3,prob,HS or less,Served in the military,2021 ACS,7,1054,0.117038999,0.06788515,1.14E-07
+Opt-in 1,nonprob,Some college,Served in the military,2021 ACS,0,1558,0.197230976,0.101187212,2.36E-07
+Opt-in 2,nonprob,Some college,Served in the military,2021 ACS,0,1539,0.18071393,0.101187212,2.36E-07
+Opt-in 3,nonprob,Some college,Served in the military,2021 ACS,0,1645,0.178243368,0.101187212,2.36E-07
+Probability 1,prob,Some college,Served in the military,2021 ACS,1.4,1543,0.126405606,0.101187212,2.36E-07
+Probability 2,prob,Some college,Served in the military,2021 ACS,3,1363,0.157077508,0.101187212,2.36E-07
+Probability 3,prob,Some college,Served in the military,2021 ACS,7,1743,0.113469622,0.101187212,2.36E-07
+Opt-in 1,nonprob,All adults,Served in the military,2021 ACS,0,4912,0.197809546,0.080797258,5.04E-08
+Opt-in 2,nonprob,All adults,Served in the military,2021 ACS,0,4931,0.189438882,0.080797258,5.04E-08
+Opt-in 3,nonprob,All adults,Served in the military,2021 ACS,0,4955,0.167687674,0.080797258,5.04E-08
+Probability 1,prob,All adults,Served in the military,2021 ACS,1.4,5027,0.104714687,0.080797258,5.04E-08
+Probability 2,prob,All adults,Served in the military,2021 ACS,3,5147,0.128118697,0.080797258,5.04E-08
+Probability 3,prob,All adults,Served in the military,2021 ACS,7,4965,0.108546626,0.080797258,5.04E-08
+Opt-in 1,nonprob,Black non-Hispanic,Served in the military,2021 ACS,0,656,0.291230621,0.085887202,7.10E-07
+Opt-in 2,nonprob,Black non-Hispanic,Served in the military,2021 ACS,0,676,0.224387566,0.085887202,7.10E-07
+Opt-in 3,nonprob,Black non-Hispanic,Served in the military,2021 ACS,0,623,0.17946775,0.085887202,7.10E-07
+Probability 1,prob,Black non-Hispanic,Served in the military,2021 ACS,1.4,470,0.134253049,0.085887202,7.10E-07
+Probability 2,prob,Black non-Hispanic,Served in the military,2021 ACS,3,529,0.154604511,0.085887202,7.10E-07
+Probability 3,prob,Black non-Hispanic,Served in the military,2021 ACS,7,422,0.105572448,0.085887202,7.10E-07
+Opt-in 1,nonprob,Hispanic,Served in the military,2021 ACS,0,904,0.255878438,0.042315108,1.62E-07
+Opt-in 2,nonprob,Hispanic,Served in the military,2021 ACS,0,852,0.268804461,0.042315108,1.62E-07
+Opt-in 3,nonprob,Hispanic,Served in the military,2021 ACS,0,884,0.266544091,0.042315108,1.62E-07
+Probability 1,prob,Hispanic,Served in the military,2021 ACS,1.4,575,0.065425107,0.042315108,1.62E-07
+Probability 2,prob,Hispanic,Served in the military,2021 ACS,3,809,0.087980153,0.042315108,1.62E-07
+Probability 3,prob,Hispanic,Served in the military,2021 ACS,7,318,0.088236242,0.042315108,1.62E-07
+Opt-in 1,nonprob,White non-Hispanic,Served in the military,2021 ACS,0,3079,0.161651183,0.095351111,9.22E-08
+Opt-in 2,nonprob,White non-Hispanic,Served in the military,2021 ACS,0,3245,0.164913015,0.095351111,9.22E-08
+Opt-in 3,nonprob,White non-Hispanic,Served in the military,2021 ACS,0,3148,0.139829961,0.095351111,9.22E-08
+Probability 1,prob,White non-Hispanic,Served in the military,2021 ACS,1.4,3596,0.114846091,0.095351111,9.22E-08
+Probability 2,prob,White non-Hispanic,Served in the military,2021 ACS,3,3362,0.128778809,0.095351111,9.22E-08
+Probability 3,prob,White non-Hispanic,Served in the military,2021 ACS,7,3851,0.115475164,0.095351111,9.22E-08
+Opt-in 1,nonprob,18-29,Own home,2021 ACS,0,1170,0.540621029,0.513831787,3.53E-06
+Opt-in 2,nonprob,18-29,Own home,2021 ACS,0,1031,0.553055346,0.513831787,3.53E-06
+Opt-in 3,nonprob,18-29,Own home,2021 ACS,0,693,0.517379682,0.513831787,3.53E-06
+Probability 1,prob,18-29,Own home,2021 ACS,1.4,585,0.574193294,0.513831787,3.53E-06
+Probability 2,prob,18-29,Own home,2021 ACS,3,655,0.478511037,0.513831787,3.53E-06
+Probability 3,prob,18-29,Own home,2021 ACS,7,363,0.441867617,0.513831787,3.53E-06
+Opt-in 1,nonprob,30-64,Own home,2021 ACS,0,2637,0.580974639,0.704178695,8.88E-07
+Opt-in 2,nonprob,30-64,Own home,2021 ACS,0,2564,0.614089831,0.704178695,8.88E-07
+Opt-in 3,nonprob,30-64,Own home,2021 ACS,0,3087,0.698565812,0.704178695,8.88E-07
+Probability 1,prob,30-64,Own home,2021 ACS,1.4,3010,0.674665504,0.704178695,8.88E-07
+Probability 2,prob,30-64,Own home,2021 ACS,3,3192,0.667939898,0.704178695,8.88E-07
+Probability 3,prob,30-64,Own home,2021 ACS,7,3195,0.652875829,0.704178695,8.88E-07
+Opt-in 1,nonprob,65+,Own home,2021 ACS,0,1105,0.773721022,0.818165905,5.62E-07
+Opt-in 2,nonprob,65+,Own home,2021 ACS,0,1336,0.831794563,0.818165905,5.62E-07
+Opt-in 3,nonprob,65+,Own home,2021 ACS,0,1175,0.813655722,0.818165905,5.62E-07
+Probability 1,prob,65+,Own home,2021 ACS,1.4,1432,0.805023773,0.818165905,5.62E-07
+Probability 2,prob,65+,Own home,2021 ACS,3,1261,0.854265572,0.818165905,5.62E-07
+Probability 3,prob,65+,Own home,2021 ACS,7,1400,0.791932091,0.818165905,5.62E-07
+Opt-in 1,nonprob,College grad,Own home,2021 ACS,0,1598,0.772557775,0.755825807,6.74E-07
+Opt-in 2,nonprob,College grad,Own home,2021 ACS,0,1953,0.794006362,0.755825807,6.74E-07
+Opt-in 3,nonprob,College grad,Own home,2021 ACS,0,1799,0.774957883,0.755825807,6.74E-07
+Probability 1,prob,College grad,Own home,2021 ACS,1.4,1867,0.759087664,0.755825807,6.74E-07
+Probability 2,prob,College grad,Own home,2021 ACS,3,2147,0.756738237,0.755825807,6.74E-07
+Probability 3,prob,College grad,Own home,2021 ACS,7,2166,0.734096881,0.755825807,6.74E-07
+Opt-in 1,nonprob,HS or less,Own home,2021 ACS,0,1756,0.484797076,0.638488803,1.34E-06
+Opt-in 2,nonprob,HS or less,Own home,2021 ACS,0,1439,0.551405445,0.638488803,1.34E-06
+Opt-in 3,nonprob,HS or less,Own home,2021 ACS,0,1511,0.630012373,0.638488803,1.34E-06
+Probability 1,prob,HS or less,Own home,2021 ACS,1.4,1617,0.589316275,0.638488803,1.34E-06
+Probability 2,prob,HS or less,Own home,2021 ACS,3,1628,0.594990878,0.638488803,1.34E-06
+Probability 3,prob,HS or less,Own home,2021 ACS,7,1054,0.566455883,0.638488803,1.34E-06
+Opt-in 1,nonprob,Some college,Own home,2021 ACS,0,1558,0.609677909,0.68846793,1.53E-06
+Opt-in 2,nonprob,Some college,Own home,2021 ACS,0,1539,0.616734226,0.68846793,1.53E-06
+Opt-in 3,nonprob,Some college,Own home,2021 ACS,0,1645,0.665785663,0.68846793,1.53E-06
+Probability 1,prob,Some college,Own home,2021 ACS,1.4,1543,0.713676828,0.68846793,1.53E-06
+Probability 2,prob,Some college,Own home,2021 ACS,3,1363,0.68070861,0.68846793,1.53E-06
+Probability 3,prob,Some college,Own home,2021 ACS,7,1743,0.647933749,0.68846793,1.53E-06
+Opt-in 1,nonprob,All adults,Own home,2021 ACS,0,4912,0.614669325,0.692103379,8.96E-07
+Opt-in 2,nonprob,All adults,Own home,2021 ACS,0,4931,0.648703538,0.692103379,8.96E-07
+Opt-in 3,nonprob,All adults,Own home,2021 ACS,0,4955,0.688684684,0.692103379,8.96E-07
+Probability 1,prob,All adults,Own home,2021 ACS,1.4,5027,0.6812864,0.692103379,8.96E-07
+Probability 2,prob,All adults,Own home,2021 ACS,3,5147,0.672047268,0.692103379,8.96E-07
+Probability 3,prob,All adults,Own home,2021 ACS,7,4965,0.64791807,0.692103379,8.96E-07
+Opt-in 1,nonprob,Black non-Hispanic,Own home,2021 ACS,0,656,0.459443589,0.510354289,3.63E-06
+Opt-in 2,nonprob,Black non-Hispanic,Own home,2021 ACS,0,676,0.472055253,0.510354289,3.63E-06
+Opt-in 3,nonprob,Black non-Hispanic,Own home,2021 ACS,0,623,0.427818731,0.510354289,3.63E-06
+Probability 1,prob,Black non-Hispanic,Own home,2021 ACS,1.4,470,0.540047788,0.510354289,3.63E-06
+Probability 2,prob,Black non-Hispanic,Own home,2021 ACS,3,529,0.478106465,0.510354289,3.63E-06
+Probability 3,prob,Black non-Hispanic,Own home,2021 ACS,7,422,0.399109953,0.510354289,3.63E-06
+Opt-in 1,nonprob,Hispanic,Own home,2021 ACS,0,904,0.508655097,0.556851397,3.46E-06
+Opt-in 2,nonprob,Hispanic,Own home,2021 ACS,0,852,0.547134338,0.556851397,3.46E-06
+Opt-in 3,nonprob,Hispanic,Own home,2021 ACS,0,884,0.597830109,0.556851397,3.46E-06
+Probability 1,prob,Hispanic,Own home,2021 ACS,1.4,575,0.589033341,0.556851397,3.46E-06
+Probability 2,prob,Hispanic,Own home,2021 ACS,3,809,0.528634376,0.556851397,3.46E-06
+Probability 3,prob,Hispanic,Own home,2021 ACS,7,318,0.592666138,0.556851397,3.46E-06
+Opt-in 1,nonprob,White non-Hispanic,Own home,2021 ACS,0,3079,0.680964698,0.768658918,8.15E-07
+Opt-in 2,nonprob,White non-Hispanic,Own home,2021 ACS,0,3245,0.707238945,0.768658918,8.15E-07
+Opt-in 3,nonprob,White non-Hispanic,Own home,2021 ACS,0,3148,0.757841515,0.768658918,8.15E-07
+Probability 1,prob,White non-Hispanic,Own home,2021 ACS,1.4,3596,0.73644336,0.768658918,8.15E-07
+Probability 2,prob,White non-Hispanic,Own home,2021 ACS,3,3362,0.746804876,0.768658918,8.15E-07
+Probability 3,prob,White non-Hispanic,Own home,2021 ACS,7,3851,0.716533191,0.768658918,8.15E-07
+Opt-in 1,nonprob,18-29,Received food stamps,2021 CPS ASEC,0,1170,0.3799995,0.128677619,1.15E-05
+Opt-in 2,nonprob,18-29,Received food stamps,2021 CPS ASEC,0,1031,0.411578227,0.128677619,1.15E-05
+Opt-in 3,nonprob,18-29,Received food stamps,2021 CPS ASEC,0,693,0.318760218,0.128677619,1.15E-05
+Probability 1,prob,18-29,Received food stamps,2021 CPS ASEC,1.4,585,0.132705201,0.128677619,1.15E-05
+Probability 2,prob,18-29,Received food stamps,2021 CPS ASEC,3,655,0.198915875,0.128677619,1.15E-05
+Probability 3,prob,18-29,Received food stamps,2021 CPS ASEC,7,363,0.215434696,0.128677619,1.15E-05
+Opt-in 1,nonprob,30-64,Received food stamps,2021 CPS ASEC,0,2637,0.334237013,0.117656838,3.48E-06
+Opt-in 2,nonprob,30-64,Received food stamps,2021 CPS ASEC,0,2564,0.346074305,0.117656838,3.48E-06
+Opt-in 3,nonprob,30-64,Received food stamps,2021 CPS ASEC,0,3087,0.230213443,0.117656838,3.48E-06
+Probability 1,prob,30-64,Received food stamps,2021 CPS ASEC,1.4,3010,0.159145685,0.117656838,3.48E-06
+Probability 2,prob,30-64,Received food stamps,2021 CPS ASEC,3,3192,0.220955008,0.117656838,3.48E-06
+Probability 3,prob,30-64,Received food stamps,2021 CPS ASEC,7,3195,0.197612185,0.117656838,3.48E-06
+Opt-in 1,nonprob,65+,Received food stamps,2021 CPS ASEC,0,1105,0.134724355,0.076892352,3.97E-06
+Opt-in 2,nonprob,65+,Received food stamps,2021 CPS ASEC,0,1336,0.065834552,0.076892352,3.97E-06
+Opt-in 3,nonprob,65+,Received food stamps,2021 CPS ASEC,0,1175,0.090836126,0.076892352,3.97E-06
+Probability 1,prob,65+,Received food stamps,2021 CPS ASEC,1.4,1432,0.096666171,0.076892352,3.97E-06
+Probability 2,prob,65+,Received food stamps,2021 CPS ASEC,3,1261,0.099080747,0.076892352,3.97E-06
+Probability 3,prob,65+,Received food stamps,2021 CPS ASEC,7,1400,0.129434968,0.076892352,3.97E-06
+Opt-in 1,nonprob,College grad,Received food stamps,2021 CPS ASEC,0,1598,0.203779698,0.0379846,1.89E-06
+Opt-in 2,nonprob,College grad,Received food stamps,2021 CPS ASEC,0,1953,0.230014421,0.0379846,1.89E-06
+Opt-in 3,nonprob,College grad,Received food stamps,2021 CPS ASEC,0,1799,0.126955367,0.0379846,1.89E-06
+Probability 1,prob,College grad,Received food stamps,2021 CPS ASEC,1.4,1867,0.032774239,0.0379846,1.89E-06
+Probability 2,prob,College grad,Received food stamps,2021 CPS ASEC,3,2147,0.064912,0.0379846,1.89E-06
+Probability 3,prob,College grad,Received food stamps,2021 CPS ASEC,7,2166,0.052593325,0.0379846,1.89E-06
+Opt-in 1,nonprob,HS or less,Received food stamps,2021 CPS ASEC,0,1756,0.366508733,0.179894573,7.96E-06
+Opt-in 2,nonprob,HS or less,Received food stamps,2021 CPS ASEC,0,1439,0.34166993,0.179894573,7.96E-06
+Opt-in 3,nonprob,HS or less,Received food stamps,2021 CPS ASEC,0,1511,0.279484821,0.179894573,7.96E-06
+Probability 1,prob,HS or less,Received food stamps,2021 CPS ASEC,1.4,1617,0.242971506,0.179894573,7.96E-06
+Probability 2,prob,HS or less,Received food stamps,2021 CPS ASEC,3,1628,0.303565497,0.179894573,7.96E-06
+Probability 3,prob,HS or less,Received food stamps,2021 CPS ASEC,7,1054,0.299140472,0.179894573,7.96E-06
+Opt-in 1,nonprob,Some college,Received food stamps,2021 CPS ASEC,0,1558,0.318837393,0.104302073,5.61E-06
+Opt-in 2,nonprob,Some college,Received food stamps,2021 CPS ASEC,0,1539,0.317826757,0.104302073,5.61E-06
+Opt-in 3,nonprob,Some college,Received food stamps,2021 CPS ASEC,0,1645,0.23925587,0.104302073,5.61E-06
+Probability 1,prob,Some college,Received food stamps,2021 CPS ASEC,1.4,1543,0.125873585,0.104302073,5.61E-06
+Probability 2,prob,Some college,Received food stamps,2021 CPS ASEC,3,1363,0.181531391,0.104302073,5.61E-06
+Probability 3,prob,Some college,Received food stamps,2021 CPS ASEC,7,1743,0.196525397,0.104302073,5.61E-06
+Opt-in 1,nonprob,All adults,Received food stamps,2021 CPS ASEC,0,4912,0.3001655,0.110911762,2.44E-06
+Opt-in 2,nonprob,All adults,Received food stamps,2021 CPS ASEC,0,4931,0.298799302,0.110911762,2.44E-06
+Opt-in 3,nonprob,All adults,Received food stamps,2021 CPS ASEC,0,4955,0.216938492,0.110911762,2.44E-06
+Probability 1,prob,All adults,Received food stamps,2021 CPS ASEC,1.4,5027,0.140399229,0.110911762,2.44E-06
+Probability 2,prob,All adults,Received food stamps,2021 CPS ASEC,3,5147,0.189816597,0.110911762,2.44E-06
+Probability 3,prob,All adults,Received food stamps,2021 CPS ASEC,7,4965,0.185363048,0.110911762,2.44E-06
+Opt-in 1,nonprob,Black non-Hispanic,Received food stamps,2021 CPS ASEC,0,656,0.40333805,0.202257147,2.71E-05
+Opt-in 2,nonprob,Black non-Hispanic,Received food stamps,2021 CPS ASEC,0,676,0.369426422,0.202257147,2.71E-05
+Opt-in 3,nonprob,Black non-Hispanic,Received food stamps,2021 CPS ASEC,0,623,0.334775083,0.202257147,2.71E-05
+Probability 1,prob,Black non-Hispanic,Received food stamps,2021 CPS ASEC,1.4,470,0.301713735,0.202257147,2.71E-05
+Probability 2,prob,Black non-Hispanic,Received food stamps,2021 CPS ASEC,3,529,0.3767183,0.202257147,2.71E-05
+Probability 3,prob,Black non-Hispanic,Received food stamps,2021 CPS ASEC,7,422,0.365952884,0.202257147,2.71E-05
+Opt-in 1,nonprob,Hispanic,Received food stamps,2021 CPS ASEC,0,904,0.473699558,0.164595464,1.91E-05
+Opt-in 2,nonprob,Hispanic,Received food stamps,2021 CPS ASEC,0,852,0.412031823,0.164595464,1.91E-05
+Opt-in 3,nonprob,Hispanic,Received food stamps,2021 CPS ASEC,0,884,0.358302179,0.164595464,1.91E-05
+Probability 1,prob,Hispanic,Received food stamps,2021 CPS ASEC,1.4,575,0.187968787,0.164595464,1.91E-05
+Probability 2,prob,Hispanic,Received food stamps,2021 CPS ASEC,3,809,0.273755719,0.164595464,1.91E-05
+Probability 3,prob,Hispanic,Received food stamps,2021 CPS ASEC,7,318,0.253462454,0.164595464,1.91E-05
+Opt-in 1,nonprob,White non-Hispanic,Received food stamps,2021 CPS ASEC,0,3079,0.246104295,0.080902254,2.73E-06
+Opt-in 2,nonprob,White non-Hispanic,Received food stamps,2021 CPS ASEC,0,3245,0.265889573,0.080902254,2.73E-06
+Opt-in 3,nonprob,White non-Hispanic,Received food stamps,2021 CPS ASEC,0,3148,0.166510394,0.080902254,2.73E-06
+Probability 1,prob,White non-Hispanic,Received food stamps,2021 CPS ASEC,1.4,3596,0.099957446,0.080902254,2.73E-06
+Probability 2,prob,White non-Hispanic,Received food stamps,2021 CPS ASEC,3,3362,0.136699689,0.080902254,2.73E-06
+Probability 3,prob,White non-Hispanic,Received food stamps,2021 CPS ASEC,7,3851,0.140350922,0.080902254,2.73E-06
+Opt-in 1,nonprob,18-29,Worked last year,2021 CPS ASEC,0,1170,0.664637291,0.716829956,1.61E-05
+Opt-in 2,nonprob,18-29,Worked last year,2021 CPS ASEC,0,1031,0.609712407,0.716829956,1.61E-05
+Opt-in 3,nonprob,18-29,Worked last year,2021 CPS ASEC,0,693,0.630800513,0.716829956,1.61E-05
+Probability 1,prob,18-29,Worked last year,2021 CPS ASEC,1.4,585,0.691806301,0.716829956,1.61E-05
+Probability 2,prob,18-29,Worked last year,2021 CPS ASEC,3,655,0.756918094,0.716829956,1.61E-05
+Probability 3,prob,18-29,Worked last year,2021 CPS ASEC,7,363,0.731158482,0.716829956,1.61E-05
+Opt-in 1,nonprob,30-64,Worked last year,2021 CPS ASEC,0,2637,0.607525684,0.778092494,3.99E-06
+Opt-in 2,nonprob,30-64,Worked last year,2021 CPS ASEC,0,2564,0.609046537,0.778092494,3.99E-06
+Opt-in 3,nonprob,30-64,Worked last year,2021 CPS ASEC,0,3087,0.661819236,0.778092494,3.99E-06
+Probability 1,prob,30-64,Worked last year,2021 CPS ASEC,1.4,3010,0.708740473,0.778092494,3.99E-06
+Probability 2,prob,30-64,Worked last year,2021 CPS ASEC,3,3192,0.751452364,0.778092494,3.99E-06
+Probability 3,prob,30-64,Worked last year,2021 CPS ASEC,7,3195,0.735287339,0.778092494,3.99E-06
+Opt-in 1,nonprob,65+,Worked last year,2021 CPS ASEC,0,1105,0.175350748,0.216821732,1.17E-05
+Opt-in 2,nonprob,65+,Worked last year,2021 CPS ASEC,0,1336,0.185430689,0.216821732,1.17E-05
+Opt-in 3,nonprob,65+,Worked last year,2021 CPS ASEC,0,1175,0.225957132,0.216821732,1.17E-05
+Probability 1,prob,65+,Worked last year,2021 CPS ASEC,1.4,1432,0.226801493,0.216821732,1.17E-05
+Probability 2,prob,65+,Worked last year,2021 CPS ASEC,3,1261,0.27899521,0.216821732,1.17E-05
+Probability 3,prob,65+,Worked last year,2021 CPS ASEC,7,1400,0.268961404,0.216821732,1.17E-05
+Opt-in 1,nonprob,College grad,Worked last year,2021 CPS ASEC,0,1598,0.631851035,0.74166005,6.65E-06
+Opt-in 2,nonprob,College grad,Worked last year,2021 CPS ASEC,0,1953,0.634774931,0.74166005,6.65E-06
+Opt-in 3,nonprob,College grad,Worked last year,2021 CPS ASEC,0,1799,0.704534737,0.74166005,6.65E-06
+Probability 1,prob,College grad,Worked last year,2021 CPS ASEC,1.4,1867,0.724424388,0.74166005,6.65E-06
+Probability 2,prob,College grad,Worked last year,2021 CPS ASEC,3,2147,0.758154547,0.74166005,6.65E-06
+Probability 3,prob,College grad,Worked last year,2021 CPS ASEC,7,2166,0.763381007,0.74166005,6.65E-06
+Opt-in 1,nonprob,HS or less,Worked last year,2021 CPS ASEC,0,1756,0.438381701,0.546098409,1.03E-05
+Opt-in 2,nonprob,HS or less,Worked last year,2021 CPS ASEC,0,1439,0.391016715,0.546098409,1.03E-05
+Opt-in 3,nonprob,HS or less,Worked last year,2021 CPS ASEC,0,1511,0.431786779,0.546098409,1.03E-05
+Probability 1,prob,HS or less,Worked last year,2021 CPS ASEC,1.4,1617,0.473649715,0.546098409,1.03E-05
+Probability 2,prob,HS or less,Worked last year,2021 CPS ASEC,3,1628,0.547481114,0.546098409,1.03E-05
+Probability 3,prob,HS or less,Worked last year,2021 CPS ASEC,7,1054,0.486998239,0.546098409,1.03E-05
+Opt-in 1,nonprob,Some college,Worked last year,2021 CPS ASEC,0,1558,0.52085672,0.653331548,9.19E-06
+Opt-in 2,nonprob,Some college,Worked last year,2021 CPS ASEC,0,1539,0.54898634,0.653331548,9.19E-06
+Opt-in 3,nonprob,Some college,Worked last year,2021 CPS ASEC,0,1645,0.559274414,0.653331548,9.19E-06
+Probability 1,prob,Some college,Worked last year,2021 CPS ASEC,1.4,1543,0.636717325,0.653331548,9.19E-06
+Probability 2,prob,Some college,Worked last year,2021 CPS ASEC,3,1363,0.672163147,0.653331548,9.19E-06
+Probability 3,prob,Some college,Worked last year,2021 CPS ASEC,7,1743,0.653999968,0.653331548,9.19E-06
+Opt-in 1,nonprob,All adults,Worked last year,2021 CPS ASEC,0,4912,0.525238694,0.64199396,2.96E-06
+Opt-in 2,nonprob,All adults,Worked last year,2021 CPS ASEC,0,4931,0.517115589,0.64199396,2.96E-06
+Opt-in 3,nonprob,All adults,Worked last year,2021 CPS ASEC,0,4955,0.560917911,0.64199396,2.96E-06
+Probability 1,prob,All adults,Worked last year,2021 CPS ASEC,1.4,5027,0.603181359,0.64199396,2.96E-06
+Probability 2,prob,All adults,Worked last year,2021 CPS ASEC,3,5147,0.652200636,0.64199396,2.96E-06
+Probability 3,prob,All adults,Worked last year,2021 CPS ASEC,7,4965,0.631237062,0.64199396,2.96E-06
+Opt-in 1,nonprob,Black non-Hispanic,Worked last year,2021 CPS ASEC,0,656,0.659888265,0.62205817,2.04E-05
+Opt-in 2,nonprob,Black non-Hispanic,Worked last year,2021 CPS ASEC,0,676,0.49132226,0.62205817,2.04E-05
+Opt-in 3,nonprob,Black non-Hispanic,Worked last year,2021 CPS ASEC,0,623,0.615122757,0.62205817,2.04E-05
+Probability 1,prob,Black non-Hispanic,Worked last year,2021 CPS ASEC,1.4,470,0.570751012,0.62205817,2.04E-05
+Probability 2,prob,Black non-Hispanic,Worked last year,2021 CPS ASEC,3,529,0.638874748,0.62205817,2.04E-05
+Probability 3,prob,Black non-Hispanic,Worked last year,2021 CPS ASEC,7,422,0.586347148,0.62205817,2.04E-05
+Opt-in 1,nonprob,Hispanic,Worked last year,2021 CPS ASEC,0,904,0.608081228,0.672600184,1.31E-05
+Opt-in 2,nonprob,Hispanic,Worked last year,2021 CPS ASEC,0,852,0.547207798,0.672600184,1.31E-05
+Opt-in 3,nonprob,Hispanic,Worked last year,2021 CPS ASEC,0,884,0.594794526,0.672600184,1.31E-05
+Probability 1,prob,Hispanic,Worked last year,2021 CPS ASEC,1.4,575,0.596509771,0.672600184,1.31E-05
+Probability 2,prob,Hispanic,Worked last year,2021 CPS ASEC,3,809,0.657127023,0.672600184,1.31E-05
+Probability 3,prob,Hispanic,Worked last year,2021 CPS ASEC,7,318,0.73119432,0.672600184,1.31E-05
+Opt-in 1,nonprob,White non-Hispanic,Worked last year,2021 CPS ASEC,0,3079,0.478369854,0.636153924,4.88E-06
+Opt-in 2,nonprob,White non-Hispanic,Worked last year,2021 CPS ASEC,0,3245,0.507434092,0.636153924,4.88E-06
+Opt-in 3,nonprob,White non-Hispanic,Worked last year,2021 CPS ASEC,0,3148,0.534633037,0.636153924,4.88E-06
+Probability 1,prob,White non-Hispanic,Worked last year,2021 CPS ASEC,1.4,3596,0.609687125,0.636153924,4.88E-06
+Probability 2,prob,White non-Hispanic,Worked last year,2021 CPS ASEC,3,3362,0.648683534,0.636153924,4.88E-06
+Probability 3,prob,White non-Hispanic,Worked last year,2021 CPS ASEC,7,3851,0.616731004,0.636153924,4.88E-06
+Opt-in 1,nonprob,18-29,Married,2021 CPS ASEC,0,1170,0.159664155,0.160848723,9.51E-07
+Opt-in 2,nonprob,18-29,Married,2021 CPS ASEC,0,1031,0.20521003,0.160848723,9.51E-07
+Opt-in 3,nonprob,18-29,Married,2021 CPS ASEC,0,693,0.118093882,0.160848723,9.51E-07
+Probability 1,prob,18-29,Married,2021 CPS ASEC,1.4,585,0.192903603,0.160848723,9.51E-07
+Probability 2,prob,18-29,Married,2021 CPS ASEC,3,655,0.191435051,0.160848723,9.51E-07
+Probability 3,prob,18-29,Married,2021 CPS ASEC,7,363,0.165719908,0.160848723,9.51E-07
+Opt-in 1,nonprob,30-64,Married,2021 CPS ASEC,0,2637,0.447986266,0.623748001,3.66E-07
+Opt-in 2,nonprob,30-64,Married,2021 CPS ASEC,0,2564,0.492212394,0.623748001,3.66E-07
+Opt-in 3,nonprob,30-64,Married,2021 CPS ASEC,0,3087,0.520911768,0.623748001,3.66E-07
+Probability 1,prob,30-64,Married,2021 CPS ASEC,1.4,3010,0.625955932,0.623748001,3.66E-07
+Probability 2,prob,30-64,Married,2021 CPS ASEC,3,3192,0.592783411,0.623748001,3.66E-07
+Probability 3,prob,30-64,Married,2021 CPS ASEC,7,3195,0.59172251,0.623748001,3.66E-07
+Opt-in 1,nonprob,65+,Married,2021 CPS ASEC,0,1105,0.544142091,0.568160558,7.45E-07
+Opt-in 2,nonprob,65+,Married,2021 CPS ASEC,0,1336,0.612622168,0.568160558,7.45E-07
+Opt-in 3,nonprob,65+,Married,2021 CPS ASEC,0,1175,0.514745015,0.568160558,7.45E-07
+Probability 1,prob,65+,Married,2021 CPS ASEC,1.4,1432,0.635573059,0.568160558,7.45E-07
+Probability 2,prob,65+,Married,2021 CPS ASEC,3,1261,0.645152571,0.568160558,7.45E-07
+Probability 3,prob,65+,Married,2021 CPS ASEC,7,1400,0.542961374,0.568160558,7.45E-07
+Opt-in 1,nonprob,College grad,Married,2021 CPS ASEC,0,1598,0.533700086,0.628743428,4.75E-07
+Opt-in 2,nonprob,College grad,Married,2021 CPS ASEC,0,1953,0.591619396,0.628743428,4.75E-07
+Opt-in 3,nonprob,College grad,Married,2021 CPS ASEC,0,1799,0.571177118,0.628743428,4.75E-07
+Probability 1,prob,College grad,Married,2021 CPS ASEC,1.4,1867,0.65955531,0.628743428,4.75E-07
+Probability 2,prob,College grad,Married,2021 CPS ASEC,3,2147,0.631562737,0.628743428,4.75E-07
+Probability 3,prob,College grad,Married,2021 CPS ASEC,7,2166,0.608862219,0.628743428,4.75E-07
+Opt-in 1,nonprob,HS or less,Married,2021 CPS ASEC,0,1756,0.344175724,0.453405755,6.61E-07
+Opt-in 2,nonprob,HS or less,Married,2021 CPS ASEC,0,1439,0.37266328,0.453405755,6.61E-07
+Opt-in 3,nonprob,HS or less,Married,2021 CPS ASEC,0,1511,0.353119807,0.453405755,6.61E-07
+Probability 1,prob,HS or less,Married,2021 CPS ASEC,1.4,1617,0.461853247,0.453405755,6.61E-07
+Probability 2,prob,HS or less,Married,2021 CPS ASEC,3,1628,0.468663785,0.453405755,6.61E-07
+Probability 3,prob,HS or less,Married,2021 CPS ASEC,7,1054,0.442707221,0.453405755,6.61E-07
+Opt-in 1,nonprob,Some college,Married,2021 CPS ASEC,0,1558,0.364809172,0.469281887,7.51E-07
+Opt-in 2,nonprob,Some college,Married,2021 CPS ASEC,0,1539,0.425669877,0.469281887,7.51E-07
+Opt-in 3,nonprob,Some college,Married,2021 CPS ASEC,0,1645,0.408518902,0.469281887,7.51E-07
+Probability 1,prob,Some college,Married,2021 CPS ASEC,1.4,1543,0.504285693,0.469281887,7.51E-07
+Probability 2,prob,Some college,Married,2021 CPS ASEC,3,1363,0.489074695,0.469281887,7.51E-07
+Probability 3,prob,Some college,Married,2021 CPS ASEC,7,1743,0.476000306,0.469281887,7.51E-07
+Opt-in 1,nonprob,All adults,Married,2021 CPS ASEC,0,4912,0.410650054,0.517556954,2.51E-07
+Opt-in 2,nonprob,All adults,Married,2021 CPS ASEC,0,4931,0.458650694,0.517556954,2.51E-07
+Opt-in 3,nonprob,All adults,Married,2021 CPS ASEC,0,4955,0.441879103,0.517556954,2.51E-07
+Probability 1,prob,All adults,Married,2021 CPS ASEC,1.4,5027,0.537585009,0.517556954,2.51E-07
+Probability 2,prob,All adults,Married,2021 CPS ASEC,3,5147,0.527322642,0.517556954,2.51E-07
+Probability 3,prob,All adults,Married,2021 CPS ASEC,7,4965,0.508484193,0.517556954,2.51E-07
+Opt-in 1,nonprob,Black non-Hispanic,Married,2021 CPS ASEC,0,656,0.214252331,0.322219886,1.94E-06
+Opt-in 2,nonprob,Black non-Hispanic,Married,2021 CPS ASEC,0,676,0.175734493,0.322219886,1.94E-06
+Opt-in 3,nonprob,Black non-Hispanic,Married,2021 CPS ASEC,0,623,0.220168253,0.322219886,1.94E-06
+Probability 1,prob,Black non-Hispanic,Married,2021 CPS ASEC,1.4,470,0.34089233,0.322219886,1.94E-06
+Probability 2,prob,Black non-Hispanic,Married,2021 CPS ASEC,3,529,0.348781381,0.322219886,1.94E-06
+Probability 3,prob,Black non-Hispanic,Married,2021 CPS ASEC,7,422,0.30043534,0.322219886,1.94E-06
+Opt-in 1,nonprob,Hispanic,Married,2021 CPS ASEC,0,904,0.312886386,0.467661842,1.52E-06
+Opt-in 2,nonprob,Hispanic,Married,2021 CPS ASEC,0,852,0.313380792,0.467661842,1.52E-06
+Opt-in 3,nonprob,Hispanic,Married,2021 CPS ASEC,0,884,0.269908944,0.467661842,1.52E-06
+Probability 1,prob,Hispanic,Married,2021 CPS ASEC,1.4,575,0.505654903,0.467661842,1.52E-06
+Probability 2,prob,Hispanic,Married,2021 CPS ASEC,3,809,0.474932492,0.467661842,1.52E-06
+Probability 3,prob,Hispanic,Married,2021 CPS ASEC,7,318,0.48598281,0.467661842,1.52E-06
+Opt-in 1,nonprob,White non-Hispanic,Married,2021 CPS ASEC,0,3079,0.475270713,0.565420938,3.45E-07
+Opt-in 2,nonprob,White non-Hispanic,Married,2021 CPS ASEC,0,3245,0.548915604,0.565420938,3.45E-07
+Opt-in 3,nonprob,White non-Hispanic,Married,2021 CPS ASEC,0,3148,0.522626455,0.565420938,3.45E-07
+Probability 1,prob,White non-Hispanic,Married,2021 CPS ASEC,1.4,3596,0.574482449,0.565420938,3.45E-07
+Probability 2,prob,White non-Hispanic,Married,2021 CPS ASEC,3,3362,0.575272264,0.565420938,3.45E-07
+Probability 3,prob,White non-Hispanic,Married,2021 CPS ASEC,7,3851,0.547800977,0.565420938,3.45E-07
+Opt-in 1,nonprob,18-29,Lived here,2021 CPS ASEC,0,1170,0.649202533,0.847057231,2.09E-05
+Opt-in 2,nonprob,18-29,Lived here,2021 CPS ASEC,0,1031,0.625042096,0.847057231,2.09E-05
+Opt-in 3,nonprob,18-29,Lived here,2021 CPS ASEC,0,693,0.662566396,0.847057231,2.09E-05
+Probability 1,prob,18-29,Lived here,2021 CPS ASEC,1.4,585,0.773617753,0.847057231,2.09E-05
+Probability 2,prob,18-29,Lived here,2021 CPS ASEC,3,655,0.677536899,0.847057231,2.09E-05
+Probability 3,prob,18-29,Lived here,2021 CPS ASEC,7,363,0.703101121,0.847057231,2.09E-05
+Opt-in 1,nonprob,30-64,Lived here,2021 CPS ASEC,0,2637,0.841883729,0.931978506,2.75E-06
+Opt-in 2,nonprob,30-64,Lived here,2021 CPS ASEC,0,2564,0.839051957,0.931978506,2.75E-06
+Opt-in 3,nonprob,30-64,Lived here,2021 CPS ASEC,0,3087,0.878096059,0.931978506,2.75E-06
+Probability 1,prob,30-64,Lived here,2021 CPS ASEC,1.4,3010,0.892192356,0.931978506,2.75E-06
+Probability 2,prob,30-64,Lived here,2021 CPS ASEC,3,3192,0.879231128,0.931978506,2.75E-06
+Probability 3,prob,30-64,Lived here,2021 CPS ASEC,7,3195,0.85495547,0.931978506,2.75E-06
+Opt-in 1,nonprob,65+,Lived here,2021 CPS ASEC,0,1105,0.951845448,0.975212799,1.91E-06
+Opt-in 2,nonprob,65+,Lived here,2021 CPS ASEC,0,1336,0.951990079,0.975212799,1.91E-06
+Opt-in 3,nonprob,65+,Lived here,2021 CPS ASEC,0,1175,0.959988793,0.975212799,1.91E-06
+Probability 1,prob,65+,Lived here,2021 CPS ASEC,1.4,1432,0.947863996,0.975212799,1.91E-06
+Probability 2,prob,65+,Lived here,2021 CPS ASEC,3,1261,0.939700309,0.975212799,1.91E-06
+Probability 3,prob,65+,Lived here,2021 CPS ASEC,7,1400,0.938748539,0.975212799,1.91E-06
+Opt-in 1,nonprob,College grad,Lived here,2021 CPS ASEC,0,1598,0.863965779,0.915823767,6.43E-06
+Opt-in 2,nonprob,College grad,Lived here,2021 CPS ASEC,0,1953,0.867189474,0.915823767,6.43E-06
+Opt-in 3,nonprob,College grad,Lived here,2021 CPS ASEC,0,1799,0.883347634,0.915823767,6.43E-06
+Probability 1,prob,College grad,Lived here,2021 CPS ASEC,1.4,1867,0.853176707,0.915823767,6.43E-06
+Probability 2,prob,College grad,Lived here,2021 CPS ASEC,3,2147,0.854946033,0.915823767,6.43E-06
+Probability 3,prob,College grad,Lived here,2021 CPS ASEC,7,2166,0.862355409,0.915823767,6.43E-06
+Opt-in 1,nonprob,HS or less,Lived here,2021 CPS ASEC,0,1756,0.799398595,0.933514878,3.61E-06
+Opt-in 2,nonprob,HS or less,Lived here,2021 CPS ASEC,0,1439,0.802258584,0.933514878,3.61E-06
+Opt-in 3,nonprob,HS or less,Lived here,2021 CPS ASEC,0,1511,0.81844353,0.933514878,3.61E-06
+Probability 1,prob,HS or less,Lived here,2021 CPS ASEC,1.4,1617,0.908139036,0.933514878,3.61E-06
+Probability 2,prob,HS or less,Lived here,2021 CPS ASEC,3,1628,0.853801241,0.933514878,3.61E-06
+Probability 3,prob,HS or less,Lived here,2021 CPS ASEC,7,1054,0.847054453,0.933514878,3.61E-06
+Opt-in 1,nonprob,Some college,Lived here,2021 CPS ASEC,0,1558,0.821971176,0.921718518,5.73E-06
+Opt-in 2,nonprob,Some college,Lived here,2021 CPS ASEC,0,1539,0.789629833,0.921718518,5.73E-06
+Opt-in 3,nonprob,Some college,Lived here,2021 CPS ASEC,0,1645,0.865457298,0.921718518,5.73E-06
+Probability 1,prob,Some college,Lived here,2021 CPS ASEC,1.4,1543,0.870681883,0.921718518,5.73E-06
+Probability 2,prob,Some college,Lived here,2021 CPS ASEC,3,1363,0.854503538,0.921718518,5.73E-06
+Probability 3,prob,Some college,Lived here,2021 CPS ASEC,7,1743,0.832548365,0.921718518,5.73E-06
+Opt-in 1,nonprob,All adults,Lived here,2021 CPS ASEC,0,4912,0.826853654,0.924269976,2.35E-06
+Opt-in 2,nonprob,All adults,Lived here,2021 CPS ASEC,0,4931,0.819057775,0.924269976,2.35E-06
+Opt-in 3,nonprob,All adults,Lived here,2021 CPS ASEC,0,4955,0.854361805,0.924269976,2.35E-06
+Probability 1,prob,All adults,Lived here,2021 CPS ASEC,1.4,5027,0.879223331,0.924269976,2.35E-06
+Probability 2,prob,All adults,Lived here,2021 CPS ASEC,3,5147,0.853476456,0.924269976,2.35E-06
+Probability 3,prob,All adults,Lived here,2021 CPS ASEC,7,4965,0.847796184,0.924269976,2.35E-06
+Opt-in 1,nonprob,Black non-Hispanic,Lived here,2021 CPS ASEC,0,656,0.768397236,0.91926118,1.77E-05
+Opt-in 2,nonprob,Black non-Hispanic,Lived here,2021 CPS ASEC,0,676,0.738627319,0.91926118,1.77E-05
+Opt-in 3,nonprob,Black non-Hispanic,Lived here,2021 CPS ASEC,0,623,0.801054254,0.91926118,1.77E-05
+Probability 1,prob,Black non-Hispanic,Lived here,2021 CPS ASEC,1.4,470,0.872904867,0.91926118,1.77E-05
+Probability 2,prob,Black non-Hispanic,Lived here,2021 CPS ASEC,3,529,0.816866354,0.91926118,1.77E-05
+Probability 3,prob,Black non-Hispanic,Lived here,2021 CPS ASEC,7,422,0.822324169,0.91926118,1.77E-05
+Opt-in 1,nonprob,Hispanic,Lived here,2021 CPS ASEC,0,904,0.713410119,0.927497218,1.05E-05
+Opt-in 2,nonprob,Hispanic,Lived here,2021 CPS ASEC,0,852,0.677506283,0.927497218,1.05E-05
+Opt-in 3,nonprob,Hispanic,Lived here,2021 CPS ASEC,0,884,0.726131589,0.927497218,1.05E-05
+Probability 1,prob,Hispanic,Lived here,2021 CPS ASEC,1.4,575,0.871197793,0.927497218,1.05E-05
+Probability 2,prob,Hispanic,Lived here,2021 CPS ASEC,3,809,0.825751885,0.927497218,1.05E-05
+Probability 3,prob,Hispanic,Lived here,2021 CPS ASEC,7,318,0.817620182,0.927497218,1.05E-05
+Opt-in 1,nonprob,White non-Hispanic,Lived here,2021 CPS ASEC,0,3079,0.880389151,0.92569592,3.13E-06
+Opt-in 2,nonprob,White non-Hispanic,Lived here,2021 CPS ASEC,0,3245,0.875595907,0.92569592,3.13E-06
+Opt-in 3,nonprob,White non-Hispanic,Lived here,2021 CPS ASEC,0,3148,0.901219813,0.92569592,3.13E-06
+Probability 1,prob,White non-Hispanic,Lived here,2021 CPS ASEC,1.4,3596,0.885077194,0.92569592,3.13E-06
+Probability 2,prob,White non-Hispanic,Lived here,2021 CPS ASEC,3,3362,0.876199424,0.92569592,3.13E-06
+Probability 3,prob,White non-Hispanic,Lived here,2021 CPS ASEC,7,3851,0.865322255,0.92569592,3.13E-06
+Opt-in 1,nonprob,18-29,Received Social Security,2021 CPS ASEC,0,1170,0.271753325,0.014337238,1.03E-06
+Opt-in 2,nonprob,18-29,Received Social Security,2021 CPS ASEC,0,1031,0.258598098,0.014337238,1.03E-06
+Opt-in 3,nonprob,18-29,Received Social Security,2021 CPS ASEC,0,693,0.219291284,0.014337238,1.03E-06
+Probability 1,prob,18-29,Received Social Security,2021 CPS ASEC,1.4,585,0.049244253,0.014337238,1.03E-06
+Probability 2,prob,18-29,Received Social Security,2021 CPS ASEC,3,655,0.064432646,0.014337238,1.03E-06
+Probability 3,prob,18-29,Received Social Security,2021 CPS ASEC,7,363,0.037809126,0.014337238,1.03E-06
+Opt-in 1,nonprob,30-64,Received Social Security,2021 CPS ASEC,0,2637,0.242739288,0.065206998,1.13E-06
+Opt-in 2,nonprob,30-64,Received Social Security,2021 CPS ASEC,0,2564,0.24107347,0.065206998,1.13E-06
+Opt-in 3,nonprob,30-64,Received Social Security,2021 CPS ASEC,0,3087,0.192530007,0.065206998,1.13E-06
+Probability 1,prob,30-64,Received Social Security,2021 CPS ASEC,1.4,3010,0.109521723,0.065206998,1.13E-06
+Probability 2,prob,30-64,Received Social Security,2021 CPS ASEC,3,3192,0.132450772,0.065206998,1.13E-06
+Probability 3,prob,30-64,Received Social Security,2021 CPS ASEC,7,3195,0.09410577,0.065206998,1.13E-06
+Opt-in 1,nonprob,65+,Received Social Security,2021 CPS ASEC,0,1105,0.885239609,0.805271177,8.73E-06
+Opt-in 2,nonprob,65+,Received Social Security,2021 CPS ASEC,0,1336,0.842484182,0.805271177,8.73E-06
+Opt-in 3,nonprob,65+,Received Social Security,2021 CPS ASEC,0,1175,0.873906096,0.805271177,8.73E-06
+Probability 1,prob,65+,Received Social Security,2021 CPS ASEC,1.4,1432,0.861450653,0.805271177,8.73E-06
+Probability 2,prob,65+,Received Social Security,2021 CPS ASEC,3,1261,0.876419529,0.805271177,8.73E-06
+Probability 3,prob,65+,Received Social Security,2021 CPS ASEC,7,1400,0.874137282,0.805271177,8.73E-06
+Opt-in 1,nonprob,College grad,Received Social Security,2021 CPS ASEC,0,1598,0.395298268,0.174296321,5.34E-06
+Opt-in 2,nonprob,College grad,Received Social Security,2021 CPS ASEC,0,1953,0.391365756,0.174296321,5.34E-06
+Opt-in 3,nonprob,College grad,Received Social Security,2021 CPS ASEC,0,1799,0.286708003,0.174296321,5.34E-06
+Probability 1,prob,College grad,Received Social Security,2021 CPS ASEC,1.4,1867,0.200658691,0.174296321,5.34E-06
+Probability 2,prob,College grad,Received Social Security,2021 CPS ASEC,3,2147,0.207576601,0.174296321,5.34E-06
+Probability 3,prob,College grad,Received Social Security,2021 CPS ASEC,7,2166,0.19503904,0.174296321,5.34E-06
+Opt-in 1,nonprob,HS or less,Received Social Security,2021 CPS ASEC,0,1756,0.381370957,0.263467232,4.56E-06
+Opt-in 2,nonprob,HS or less,Received Social Security,2021 CPS ASEC,0,1439,0.388815585,0.263467232,4.56E-06
+Opt-in 3,nonprob,HS or less,Received Social Security,2021 CPS ASEC,0,1511,0.418711861,0.263467232,4.56E-06
+Probability 1,prob,HS or less,Received Social Security,2021 CPS ASEC,1.4,1617,0.316346977,0.263467232,4.56E-06
+Probability 2,prob,HS or less,Received Social Security,2021 CPS ASEC,3,1628,0.353752958,0.263467232,4.56E-06
+Probability 3,prob,HS or less,Received Social Security,2021 CPS ASEC,7,1054,0.334065556,0.263467232,4.56E-06
+Opt-in 1,nonprob,Some college,Received Social Security,2021 CPS ASEC,0,1558,0.388758275,0.207956761,6.45E-06
+Opt-in 2,nonprob,Some college,Received Social Security,2021 CPS ASEC,0,1539,0.342563962,0.207956761,6.45E-06
+Opt-in 3,nonprob,Some college,Received Social Security,2021 CPS ASEC,0,1645,0.324431404,0.207956761,6.45E-06
+Probability 1,prob,Some college,Received Social Security,2021 CPS ASEC,1.4,1543,0.239573084,0.207956761,6.45E-06
+Probability 2,prob,Some college,Received Social Security,2021 CPS ASEC,3,1363,0.257506407,0.207956761,6.45E-06
+Probability 3,prob,Some college,Received Social Security,2021 CPS ASEC,7,1743,0.236248913,0.207956761,6.45E-06
+Opt-in 1,nonprob,All adults,Received Social Security,2021 CPS ASEC,0,4912,0.388072186,0.217942574,1.11E-06
+Opt-in 2,nonprob,All adults,Received Social Security,2021 CPS ASEC,0,4931,0.375432577,0.217942574,1.11E-06
+Opt-in 3,nonprob,All adults,Received Social Security,2021 CPS ASEC,0,4955,0.346076468,0.217942574,1.11E-06
+Probability 1,prob,All adults,Received Social Security,2021 CPS ASEC,1.4,5027,0.256117018,0.217942574,1.11E-06
+Probability 2,prob,All adults,Received Social Security,2021 CPS ASEC,3,5147,0.27714008,0.217942574,1.11E-06
+Probability 3,prob,All adults,Received Social Security,2021 CPS ASEC,7,4965,0.257158343,0.217942574,1.11E-06
+Opt-in 1,nonprob,Black non-Hispanic,Received Social Security,2021 CPS ASEC,0,656,0.281719841,0.200522192,8.40E-06
+Opt-in 2,nonprob,Black non-Hispanic,Received Social Security,2021 CPS ASEC,0,676,0.319339907,0.200522192,8.40E-06
+Opt-in 3,nonprob,Black non-Hispanic,Received Social Security,2021 CPS ASEC,0,623,0.269761458,0.200522192,8.40E-06
+Probability 1,prob,Black non-Hispanic,Received Social Security,2021 CPS ASEC,1.4,470,0.303863188,0.200522192,8.40E-06
+Probability 2,prob,Black non-Hispanic,Received Social Security,2021 CPS ASEC,3,529,0.301475047,0.200522192,8.40E-06
+Probability 3,prob,Black non-Hispanic,Received Social Security,2021 CPS ASEC,7,422,0.216484129,0.200522192,8.40E-06
+Opt-in 1,nonprob,Hispanic,Received Social Security,2021 CPS ASEC,0,904,0.300698153,0.113999133,3.63E-06
+Opt-in 2,nonprob,Hispanic,Received Social Security,2021 CPS ASEC,0,852,0.316508665,0.113999133,3.63E-06
+Opt-in 3,nonprob,Hispanic,Received Social Security,2021 CPS ASEC,0,884,0.33696583,0.113999133,3.63E-06
+Probability 1,prob,Hispanic,Received Social Security,2021 CPS ASEC,1.4,575,0.144668455,0.113999133,3.63E-06
+Probability 2,prob,Hispanic,Received Social Security,2021 CPS ASEC,3,809,0.159831449,0.113999133,3.63E-06
+Probability 3,prob,Hispanic,Received Social Security,2021 CPS ASEC,7,318,0.144326627,0.113999133,3.63E-06
+Opt-in 1,nonprob,White non-Hispanic,Received Social Security,2021 CPS ASEC,0,3079,0.447337057,0.260713318,1.96E-06
+Opt-in 2,nonprob,White non-Hispanic,Received Social Security,2021 CPS ASEC,0,3245,0.412061936,0.260713318,1.96E-06
+Opt-in 3,nonprob,White non-Hispanic,Received Social Security,2021 CPS ASEC,0,3148,0.385780246,0.260713318,1.96E-06
+Probability 1,prob,White non-Hispanic,Received Social Security,2021 CPS ASEC,1.4,3596,0.287297871,0.260713318,1.96E-06
+Probability 2,prob,White non-Hispanic,Received Social Security,2021 CPS ASEC,3,3362,0.316479821,0.260713318,1.96E-06
+Probability 3,prob,White non-Hispanic,Received Social Security,2021 CPS ASEC,7,3851,0.304239294,0.260713318,1.96E-06
+Opt-in 1,nonprob,18-29,Received unemployment compensation,2021 CPS ASEC,0,1170,0.307013055,0.115986999,5.70E-06
+Opt-in 2,nonprob,18-29,Received unemployment compensation,2021 CPS ASEC,0,1031,0.319409574,0.115986999,5.70E-06
+Opt-in 3,nonprob,18-29,Received unemployment compensation,2021 CPS ASEC,0,693,0.272622556,0.115986999,5.70E-06
+Probability 1,prob,18-29,Received unemployment compensation,2021 CPS ASEC,1.4,585,0.168925254,0.115986999,5.70E-06
+Probability 2,prob,18-29,Received unemployment compensation,2021 CPS ASEC,3,655,0.251770898,0.115986999,5.70E-06
+Probability 3,prob,18-29,Received unemployment compensation,2021 CPS ASEC,7,363,0.157501059,0.115986999,5.70E-06
+Opt-in 1,nonprob,30-64,Received unemployment compensation,2021 CPS ASEC,0,2637,0.196866215,0.108411724,2.24E-06
+Opt-in 2,nonprob,30-64,Received unemployment compensation,2021 CPS ASEC,0,2564,0.222058585,0.108411724,2.24E-06
+Opt-in 3,nonprob,30-64,Received unemployment compensation,2021 CPS ASEC,0,3087,0.174457042,0.108411724,2.24E-06
+Probability 1,prob,30-64,Received unemployment compensation,2021 CPS ASEC,1.4,3010,0.134825637,0.108411724,2.24E-06
+Probability 2,prob,30-64,Received unemployment compensation,2021 CPS ASEC,3,3192,0.180227753,0.108411724,2.24E-06
+Probability 3,prob,30-64,Received unemployment compensation,2021 CPS ASEC,7,3195,0.150248982,0.108411724,2.24E-06
+Opt-in 1,nonprob,65+,Received unemployment compensation,2021 CPS ASEC,0,1105,0.055116727,0.029589053,1.87E-06
+Opt-in 2,nonprob,65+,Received unemployment compensation,2021 CPS ASEC,0,1336,0.070207453,0.029589053,1.87E-06
+Opt-in 3,nonprob,65+,Received unemployment compensation,2021 CPS ASEC,0,1175,0.06302196,0.029589053,1.87E-06
+Probability 1,prob,65+,Received unemployment compensation,2021 CPS ASEC,1.4,1432,0.048158519,0.029589053,1.87E-06
+Probability 2,prob,65+,Received unemployment compensation,2021 CPS ASEC,3,1261,0.074526962,0.029589053,1.87E-06
+Probability 3,prob,65+,Received unemployment compensation,2021 CPS ASEC,7,1400,0.051456074,0.029589053,1.87E-06
+Opt-in 1,nonprob,College grad,Received unemployment compensation,2021 CPS ASEC,0,1598,0.229521973,0.077188498,2.50E-06
+Opt-in 2,nonprob,College grad,Received unemployment compensation,2021 CPS ASEC,0,1953,0.252335024,0.077188498,2.50E-06
+Opt-in 3,nonprob,College grad,Received unemployment compensation,2021 CPS ASEC,0,1799,0.163799502,0.077188498,2.50E-06
+Probability 1,prob,College grad,Received unemployment compensation,2021 CPS ASEC,1.4,1867,0.103990124,0.077188498,2.50E-06
+Probability 2,prob,College grad,Received unemployment compensation,2021 CPS ASEC,3,2147,0.139836658,0.077188498,2.50E-06
+Probability 3,prob,College grad,Received unemployment compensation,2021 CPS ASEC,7,2166,0.116627569,0.077188498,2.50E-06
+Opt-in 1,nonprob,HS or less,Received unemployment compensation,2021 CPS ASEC,0,1756,0.155303848,0.089187155,2.94E-06
+Opt-in 2,nonprob,HS or less,Received unemployment compensation,2021 CPS ASEC,0,1439,0.177199482,0.089187155,2.94E-06
+Opt-in 3,nonprob,HS or less,Received unemployment compensation,2021 CPS ASEC,0,1511,0.185770771,0.089187155,2.94E-06
+Probability 1,prob,HS or less,Received unemployment compensation,2021 CPS ASEC,1.4,1617,0.119870097,0.089187155,2.94E-06
+Probability 2,prob,HS or less,Received unemployment compensation,2021 CPS ASEC,3,1628,0.189818277,0.089187155,2.94E-06
+Probability 3,prob,HS or less,Received unemployment compensation,2021 CPS ASEC,7,1054,0.118368089,0.089187155,2.94E-06
+Opt-in 1,nonprob,Some college,Received unemployment compensation,2021 CPS ASEC,0,1558,0.186002219,0.116728454,4.81E-06
+Opt-in 2,nonprob,Some college,Received unemployment compensation,2021 CPS ASEC,0,1539,0.203891658,0.116728454,4.81E-06
+Opt-in 3,nonprob,Some college,Received unemployment compensation,2021 CPS ASEC,0,1645,0.155429581,0.116728454,4.81E-06
+Probability 1,prob,Some college,Received unemployment compensation,2021 CPS ASEC,1.4,1543,0.148482631,0.116728454,4.81E-06
+Probability 2,prob,Some college,Received unemployment compensation,2021 CPS ASEC,3,1363,0.183723322,0.116728454,4.81E-06
+Probability 3,prob,Some college,Received unemployment compensation,2021 CPS ASEC,7,1743,0.155428788,0.116728454,4.81E-06
+Opt-in 1,nonprob,All adults,Received unemployment compensation,2021 CPS ASEC,0,4912,0.188332721,0.092581984,1.16E-06
+Opt-in 2,nonprob,All adults,Received unemployment compensation,2021 CPS ASEC,0,4931,0.209315935,0.092581984,1.16E-06
+Opt-in 3,nonprob,All adults,Received unemployment compensation,2021 CPS ASEC,0,4955,0.169122271,0.092581984,1.16E-06
+Probability 1,prob,All adults,Received unemployment compensation,2021 CPS ASEC,1.4,5027,0.123597543,0.092581984,1.16E-06
+Probability 2,prob,All adults,Received unemployment compensation,2021 CPS ASEC,3,5147,0.17191045,0.092581984,1.16E-06
+Probability 3,prob,All adults,Received unemployment compensation,2021 CPS ASEC,7,4965,0.12953685,0.092581984,1.16E-06
+Opt-in 1,nonprob,Black non-Hispanic,Received unemployment compensation,2021 CPS ASEC,0,656,0.259604679,0.105535753,8.64E-06
+Opt-in 2,nonprob,Black non-Hispanic,Received unemployment compensation,2021 CPS ASEC,0,676,0.23333733,0.105535753,8.64E-06
+Opt-in 3,nonprob,Black non-Hispanic,Received unemployment compensation,2021 CPS ASEC,0,623,0.183152945,0.105535753,8.64E-06
+Probability 1,prob,Black non-Hispanic,Received unemployment compensation,2021 CPS ASEC,1.4,470,0.132733592,0.105535753,8.64E-06
+Probability 2,prob,Black non-Hispanic,Received unemployment compensation,2021 CPS ASEC,3,529,0.175973396,0.105535753,8.64E-06
+Probability 3,prob,Black non-Hispanic,Received unemployment compensation,2021 CPS ASEC,7,422,0.125411577,0.105535753,8.64E-06
+Opt-in 1,nonprob,Hispanic,Received unemployment compensation,2021 CPS ASEC,0,904,0.311193435,0.09470599,5.57E-06
+Opt-in 2,nonprob,Hispanic,Received unemployment compensation,2021 CPS ASEC,0,852,0.304661955,0.09470599,5.57E-06
+Opt-in 3,nonprob,Hispanic,Received unemployment compensation,2021 CPS ASEC,0,884,0.29523414,0.09470599,5.57E-06
+Probability 1,prob,Hispanic,Received unemployment compensation,2021 CPS ASEC,1.4,575,0.121071981,0.09470599,5.57E-06
+Probability 2,prob,Hispanic,Received unemployment compensation,2021 CPS ASEC,3,809,0.198412579,0.09470599,5.57E-06
+Probability 3,prob,Hispanic,Received unemployment compensation,2021 CPS ASEC,7,318,0.172091712,0.09470599,5.57E-06
+Opt-in 1,nonprob,White non-Hispanic,Received unemployment compensation,2021 CPS ASEC,0,3079,0.139256149,0.087843975,1.80E-06
+Opt-in 2,nonprob,White non-Hispanic,Received unemployment compensation,2021 CPS ASEC,0,3245,0.175139152,0.087843975,1.80E-06
+Opt-in 3,nonprob,White non-Hispanic,Received unemployment compensation,2021 CPS ASEC,0,3148,0.137873791,0.087843975,1.80E-06
+Probability 1,prob,White non-Hispanic,Received unemployment compensation,2021 CPS ASEC,1.4,3596,0.125084446,0.087843975,1.80E-06
+Probability 2,prob,White non-Hispanic,Received unemployment compensation,2021 CPS ASEC,3,3362,0.153210718,0.087843975,1.80E-06
+Probability 3,prob,White non-Hispanic,Received unemployment compensation,2021 CPS ASEC,7,3851,0.127107748,0.087843975,1.80E-06
+Opt-in 1,nonprob,18-29,Union member,2021 CPS ASEC,0,1170,0.18696549,0.046968332,2.38E-05
+Opt-in 2,nonprob,18-29,Union member,2021 CPS ASEC,0,1031,0.198603287,0.046968332,2.38E-05
+Opt-in 3,nonprob,18-29,Union member,2021 CPS ASEC,0,693,0.157867703,0.046968332,2.38E-05
+Probability 1,prob,18-29,Union member,2021 CPS ASEC,1.4,585,0.047965105,0.046968332,2.38E-05
+Probability 2,prob,18-29,Union member,2021 CPS ASEC,3,655,0.093103498,0.046968332,2.38E-05
+Probability 3,prob,18-29,Union member,2021 CPS ASEC,7,363,0.046292706,0.046968332,2.38E-05
+Opt-in 1,nonprob,30-64,Union member,2021 CPS ASEC,0,2637,0.112263906,0.076752563,1.11E-05
+Opt-in 2,nonprob,30-64,Union member,2021 CPS ASEC,0,2564,0.123374006,0.076752563,1.11E-05
+Opt-in 3,nonprob,30-64,Union member,2021 CPS ASEC,0,3087,0.097007127,0.076752563,1.11E-05
+Probability 1,prob,30-64,Union member,2021 CPS ASEC,1.4,3010,0.102165271,0.076752563,1.11E-05
+Probability 2,prob,30-64,Union member,2021 CPS ASEC,3,3192,0.104148088,0.076752563,1.11E-05
+Probability 3,prob,30-64,Union member,2021 CPS ASEC,7,3195,0.089279167,0.076752563,1.11E-05
+Opt-in 1,nonprob,65+,Union member,2021 CPS ASEC,0,1105,0.068389207,0.010748411,3.20E-06
+Opt-in 2,nonprob,65+,Union member,2021 CPS ASEC,0,1336,0.071325272,0.010748411,3.20E-06
+Opt-in 3,nonprob,65+,Union member,2021 CPS ASEC,0,1175,0.077607859,0.010748411,3.20E-06
+Probability 1,prob,65+,Union member,2021 CPS ASEC,1.4,1432,0.07280082,0.010748411,3.20E-06
+Probability 2,prob,65+,Union member,2021 CPS ASEC,3,1261,0.086539356,0.010748411,3.20E-06
+Probability 3,prob,65+,Union member,2021 CPS ASEC,7,1400,0.073336077,0.010748411,3.20E-06
+Opt-in 1,nonprob,College grad,Union member,2021 CPS ASEC,0,1598,0.175916533,0.074542141,1.75E-05
+Opt-in 2,nonprob,College grad,Union member,2021 CPS ASEC,0,1953,0.198056654,0.074542141,1.75E-05
+Opt-in 3,nonprob,College grad,Union member,2021 CPS ASEC,0,1799,0.114595518,0.074542141,1.75E-05
+Probability 1,prob,College grad,Union member,2021 CPS ASEC,1.4,1867,0.101343047,0.074542141,1.75E-05
+Probability 2,prob,College grad,Union member,2021 CPS ASEC,3,2147,0.10379691,0.074542141,1.75E-05
+Probability 3,prob,College grad,Union member,2021 CPS ASEC,7,2166,0.108119877,0.074542141,1.75E-05
+Opt-in 1,nonprob,HS or less,Union member,2021 CPS ASEC,0,1756,0.084879031,0.039017707,8.60E-06
+Opt-in 2,nonprob,HS or less,Union member,2021 CPS ASEC,0,1439,0.089223327,0.039017707,8.60E-06
+Opt-in 3,nonprob,HS or less,Union member,2021 CPS ASEC,0,1511,0.111995265,0.039017707,8.60E-06
+Probability 1,prob,HS or less,Union member,2021 CPS ASEC,1.4,1617,0.072247239,0.039017707,8.60E-06
+Probability 2,prob,HS or less,Union member,2021 CPS ASEC,3,1628,0.109009743,0.039017707,8.60E-06
+Probability 3,prob,HS or less,Union member,2021 CPS ASEC,7,1054,0.06311922,0.039017707,8.60E-06
+Opt-in 1,nonprob,Some college,Union member,2021 CPS ASEC,0,1558,0.098059347,0.056933385,1.53E-05
+Opt-in 2,nonprob,Some college,Union member,2021 CPS ASEC,0,1539,0.101738211,0.056933385,1.53E-05
+Opt-in 3,nonprob,Some college,Union member,2021 CPS ASEC,0,1645,0.085235734,0.056933385,1.53E-05
+Probability 1,prob,Some college,Union member,2021 CPS ASEC,1.4,1543,0.082542982,0.056933385,1.53E-05
+Probability 2,prob,Some college,Union member,2021 CPS ASEC,3,1363,0.080570344,0.056933385,1.53E-05
+Probability 3,prob,Some college,Union member,2021 CPS ASEC,7,1743,0.064112834,0.056933385,1.53E-05
+Opt-in 1,nonprob,All adults,Union member,2021 CPS ASEC,0,4912,0.117821148,0.056178809,5.07E-06
+Opt-in 2,nonprob,All adults,Union member,2021 CPS ASEC,0,4931,0.127718575,0.056178809,5.07E-06
+Opt-in 3,nonprob,All adults,Union member,2021 CPS ASEC,0,4955,0.104520407,0.056178809,5.07E-06
+Probability 1,prob,All adults,Union member,2021 CPS ASEC,1.4,5027,0.0846338,0.056178809,5.07E-06
+Probability 2,prob,All adults,Union member,2021 CPS ASEC,3,5147,0.098786969,0.056178809,5.07E-06
+Probability 3,prob,All adults,Union member,2021 CPS ASEC,7,4965,0.07834688,0.056178809,5.07E-06
+Opt-in 1,nonprob,Black non-Hispanic,Union member,2021 CPS ASEC,0,656,0.161832865,0.064755798,4.78E-05
+Opt-in 2,nonprob,Black non-Hispanic,Union member,2021 CPS ASEC,0,676,0.123311494,0.064755798,4.78E-05
+Opt-in 3,nonprob,Black non-Hispanic,Union member,2021 CPS ASEC,0,623,0.10804225,0.064755798,4.78E-05
+Probability 1,prob,Black non-Hispanic,Union member,2021 CPS ASEC,1.4,470,0.109210996,0.064755798,4.78E-05
+Probability 2,prob,Black non-Hispanic,Union member,2021 CPS ASEC,3,529,0.125297061,0.064755798,4.78E-05
+Probability 3,prob,Black non-Hispanic,Union member,2021 CPS ASEC,7,422,0.067965224,0.064755798,4.78E-05
+Opt-in 1,nonprob,Hispanic,Union member,2021 CPS ASEC,0,904,0.175523362,0.05350529,3.24E-05
+Opt-in 2,nonprob,Hispanic,Union member,2021 CPS ASEC,0,852,0.185490739,0.05350529,3.24E-05
+Opt-in 3,nonprob,Hispanic,Union member,2021 CPS ASEC,0,884,0.199387626,0.05350529,3.24E-05
+Probability 1,prob,Hispanic,Union member,2021 CPS ASEC,1.4,575,0.065292334,0.05350529,3.24E-05
+Probability 2,prob,Hispanic,Union member,2021 CPS ASEC,3,809,0.093073464,0.05350529,3.24E-05
+Probability 3,prob,Hispanic,Union member,2021 CPS ASEC,7,318,0.077784935,0.05350529,3.24E-05
+Opt-in 1,nonprob,White non-Hispanic,Union member,2021 CPS ASEC,0,3079,0.092418047,0.056796827,7.02E-06
+Opt-in 2,nonprob,White non-Hispanic,Union member,2021 CPS ASEC,0,3245,0.111564015,0.056796827,7.02E-06
+Opt-in 3,nonprob,White non-Hispanic,Union member,2021 CPS ASEC,0,3148,0.085075426,0.056796827,7.02E-06
+Probability 1,prob,White non-Hispanic,Union member,2021 CPS ASEC,1.4,3596,0.08928797,0.056796827,7.02E-06
+Probability 2,prob,White non-Hispanic,Union member,2021 CPS ASEC,3,3362,0.089952434,0.056796827,7.02E-06
+Probability 3,prob,White non-Hispanic,Union member,2021 CPS ASEC,7,3851,0.081286448,0.056796827,7.02E-06
+Opt-in 1,nonprob,18-29,Received worker's compensation,2021 CPS ASEC,0,1170,0.249816869,0.002169042,1.64E-07
+Opt-in 2,nonprob,18-29,Received worker's compensation,2021 CPS ASEC,0,1031,0.254667065,0.002169042,1.64E-07
+Opt-in 3,nonprob,18-29,Received worker's compensation,2021 CPS ASEC,0,693,0.201252264,0.002169042,1.64E-07
+Probability 1,prob,18-29,Received worker's compensation,2021 CPS ASEC,1.4,585,0.013841261,0.002169042,1.64E-07
+Probability 2,prob,18-29,Received worker's compensation,2021 CPS ASEC,3,655,0.06485821,0.002169042,1.64E-07
+Probability 3,prob,18-29,Received worker's compensation,2021 CPS ASEC,7,363,0.032107625,0.002169042,1.64E-07
+Opt-in 1,nonprob,30-64,Received worker's compensation,2021 CPS ASEC,0,2637,0.08481432,0.005023512,9.02E-08
+Opt-in 2,nonprob,30-64,Received worker's compensation,2021 CPS ASEC,0,2564,0.106689842,0.005023512,9.02E-08
+Opt-in 3,nonprob,30-64,Received worker's compensation,2021 CPS ASEC,0,3087,0.060290632,0.005023512,9.02E-08
+Probability 1,prob,30-64,Received worker's compensation,2021 CPS ASEC,1.4,3010,0.017345133,0.005023512,9.02E-08
+Probability 2,prob,30-64,Received worker's compensation,2021 CPS ASEC,3,3192,0.024310175,0.005023512,9.02E-08
+Probability 3,prob,30-64,Received worker's compensation,2021 CPS ASEC,7,3195,0.015994519,0.005023512,9.02E-08
+Opt-in 1,nonprob,65+,Received worker's compensation,2021 CPS ASEC,0,1105,0.004522624,0.002122128,9.41E-08
+Opt-in 2,nonprob,65+,Received worker's compensation,2021 CPS ASEC,0,1336,0.00823355,0.002122128,9.41E-08
+Opt-in 3,nonprob,65+,Received worker's compensation,2021 CPS ASEC,0,1175,0.007829548,0.002122128,9.41E-08
+Probability 1,prob,65+,Received worker's compensation,2021 CPS ASEC,1.4,1432,0.002555814,0.002122128,9.41E-08
+Probability 2,prob,65+,Received worker's compensation,2021 CPS ASEC,3,1261,0.010246987,0.002122128,9.41E-08
+Probability 3,prob,65+,Received worker's compensation,2021 CPS ASEC,7,1400,0.001172233,0.002122128,9.41E-08
+Opt-in 1,nonprob,College grad,Received worker's compensation,2021 CPS ASEC,0,1598,0.135278773,0.002014178,6.75E-08
+Opt-in 2,nonprob,College grad,Received worker's compensation,2021 CPS ASEC,0,1953,0.158733607,0.002014178,6.75E-08
+Opt-in 3,nonprob,College grad,Received worker's compensation,2021 CPS ASEC,0,1799,0.069437205,0.002014178,6.75E-08
+Probability 1,prob,College grad,Received worker's compensation,2021 CPS ASEC,1.4,1867,0.008064061,0.002014178,6.75E-08
+Probability 2,prob,College grad,Received worker's compensation,2021 CPS ASEC,3,2147,0.008540987,0.002014178,6.75E-08
+Probability 3,prob,College grad,Received worker's compensation,2021 CPS ASEC,7,2166,0.009851501,0.002014178,6.75E-08
+Opt-in 1,nonprob,HS or less,Received worker's compensation,2021 CPS ASEC,0,1756,0.067791564,0.004606945,1.24E-07
+Opt-in 2,nonprob,HS or less,Received worker's compensation,2021 CPS ASEC,0,1439,0.093335476,0.004606945,1.24E-07
+Opt-in 3,nonprob,HS or less,Received worker's compensation,2021 CPS ASEC,0,1511,0.079042348,0.004606945,1.24E-07
+Probability 1,prob,HS or less,Received worker's compensation,2021 CPS ASEC,1.4,1617,0.014489506,0.004606945,1.24E-07
+Probability 2,prob,HS or less,Received worker's compensation,2021 CPS ASEC,3,1628,0.039209808,0.004606945,1.24E-07
+Probability 3,prob,HS or less,Received worker's compensation,2021 CPS ASEC,7,1054,0.018924092,0.004606945,1.24E-07
+Opt-in 1,nonprob,Some college,Received worker's compensation,2021 CPS ASEC,0,1558,0.104989637,0.004911361,1.96E-07
+Opt-in 2,nonprob,Some college,Received worker's compensation,2021 CPS ASEC,0,1539,0.099621725,0.004911361,1.96E-07
+Opt-in 3,nonprob,Some college,Received worker's compensation,2021 CPS ASEC,0,1645,0.079558576,0.004911361,1.96E-07
+Probability 1,prob,Some college,Received worker's compensation,2021 CPS ASEC,1.4,1543,0.017858339,0.004911361,1.96E-07
+Probability 2,prob,Some college,Received worker's compensation,2021 CPS ASEC,3,1363,0.038243531,0.004911361,1.96E-07
+Probability 3,prob,Some college,Received worker's compensation,2021 CPS ASEC,7,1743,0.016639414,0.004911361,1.96E-07
+Opt-in 1,nonprob,All adults,Received worker's compensation,2021 CPS ASEC,0,4912,0.100697125,0.003804944,4.16E-08
+Opt-in 2,nonprob,All adults,Received worker's compensation,2021 CPS ASEC,0,4931,0.116088621,0.003804944,4.16E-08
+Opt-in 3,nonprob,All adults,Received worker's compensation,2021 CPS ASEC,0,4955,0.076052688,0.003804944,4.16E-08
+Probability 1,prob,All adults,Received worker's compensation,2021 CPS ASEC,1.4,5027,0.013482825,0.003804944,4.16E-08
+Probability 2,prob,All adults,Received worker's compensation,2021 CPS ASEC,3,5147,0.029026789,0.003804944,4.16E-08
+Probability 3,prob,All adults,Received worker's compensation,2021 CPS ASEC,7,4965,0.015552271,0.003804944,4.16E-08
+Opt-in 1,nonprob,Black non-Hispanic,Received worker's compensation,2021 CPS ASEC,0,656,0.165025148,0.004487469,3.67E-07
+Opt-in 2,nonprob,Black non-Hispanic,Received worker's compensation,2021 CPS ASEC,0,676,0.167226546,0.004487469,3.67E-07
+Opt-in 3,nonprob,Black non-Hispanic,Received worker's compensation,2021 CPS ASEC,0,623,0.106492342,0.004487469,3.67E-07
+Probability 1,prob,Black non-Hispanic,Received worker's compensation,2021 CPS ASEC,1.4,470,0.027469429,0.004487469,3.67E-07
+Probability 2,prob,Black non-Hispanic,Received worker's compensation,2021 CPS ASEC,3,529,0.059218285,0.004487469,3.67E-07
+Probability 3,prob,Black non-Hispanic,Received worker's compensation,2021 CPS ASEC,7,422,0.020248499,0.004487469,3.67E-07
+Opt-in 1,nonprob,Hispanic,Received worker's compensation,2021 CPS ASEC,0,904,0.22978,0.003672172,1.75E-07
+Opt-in 2,nonprob,Hispanic,Received worker's compensation,2021 CPS ASEC,0,852,0.237189458,0.003672172,1.75E-07
+Opt-in 3,nonprob,Hispanic,Received worker's compensation,2021 CPS ASEC,0,884,0.209764149,0.003672172,1.75E-07
+Probability 1,prob,Hispanic,Received worker's compensation,2021 CPS ASEC,1.4,575,0.022967967,0.003672172,1.75E-07
+Probability 2,prob,Hispanic,Received worker's compensation,2021 CPS ASEC,3,809,0.049769061,0.003672172,1.75E-07
+Probability 3,prob,Hispanic,Received worker's compensation,2021 CPS ASEC,7,318,0.019539083,0.003672172,1.75E-07
+Opt-in 1,nonprob,White non-Hispanic,Received worker's compensation,2021 CPS ASEC,0,3079,0.054396974,0.003933237,8.69E-08
+Opt-in 2,nonprob,White non-Hispanic,Received worker's compensation,2021 CPS ASEC,0,3245,0.081851599,0.003933237,8.69E-08
+Opt-in 3,nonprob,White non-Hispanic,Received worker's compensation,2021 CPS ASEC,0,3148,0.042568118,0.003933237,8.69E-08
+Probability 1,prob,White non-Hispanic,Received worker's compensation,2021 CPS ASEC,1.4,3596,0.008018538,0.003933237,8.69E-08
+Probability 2,prob,White non-Hispanic,Received worker's compensation,2021 CPS ASEC,3,3362,0.016012839,0.003933237,8.69E-08
+Probability 3,prob,White non-Hispanic,Received worker's compensation,2021 CPS ASEC,7,3851,0.015336788,0.003933237,8.69E-08
+Opt-in 1,nonprob,18-29,Had retirement account,2021 SIPP,0,1170,0.363480779,0.267742072,3.62E-05
+Opt-in 2,nonprob,18-29,Had retirement account,2021 SIPP,0,1031,0.328148771,0.267742072,3.62E-05
+Opt-in 3,nonprob,18-29,Had retirement account,2021 SIPP,0,693,0.300083258,0.267742072,3.62E-05
+Probability 1,prob,18-29,Had retirement account,2021 SIPP,1.4,585,0.346191645,0.267742072,3.62E-05
+Probability 2,prob,18-29,Had retirement account,2021 SIPP,3,655,0.35238522,0.267742072,3.62E-05
+Probability 3,prob,18-29,Had retirement account,2021 SIPP,7,363,0.281072982,0.267742072,3.62E-05
+Opt-in 1,nonprob,30-64,Had retirement account,2021 SIPP,0,2637,0.43391194,0.560913181,1.46E-05
+Opt-in 2,nonprob,30-64,Had retirement account,2021 SIPP,0,2564,0.45986376,0.560913181,1.46E-05
+Opt-in 3,nonprob,30-64,Had retirement account,2021 SIPP,0,3087,0.511139506,0.560913181,1.46E-05
+Probability 1,prob,30-64,Had retirement account,2021 SIPP,1.4,3010,0.569656596,0.560913181,1.46E-05
+Probability 2,prob,30-64,Had retirement account,2021 SIPP,3,3192,0.542110704,0.560913181,1.46E-05
+Probability 3,prob,30-64,Had retirement account,2021 SIPP,7,3195,0.55024955,0.560913181,1.46E-05
+Opt-in 1,nonprob,65+,Had retirement account,2021 SIPP,0,1105,0.477953985,0.551373109,2.50E-05
+Opt-in 2,nonprob,65+,Had retirement account,2021 SIPP,0,1336,0.607614149,0.551373109,2.50E-05
+Opt-in 3,nonprob,65+,Had retirement account,2021 SIPP,0,1175,0.543977671,0.551373109,2.50E-05
+Probability 1,prob,65+,Had retirement account,2021 SIPP,1.4,1432,0.609941989,0.551373109,2.50E-05
+Probability 2,prob,65+,Had retirement account,2021 SIPP,3,1261,0.582976096,0.551373109,2.50E-05
+Probability 3,prob,65+,Had retirement account,2021 SIPP,7,1400,0.513273778,0.551373109,2.50E-05
+Opt-in 1,nonprob,College grad,Had retirement account,2021 SIPP,0,1598,0.664248964,0.731119303,1.72E-05
+Opt-in 2,nonprob,College grad,Had retirement account,2021 SIPP,0,1953,0.694503827,0.731119303,1.72E-05
+Opt-in 3,nonprob,College grad,Had retirement account,2021 SIPP,0,1799,0.696462537,0.731119303,1.72E-05
+Probability 1,prob,College grad,Had retirement account,2021 SIPP,1.4,1867,0.784060814,0.731119303,1.72E-05
+Probability 2,prob,College grad,Had retirement account,2021 SIPP,3,2147,0.768815463,0.731119303,1.72E-05
+Probability 3,prob,College grad,Had retirement account,2021 SIPP,7,2166,0.748778783,0.731119303,1.72E-05
+Opt-in 1,nonprob,HS or less,Had retirement account,2021 SIPP,0,1756,0.251254404,0.300972942,1.64E-05
+Opt-in 2,nonprob,HS or less,Had retirement account,2021 SIPP,0,1439,0.302742741,0.300972942,1.64E-05
+Opt-in 3,nonprob,HS or less,Had retirement account,2021 SIPP,0,1511,0.323459876,0.300972942,1.64E-05
+Probability 1,prob,HS or less,Had retirement account,2021 SIPP,1.4,1617,0.313672932,0.300972942,1.64E-05
+Probability 2,prob,HS or less,Had retirement account,2021 SIPP,3,1628,0.331874439,0.300972942,1.64E-05
+Probability 3,prob,HS or less,Had retirement account,2021 SIPP,7,1054,0.276140496,0.300972942,1.64E-05
+Opt-in 1,nonprob,Some college,Had retirement account,2021 SIPP,0,1558,0.403350743,0.460777667,2.37E-05
+Opt-in 2,nonprob,Some college,Had retirement account,2021 SIPP,0,1539,0.423551609,0.460777667,2.37E-05
+Opt-in 3,nonprob,Some college,Had retirement account,2021 SIPP,0,1645,0.425602604,0.460777667,2.37E-05
+Probability 1,prob,Some college,Had retirement account,2021 SIPP,1.4,1543,0.537594725,0.460777667,2.37E-05
+Probability 2,prob,Some college,Had retirement account,2021 SIPP,3,1363,0.475357571,0.460777667,2.37E-05
+Probability 3,prob,Some college,Had retirement account,2021 SIPP,7,1743,0.479638472,0.460777667,2.37E-05
+Opt-in 1,nonprob,All adults,Had retirement account,2021 SIPP,0,4912,0.42925319,0.499406086,7.84E-06
+Opt-in 2,nonprob,All adults,Had retirement account,2021 SIPP,0,4931,0.464563206,0.499406086,7.84E-06
+Opt-in 3,nonprob,All adults,Had retirement account,2021 SIPP,0,4955,0.477585272,0.499406086,7.84E-06
+Probability 1,prob,All adults,Had retirement account,2021 SIPP,1.4,5027,0.531532798,0.499406086,7.84E-06
+Probability 2,prob,All adults,Had retirement account,2021 SIPP,3,5147,0.514647496,0.499406086,7.84E-06
+Probability 3,prob,All adults,Had retirement account,2021 SIPP,7,4965,0.496273018,0.499406086,7.84E-06
+Opt-in 1,nonprob,Black non-Hispanic,Had retirement account,2021 SIPP,0,656,0.378109277,0.388845133,8.31E-05
+Opt-in 2,nonprob,Black non-Hispanic,Had retirement account,2021 SIPP,0,676,0.320237212,0.388845133,8.31E-05
+Opt-in 3,nonprob,Black non-Hispanic,Had retirement account,2021 SIPP,0,623,0.339139796,0.388845133,8.31E-05
+Probability 1,prob,Black non-Hispanic,Had retirement account,2021 SIPP,1.4,470,0.425355955,0.388845133,8.31E-05
+Probability 2,prob,Black non-Hispanic,Had retirement account,2021 SIPP,3,529,0.394938584,0.388845133,8.31E-05
+Probability 3,prob,Black non-Hispanic,Had retirement account,2021 SIPP,7,422,0.311405872,0.388845133,8.31E-05
+Opt-in 1,nonprob,Hispanic,Had retirement account,2021 SIPP,0,904,0.346955642,0.304532817,4.26E-05
+Opt-in 2,nonprob,Hispanic,Had retirement account,2021 SIPP,0,852,0.33224715,0.304532817,4.26E-05
+Opt-in 3,nonprob,Hispanic,Had retirement account,2021 SIPP,0,884,0.341611572,0.304532817,4.26E-05
+Probability 1,prob,Hispanic,Had retirement account,2021 SIPP,1.4,575,0.325757308,0.304532817,4.26E-05
+Probability 2,prob,Hispanic,Had retirement account,2021 SIPP,3,809,0.282089813,0.304532817,4.26E-05
+Probability 3,prob,Hispanic,Had retirement account,2021 SIPP,7,318,0.3280812,0.304532817,4.26E-05
+Opt-in 1,nonprob,White non-Hispanic,Had retirement account,2021 SIPP,0,3079,0.470609191,0.578998717,1.14E-05
+Opt-in 2,nonprob,White non-Hispanic,Had retirement account,2021 SIPP,0,3245,0.515288174,0.578998717,1.14E-05
+Opt-in 3,nonprob,White non-Hispanic,Had retirement account,2021 SIPP,0,3148,0.536037604,0.578998717,1.14E-05
+Probability 1,prob,White non-Hispanic,Had retirement account,2021 SIPP,1.4,3596,0.606011219,0.578998717,1.14E-05
+Probability 2,prob,White non-Hispanic,Had retirement account,2021 SIPP,3,3362,0.590527463,0.578998717,1.14E-05
+Probability 3,prob,White non-Hispanic,Had retirement account,2021 SIPP,7,3851,0.562594663,0.578998717,1.14E-05
+Opt-in 1,nonprob,All adults,Fully or partially vaccinated,CDC COVID Data Tracker 6-29-2021,0,4912,0.63626704,0.662,0
+Opt-in 2,nonprob,All adults,Fully or partially vaccinated,CDC COVID Data Tracker 6-29-2021,0,4931,0.671403986,0.662,0
+Opt-in 3,nonprob,All adults,Fully or partially vaccinated,CDC COVID Data Tracker 6-29-2021,0,4955,0.680779829,0.662,0
+Probability 1,prob,All adults,Fully or partially vaccinated,CDC COVID Data Tracker 6-29-2021,1.4,5027,0.691344134,0.662,0
+Probability 2,prob,All adults,Fully or partially vaccinated,CDC COVID Data Tracker 6-29-2021,3,5147,0.673192685,0.662,0
+Probability 3,prob,All adults,Fully or partially vaccinated,CDC COVID Data Tracker 7-21-2021,7,4965,0.674708116,0.684,0
+Opt-in 1,nonprob,All adults,Voted Trump in 2020,FEC,0,4912,0.430635364,0.4686,0
+Opt-in 2,nonprob,All adults,Voted Trump in 2020,FEC,0,4931,0.44266897,0.4686,0
+Opt-in 3,nonprob,All adults,Voted Trump in 2020,FEC,0,4955,0.442498483,0.4686,0
+Probability 1,prob,All adults,Voted Trump in 2020,FEC,1.4,5027,0.418478874,0.4686,0
+Probability 2,prob,All adults,Voted Trump in 2020,FEC,3,5147,0.460318167,0.4686,0
+Probability 3,prob,All adults,Voted Trump in 2020,FEC,7,4965,0.431951426,0.4686,0
+Probability 3,prob,18-29,Unable to work because of COVID-19,July 2021 CPS Monthly,7,363,0.005122374,0.009265056,1.29E-06
+Probability 3,prob,30-64,Unable to work because of COVID-19,July 2021 CPS Monthly,7,3195,0.01772672,0.014876391,5.94E-07
+Probability 3,prob,65+,Unable to work because of COVID-19,July 2021 CPS Monthly,7,1400,0.005623625,0.004540957,3.37E-07
+Probability 3,prob,College grad,Unable to work because of COVID-19,July 2021 CPS Monthly,7,2166,0.00556876,0.010760248,6.92E-07
+Probability 3,prob,HS or less,Unable to work because of COVID-19,July 2021 CPS Monthly,7,1054,0.015797448,0.011603108,6.72E-07
+Probability 3,prob,Some college,Unable to work because of COVID-19,July 2021 CPS Monthly,7,1743,0.017431855,0.012139511,8.87E-07
+Probability 3,prob,All adults,Unable to work because of COVID-19,July 2021 CPS Monthly,7,4965,0.012884288,0.01145295,2.78E-07
+Probability 3,prob,Black non-Hispanic,Unable to work because of COVID-19,July 2021 CPS Monthly,7,422,0.017235434,0.013319526,2.62E-06
+Probability 3,prob,Hispanic,Unable to work because of COVID-19,July 2021 CPS Monthly,7,318,0.037324978,0.017145673,2.77E-06
+Probability 3,prob,White non-Hispanic,Unable to work because of COVID-19,July 2021 CPS Monthly,7,3851,0.006658981,0.008927068,3.00E-07
+Probability 3,prob,18-29,Employed last week,July 2021 CPS Monthly,7,363,0.658749818,0.680331721,3.06E-05
+Probability 3,prob,30-64,Employed last week,July 2021 CPS Monthly,7,3195,0.677020348,0.726895278,8.05E-06
+Probability 3,prob,65+,Employed last week,July 2021 CPS Monthly,7,1400,0.19785987,0.170953031,1.06E-05
+Probability 3,prob,College grad,Employed last week,July 2021 CPS Monthly,7,2166,0.693309377,0.691638899,1.39E-05
+Probability 3,prob,HS or less,Employed last week,July 2021 CPS Monthly,7,1054,0.439343967,0.500488627,1.47E-05
+Probability 3,prob,Some college,Employed last week,July 2021 CPS Monthly,7,1743,0.580119134,0.601180282,1.77E-05
+Probability 3,prob,All adults,Employed last week,July 2021 CPS Monthly,7,4965,0.56766366,0.594150591,5.92E-06
+Probability 3,prob,Black non-Hispanic,Employed last week,July 2021 CPS Monthly,7,422,0.485140165,0.569708183,4.88E-05
+Probability 3,prob,Hispanic,Employed last week,July 2021 CPS Monthly,7,318,0.637111319,0.633936304,3.81E-05
+Probability 3,prob,White non-Hispanic,Employed last week,July 2021 CPS Monthly,7,3851,0.55712716,0.584797618,8.22E-06
+Opt-in 1,nonprob,18-29,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1170,0.188283448,0.011781414,1.66E-06
+Opt-in 2,nonprob,18-29,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1031,0.21665868,0.011781414,1.66E-06
+Opt-in 3,nonprob,18-29,Unable to work because of COVID-19,June 2021 CPS Monthly,0,693,0.167071221,0.011781414,1.66E-06
+Probability 1,prob,18-29,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,585,0.031319008,0.011781414,1.66E-06
+Probability 2,prob,18-29,Unable to work because of COVID-19,June 2021 CPS Monthly,3,655,0.054694908,0.011781414,1.66E-06
+Opt-in 1,nonprob,30-64,Unable to work because of COVID-19,June 2021 CPS Monthly,0,2637,0.08377588,0.016338618,6.51E-07
+Opt-in 2,nonprob,30-64,Unable to work because of COVID-19,June 2021 CPS Monthly,0,2564,0.095384143,0.016338618,6.51E-07
+Opt-in 3,nonprob,30-64,Unable to work because of COVID-19,June 2021 CPS Monthly,0,3087,0.068751963,0.016338618,6.51E-07
+Probability 1,prob,30-64,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,3010,0.019660682,0.016338618,6.51E-07
+Probability 2,prob,30-64,Unable to work because of COVID-19,June 2021 CPS Monthly,3,3192,0.026035863,0.016338618,6.51E-07
+Opt-in 1,nonprob,65+,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1105,0.003920463,0.006633819,4.90E-07
+Opt-in 2,nonprob,65+,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1336,0.0057794,0.006633819,4.90E-07
+Opt-in 3,nonprob,65+,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1175,0.004313525,0.006633819,4.90E-07
+Probability 1,prob,65+,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,1432,0.00435107,0.006633819,4.90E-07
+Probability 2,prob,65+,Unable to work because of COVID-19,June 2021 CPS Monthly,3,1261,0.011273459,0.006633819,4.90E-07
+Opt-in 1,nonprob,College grad,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1598,0.105258663,0.013956155,9.03E-07
+Opt-in 2,nonprob,College grad,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1953,0.149648897,0.013956155,9.03E-07
+Opt-in 3,nonprob,College grad,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1799,0.063871878,0.013956155,9.03E-07
+Probability 1,prob,College grad,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,1867,0.010043961,0.013956155,9.03E-07
+Probability 2,prob,College grad,Unable to work because of COVID-19,June 2021 CPS Monthly,3,2147,0.013424077,0.013956155,9.03E-07
+Opt-in 1,nonprob,HS or less,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1756,0.07053163,0.012175653,6.99E-07
+Opt-in 2,nonprob,HS or less,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1439,0.071591003,0.012175653,6.99E-07
+Opt-in 3,nonprob,HS or less,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1511,0.088021852,0.012175653,6.99E-07
+Probability 1,prob,HS or less,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,1617,0.025137433,0.012175653,6.99E-07
+Probability 2,prob,HS or less,Unable to work because of COVID-19,June 2021 CPS Monthly,3,1628,0.048525021,0.012175653,6.99E-07
+Opt-in 1,nonprob,Some college,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1558,0.089918489,0.013954905,1.02E-06
+Opt-in 2,nonprob,Some college,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1539,0.086915988,0.013954905,1.02E-06
+Opt-in 3,nonprob,Some college,Unable to work because of COVID-19,June 2021 CPS Monthly,0,1645,0.067393413,0.013954905,1.02E-06
+Probability 1,prob,Some college,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,1543,0.020258993,0.013954905,1.02E-06
+Probability 2,prob,Some college,Unable to work because of COVID-19,June 2021 CPS Monthly,3,1363,0.019340864,0.013954905,1.02E-06
+Opt-in 1,nonprob,All adults,Unable to work because of COVID-19,June 2021 CPS Monthly,0,4912,0.087539946,0.013270089,3.22E-07
+Opt-in 2,nonprob,All adults,Unable to work because of COVID-19,June 2021 CPS Monthly,0,4931,0.101149291,0.013270089,3.22E-07
+Opt-in 3,nonprob,All adults,Unable to work because of COVID-19,June 2021 CPS Monthly,0,4955,0.073681431,0.013270089,3.22E-07
+Probability 1,prob,All adults,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,5027,0.018853589,0.013270089,3.22E-07
+Probability 2,prob,All adults,Unable to work because of COVID-19,June 2021 CPS Monthly,3,5147,0.028297777,0.013270089,3.22E-07
+Opt-in 1,nonprob,Black non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,656,0.117046628,0.012576057,2.50E-06
+Opt-in 2,nonprob,Black non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,676,0.133349678,0.012576057,2.50E-06
+Opt-in 3,nonprob,Black non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,623,0.103240272,0.012576057,2.50E-06
+Probability 1,prob,Black non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,470,0.022679456,0.012576057,2.50E-06
+Probability 2,prob,Black non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,3,529,0.038957308,0.012576057,2.50E-06
+Opt-in 1,nonprob,Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,904,0.210976918,0.018872953,3.08E-06
+Opt-in 2,nonprob,Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,852,0.217130472,0.018872953,3.08E-06
+Opt-in 3,nonprob,Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,884,0.196468984,0.018872953,3.08E-06
+Probability 1,prob,Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,575,0.0272801,0.018872953,3.08E-06
+Probability 2,prob,Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,3,809,0.056259991,0.018872953,3.08E-06
+Opt-in 1,nonprob,White non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,3079,0.051885093,0.011689405,3.89E-07
+Opt-in 2,nonprob,White non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,3245,0.07492642,0.011689405,3.89E-07
+Opt-in 3,nonprob,White non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,0,3148,0.037531073,0.011689405,3.89E-07
+Probability 1,prob,White non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,1.4,3596,0.015229586,0.011689405,3.89E-07
+Probability 2,prob,White non-Hispanic,Unable to work because of COVID-19,June 2021 CPS Monthly,3,3362,0.019375048,0.011689405,3.89E-07
+Opt-in 1,nonprob,18-29,Employed last week,June 2021 CPS Monthly,0,1170,0.670309855,0.667594194,3.16E-05
+Opt-in 2,nonprob,18-29,Employed last week,June 2021 CPS Monthly,0,1031,0.656081084,0.667594194,3.16E-05
+Opt-in 3,nonprob,18-29,Employed last week,June 2021 CPS Monthly,0,693,0.655290072,0.667594194,3.16E-05
+Probability 1,prob,18-29,Employed last week,June 2021 CPS Monthly,1.4,585,0.631824821,0.667594194,3.16E-05
+Probability 2,prob,18-29,Employed last week,June 2021 CPS Monthly,3,655,0.727337612,0.667594194,3.16E-05
+Opt-in 1,nonprob,30-64,Employed last week,June 2021 CPS Monthly,0,2637,0.559696693,0.72372111,8.10E-06
+Opt-in 2,nonprob,30-64,Employed last week,June 2021 CPS Monthly,0,2564,0.593777519,0.72372111,8.10E-06
+Opt-in 3,nonprob,30-64,Employed last week,June 2021 CPS Monthly,0,3087,0.617898673,0.72372111,8.10E-06
+Probability 1,prob,30-64,Employed last week,June 2021 CPS Monthly,1.4,3010,0.677644976,0.72372111,8.10E-06
+Probability 2,prob,30-64,Employed last week,June 2021 CPS Monthly,3,3192,0.688576546,0.72372111,8.10E-06
+Opt-in 1,nonprob,65+,Employed last week,June 2021 CPS Monthly,0,1105,0.130587156,0.171806276,1.06E-05
+Opt-in 2,nonprob,65+,Employed last week,June 2021 CPS Monthly,0,1336,0.129665906,0.171806276,1.06E-05
+Opt-in 3,nonprob,65+,Employed last week,June 2021 CPS Monthly,0,1175,0.157273125,0.171806276,1.06E-05
+Probability 1,prob,65+,Employed last week,June 2021 CPS Monthly,1.4,1432,0.162333264,0.171806276,1.06E-05
+Probability 2,prob,65+,Employed last week,June 2021 CPS Monthly,3,1261,0.215608498,0.171806276,1.06E-05
+Opt-in 1,nonprob,College grad,Employed last week,June 2021 CPS Monthly,0,1598,0.619928728,0.689564089,1.40E-05
+Opt-in 2,nonprob,College grad,Employed last week,June 2021 CPS Monthly,0,1953,0.634839707,0.689564089,1.40E-05
+Opt-in 3,nonprob,College grad,Employed last week,June 2021 CPS Monthly,0,1799,0.662961156,0.689564089,1.40E-05
+Probability 1,prob,College grad,Employed last week,June 2021 CPS Monthly,1.4,1867,0.684685303,0.689564089,1.40E-05
+Probability 2,prob,College grad,Employed last week,June 2021 CPS Monthly,3,2147,0.702991568,0.689564089,1.40E-05
+Opt-in 1,nonprob,HS or less,Employed last week,June 2021 CPS Monthly,0,1756,0.380974311,0.49610308,1.45E-05
+Opt-in 2,nonprob,HS or less,Employed last week,June 2021 CPS Monthly,0,1439,0.382996084,0.49610308,1.45E-05
+Opt-in 3,nonprob,HS or less,Employed last week,June 2021 CPS Monthly,0,1511,0.394293778,0.49610308,1.45E-05
+Probability 1,prob,HS or less,Employed last week,June 2021 CPS Monthly,1.4,1617,0.445583619,0.49610308,1.45E-05
+Probability 2,prob,HS or less,Employed last week,June 2021 CPS Monthly,3,1628,0.506879261,0.49610308,1.45E-05
+Opt-in 1,nonprob,Some college,Employed last week,June 2021 CPS Monthly,0,1558,0.484859944,0.597147182,1.78E-05
+Opt-in 2,nonprob,Some college,Employed last week,June 2021 CPS Monthly,0,1539,0.522080219,0.597147182,1.78E-05
+Opt-in 3,nonprob,Some college,Employed last week,June 2021 CPS Monthly,0,1645,0.530495774,0.597147182,1.78E-05
+Probability 1,prob,Some college,Employed last week,June 2021 CPS Monthly,1.4,1543,0.568110346,0.597147182,1.78E-05
+Probability 2,prob,Some college,Employed last week,June 2021 CPS Monthly,3,1363,0.594714058,0.597147182,1.78E-05
+Opt-in 1,nonprob,All adults,Employed last week,June 2021 CPS Monthly,0,4912,0.488876677,0.590162984,5.94E-06
+Opt-in 2,nonprob,All adults,Employed last week,June 2021 CPS Monthly,0,4931,0.505873364,0.590162984,5.94E-06
+Opt-in 3,nonprob,All adults,Employed last week,June 2021 CPS Monthly,0,4955,0.524798505,0.590162984,5.94E-06
+Probability 1,prob,All adults,Employed last week,June 2021 CPS Monthly,1.4,5027,0.558990613,0.590162984,5.94E-06
+Probability 2,prob,All adults,Employed last week,June 2021 CPS Monthly,3,5147,0.59512474,0.590162984,5.94E-06
+Opt-in 1,nonprob,Black non-Hispanic,Employed last week,June 2021 CPS Monthly,0,656,0.637888846,0.570967657,4.92E-05
+Opt-in 2,nonprob,Black non-Hispanic,Employed last week,June 2021 CPS Monthly,0,676,0.496806209,0.570967657,4.92E-05
+Opt-in 3,nonprob,Black non-Hispanic,Employed last week,June 2021 CPS Monthly,0,623,0.544339456,0.570967657,4.92E-05
+Probability 1,prob,Black non-Hispanic,Employed last week,June 2021 CPS Monthly,1.4,470,0.507480275,0.570967657,4.92E-05
+Probability 2,prob,Black non-Hispanic,Employed last week,June 2021 CPS Monthly,3,529,0.57254351,0.570967657,4.92E-05
+Opt-in 1,nonprob,Hispanic,Employed last week,June 2021 CPS Monthly,0,904,0.596666232,0.626582334,3.89E-05
+Opt-in 2,nonprob,Hispanic,Employed last week,June 2021 CPS Monthly,0,852,0.578980893,0.626582334,3.89E-05
+Opt-in 3,nonprob,Hispanic,Employed last week,June 2021 CPS Monthly,0,884,0.62470119,0.626582334,3.89E-05
+Probability 1,prob,Hispanic,Employed last week,June 2021 CPS Monthly,1.4,575,0.562586292,0.626582334,3.89E-05
+Probability 2,prob,Hispanic,Employed last week,June 2021 CPS Monthly,3,809,0.612787191,0.626582334,3.89E-05
+Opt-in 1,nonprob,White non-Hispanic,Employed last week,June 2021 CPS Monthly,0,3079,0.423030926,0.581384235,8.20E-06
+Opt-in 2,nonprob,White non-Hispanic,Employed last week,June 2021 CPS Monthly,0,3245,0.482105679,0.581384235,8.20E-06
+Opt-in 3,nonprob,White non-Hispanic,Employed last week,June 2021 CPS Monthly,0,3148,0.487727287,0.581384235,8.20E-06
+Probability 1,prob,White non-Hispanic,Employed last week,June 2021 CPS Monthly,1.4,3596,0.568501426,0.581384235,8.20E-06
+Probability 2,prob,White non-Hispanic,Employed last week,June 2021 CPS Monthly,3,3362,0.59615848,0.581384235,8.20E-06
+Opt-in 1,nonprob,All adults,Voted in 2020,U.S. Elections Project,0,4912,0.656096454,0.662,0
+Opt-in 2,nonprob,All adults,Voted in 2020,U.S. Elections Project,0,4931,0.658078383,0.662,0
+Opt-in 3,nonprob,All adults,Voted in 2020,U.S. Elections Project,0,4955,0.691957326,0.662,0
+Probability 1,prob,All adults,Voted in 2020,U.S. Elections Project,1.4,5027,0.751220758,0.662,0
+Probability 2,prob,All adults,Voted in 2020,U.S. Elections Project,3,5147,0.738358503,0.662,0
+Probability 3,prob,All adults,Voted in 2020,U.S. Elections Project,7,4965,0.743517182,0.662,0
